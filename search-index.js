@@ -214,5 +214,11 @@ window.IKG_INDEX=[
   "u": "/plan-your-trip#best-time",
   "d": "Month-by-month weather, crowds and seasonal highlights.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Incheon Airport to Seoul: AREX vs Bus vs Taxi",
+  "u": "/incheon-airport-to-seoul",
+  "d": "Compare time, cost and comfort for the AREX train, airport bus and taxi.",
+  "s": "Getting Around"
  }
 ];
