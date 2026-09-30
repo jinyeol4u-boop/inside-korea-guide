@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://korea.journal5188.com/sitemap.xml
