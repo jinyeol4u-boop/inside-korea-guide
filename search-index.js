@@ -1,4 +1,5 @@
-// 검색 목록: 새 글을 발행하면 아래 배열에 {t:'제목', u:'파일명.html', d:'한 줄 설명'} 형식으로 추가하세요
+// 검색 목록 + 새 글 목록: 새 기사는 {t, u, d, s, p, i} 형식으로 맨 끝에 추가
+// p = 발행일(한국시간 YYYY-MM-DD, 홈 'Published today'에 사용), i = 대표 이미지 경로(/images/<slug>.svg)
 window.IKG_INDEX=[
  {
   "t": "Destinations",
@@ -218,12 +219,16 @@ window.IKG_INDEX=[
  {
   "t": "Incheon Airport to Seoul: AREX vs Bus vs Taxi",
   "u": "/incheon-airport-to-seoul",
+  "p": "2026-09-30",
+  "i": "/images/incheon-airport-to-seoul.svg",
   "d": "Compare time, cost and comfort for the AREX train, airport bus and taxi.",
   "s": "Getting Around"
  },
  {
   "t": "Autumn Foliage in Korea: Where and When to See It",
   "u": "/autumn-foliage-in-korea",
+  "p": "2026-10-01",
+  "i": "/images/autumn-foliage-in-korea.svg",
   "d": "2026 forecast peak dates for Seoraksan, Bukhansan, Jirisan, Naejangsan and Hallasan, plus where to go.",
   "s": "Itineraries"
  }

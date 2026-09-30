@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /voices-admin
+Disallow: /api/
 
 Sitemap: https://korea.journal5188.com/sitemap.xml
