@@ -220,5 +220,11 @@ window.IKG_INDEX=[
   "u": "/incheon-airport-to-seoul",
   "d": "Compare time, cost and comfort for the AREX train, airport bus and taxi.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Autumn Foliage in Korea: Where and When to See It",
+  "u": "/autumn-foliage-in-korea",
+  "d": "2026 forecast peak dates for Seoraksan, Bukhansan, Jirisan, Naejangsan and Hallasan, plus where to go.",
+  "s": "Itineraries"
  }
 ];
