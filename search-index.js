@@ -255,5 +255,13 @@ window.IKG_INDEX=[
   "i": "/images/k-eta-who-needs-it-apply.svg",
   "d": "Fee, 3-year validity, the 22 countries exempt through 2026, the e-Arrival card and how to apply.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Seoul in 3 Days: A Realistic First-Timer Itinerary",
+  "u": "/seoul-3-day-itinerary",
+  "p": "2026-10-02",
+  "i": "/images/seoul-3-day-itinerary.svg",
+  "d": "Palaces, Gwangjang Market, DDP, Namsan, Gangnam and Hongdae in three days, with palace closing days.",
+  "s": "Itineraries"
  }
 ];

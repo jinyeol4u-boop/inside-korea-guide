@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Three Seoul days illustrated: palace, tower and modern skyline">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE3B8"/><stop offset="1" stop-color="#FFF6E5"/></linearGradient>
+<linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F2A5C"/><stop offset="1" stop-color="#5B4B9A"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#BFE6FF"/><stop offset="1" stop-color="#E9F7FF"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="#FFF9EE"/>
+<!-- panel 1 -->
+<rect x="30" y="30" width="360" height="690" rx="28" fill="url(#sky)"/>
+<circle cx="300" cy="140" r="52" fill="#FF8A3D"/>
+<path d="M60 430 Q210 330 360 430 L340 450 Q210 370 80 450 Z" fill="#2F6B4F"/>
+<rect x="95" y="450" width="230" height="110" fill="#C8412F"/>
+<path d="M70 450 Q210 360 350 450 L330 468 Q210 395 90 468 Z" fill="#2C3E50"/>
+<rect x="115" y="500" width="40" height="60" fill="#F3C969"/><rect x="190" y="500" width="40" height="60" fill="#F3C969"/><rect x="265" y="500" width="40" height="60" fill="#F3C969"/>
+<rect x="60" y="560" width="300" height="20" fill="#9B8B7A"/>
+<path d="M60 640 h300" stroke="#E8B04A" stroke-width="10" stroke-dasharray="26 16"/>
+<circle cx="110" cy="85" r="34" fill="#E94F37"/><text x="110" y="97" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#fff">1</text>
+<!-- panel 2 -->
+<rect x="420" y="30" width="360" height="690" rx="28" fill="url(#night)"/>
+<circle cx="520" cy="120" r="34" fill="#FFF3B0"/>
+<g fill="#fff" opacity=".8"><circle cx="640" cy="90" r="3"/><circle cx="700" cy="150" r="3"/><circle cx="580" cy="200" r="2"/><circle cx="730" cy="80" r="2"/><circle cx="470" cy="210" r="2"/></g>
+<path d="M420 600 Q600 380 780 600 V720 H420 Z" fill="#274C77"/>
+<rect x="594" y="260" width="12" height="150" fill="#E8EEF5"/>
+<ellipse cx="600" cy="300" rx="30" ry="14" fill="#F4F1DE"/><rect x="590" y="240" width="20" height="40" fill="#F4F1DE"/><rect x="598" y="190" width="4" height="60" fill="#F4F1DE"/>
+<path d="M600 420 Q540 520 470 620" stroke="#FFD166" stroke-width="5" fill="none"/>
+<rect x="455" y="610" width="60" height="34" rx="8" fill="#EF476F"/><rect x="465" y="618" width="14" height="14" fill="#fff"/><rect x="488" y="618" width="14" height="14" fill="#fff"/>
+<path d="M700 640 q40 -50 80 0 q-40 30 -80 0 Z" fill="#06D6A0" opacity=".9"/>
+<circle cx="470" cy="85" r="34" fill="#06A77D"/><text x="470" y="97" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#fff">2</text>
+<!-- panel 3 -->
+<rect x="810" y="30" width="360" height="690" rx="28" fill="url(#blue)"/>
+<rect x="840" y="330" width="70" height="300" fill="#4D96FF"/><rect x="925" y="250" width="80" height="380" fill="#6C63FF"/><rect x="1020" y="380" width="70" height="250" fill="#22B8CF"/><rect x="1100" y="320" width="50" height="310" fill="#3A86FF"/>
+<g fill="#FFFFFF" opacity=".85"><rect x="855" y="350" width="14" height="14"/><rect x="880" y="350" width="14" height="14"/><rect x="855" y="390" width="14" height="14"/><rect x="945" y="280" width="14" height="14"/><rect x="975" y="280" width="14" height="14"/><rect x="945" y="330" width="14" height="14"/><rect x="975" y="330" width="14" height="14"/><rect x="1035" y="410" width="14" height="14"/><rect x="1060" y="410" width="14" height="14"/></g>
+<rect x="810" y="630" width="360" height="90" fill="#3B5BA5"/>
+<path d="M880 630 q20 -90 40 0 M960 630 q20 -120 40 0 M1040 630 q20 -90 40 0" stroke="#8ED6FF" stroke-width="6" fill="none"/>
+<circle cx="860" cy="85" r="34" fill="#3A86FF"/><text x="860" y="97" font-family="Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#fff">3</text>
+</svg>
