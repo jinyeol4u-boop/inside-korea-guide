@@ -231,5 +231,13 @@ window.IKG_INDEX=[
   "i": "/images/autumn-foliage-in-korea.svg",
   "d": "2026 forecast peak dates for Seoraksan, Bukhansan, Jirisan, Naejangsan and Hallasan, plus where to go.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Essential Apps for Traveling in Korea",
+  "u": "/essential-apps-for-korea-travel",
+  "p": "2026-10-01",
+  "i": "/images/essential-apps-for-korea-travel.svg",
+  "d": "Maps, translation, taxi, train and payment apps worth installing before you fly.",
+  "s": "Plan Your Trip"
  }
 ];
