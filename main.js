@@ -80,4 +80,20 @@
     if(note) note.textContent=todays.length?nice(today)+', Korea time. New guides go up every day.':'Nothing new yet today (Korea time). Here are the most recent guides.';
     latest.innerHTML='<div class="fresh-list">'+show.map(function(x){return card(x,x.p===today);}).join('')+'</div>';
   }
+
+  /* ---------- Latest approved Korea Voices on the homepage ---------- */
+  var hv=document.getElementById('home-voices');
+  if(hv&&window.fetch){
+    fetch('/api/voices?limit=3').then(function(r){return r.ok?r.json():null;}).then(function(j){
+      if(!j||!j.items||!j.items.length) return;
+      j.items.forEach(function(v){
+        var a=document.createElement('a'); a.className='hv'; a.href='/voices';
+        var b=document.createElement('b'); b.textContent=v.title; a.appendChild(b);
+        var p=document.createElement('span'); p.className='hv-body'; p.textContent=v.body.length>160?v.body.slice(0,157)+'…':v.body; a.appendChild(p);
+        var m=document.createElement('span'); m.className='hv-meta'; m.textContent=(v.name||'Anonymous traveler')+(v.country?' · '+v.country:''); a.appendChild(m);
+        hv.appendChild(a);
+      });
+      hv.hidden=false;
+    }).catch(function(){});
+  }
 })();
