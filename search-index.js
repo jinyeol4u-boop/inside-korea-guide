@@ -247,5 +247,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-neighborhoods-first-timers.svg",
   "d": "Compare Myeongdong, Insadong, Bukchon, Hongdae, Itaewon, Seongsu and Gangnam by vibe and subway stop.",
   "s": "Destinations"
+ },
+ {
+  "t": "K-ETA Explained: Who Needs It and How to Apply",
+  "u": "/k-eta-who-needs-it-apply",
+  "p": "2026-10-01",
+  "i": "/images/k-eta-who-needs-it-apply.svg",
+  "d": "Fee, 3-year validity, the 22 countries exempt through 2026, the e-Arrival card and how to apply.",
+  "s": "Plan Your Trip"
  }
 ];

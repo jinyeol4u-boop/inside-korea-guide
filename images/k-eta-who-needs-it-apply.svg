@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a passport, a smartphone showing an approved check mark and a paper plane over a map">
+<rect width="1200" height="750" fill="#EAF6F0"/>
+<circle cx="160" cy="140" r="110" fill="#CDEBDD"/><circle cx="1050" cy="640" r="160" fill="#FFE3C7"/><circle cx="1040" cy="120" r="70" fill="#D8E6FF"/>
+<path d="M0 640 Q300 560 600 620 T1200 590 V750 H0z" fill="#BFE3CF"/>
+<g transform="rotate(-8 330 400)">
+<rect x="150" y="190" width="380" height="460" rx="28" fill="#1F4E8C"/><rect x="170" y="210" width="340" height="420" rx="18" fill="#2A63AE"/>
+<circle cx="340" cy="360" r="82" fill="none" stroke="#F5C518" stroke-width="8"/>
+<ellipse cx="340" cy="360" rx="34" ry="82" fill="none" stroke="#F5C518" stroke-width="6"/>
+<path d="M258 360 H422 M270 322 H410 M270 398 H410" stroke="#F5C518" stroke-width="6" fill="none"/>
+<rect x="250" y="500" width="180" height="22" rx="11" fill="#F5C518"/><rect x="280" y="540" width="120" height="16" rx="8" fill="#F5C518" opacity=".7"/>
+</g>
+<rect x="640" y="110" width="330" height="560" rx="48" fill="#23304A"/><rect x="658" y="140" width="294" height="500" rx="30" fill="#FFFFFF"/><rect x="755" y="122" width="100" height="10" rx="5" fill="#3B4A6B"/>
+<rect x="685" y="175" width="240" height="26" rx="13" fill="#E3E9F3"/>
+<rect x="685" y="225" width="240" height="150" rx="20" fill="#DDF2E6"/>
+<circle cx="805" cy="300" r="46" fill="#2FB67C"/><path d="M782 300 l17 18 l30 -34" stroke="#fff" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="685" y="400" width="240" height="18" rx="9" fill="#E3E9F3"/><rect x="685" y="436" width="170" height="18" rx="9" fill="#E3E9F3"/>
+<rect x="685" y="486" width="240" height="64" rx="18" fill="#F2A93B"/><rect x="740" y="510" width="130" height="16" rx="8" fill="#fff"/>
+<rect x="685" y="570" width="240" height="40" rx="14" fill="#CFE8FF"/>
+<path d="M980 330 L1130 250 L1085 400 L1050 360 L1020 395 L1015 350z" fill="#fff" stroke="#2E9CCA" stroke-width="8" stroke-linejoin="round"/>
+<path d="M1015 350 L1130 250" stroke="#2E9CCA" stroke-width="6" fill="none"/>
+<path d="M980 420 q40 40 100 20" stroke="#2E9CCA" stroke-width="5" fill="none" stroke-dasharray="4 14" stroke-linecap="round"/>
+</svg>
