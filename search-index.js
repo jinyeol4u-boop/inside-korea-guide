@@ -239,5 +239,13 @@ window.IKG_INDEX=[
   "i": "/images/essential-apps-for-korea-travel.svg",
   "d": "Maps, translation, taxi, train and payment apps worth installing before you fly.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "First Time in Seoul: The Neighborhoods Worth Your Time",
+  "u": "/seoul-neighborhoods-first-timers",
+  "p": "2026-10-01",
+  "i": "/images/seoul-neighborhoods-first-timers.svg",
+  "d": "Compare Myeongdong, Insadong, Bukchon, Hongdae, Itaewon, Seongsu and Gangnam by vibe and subway stop.",
+  "s": "Destinations"
  }
 ];
