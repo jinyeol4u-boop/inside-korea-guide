@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a smartphone with an eSIM chip, a SIM card and a pocket Wi-Fi router with signal waves">
+<rect width="1200" height="750" fill="#EAF3FB"/>
+<circle cx="130" cy="130" r="100" fill="#D3E7F8"/><circle cx="1070" cy="640" r="170" fill="#FFE6C9"/><circle cx="1060" cy="110" r="64" fill="#DDF2E6"/>
+<path d="M0 650 Q320 570 620 630 T1200 600 V750 H0z" fill="#BFDDF2"/>
+<rect x="400" y="90" width="330" height="560" rx="48" fill="#23304A"/><rect x="418" y="120" width="294" height="500" rx="30" fill="#FFFFFF"/><rect x="515" y="102" width="100" height="10" rx="5" fill="#3B4A6B"/>
+<path d="M470 260 q95 -85 190 0" stroke="#2E9CCA" stroke-width="14" fill="none" stroke-linecap="round"/>
+<path d="M500 300 q65 -58 130 0" stroke="#2E9CCA" stroke-width="14" fill="none" stroke-linecap="round"/>
+<path d="M530 340 q35 -30 70 0" stroke="#2E9CCA" stroke-width="14" fill="none" stroke-linecap="round"/>
+<circle cx="565" cy="372" r="12" fill="#2E9CCA"/>
+<rect x="470" y="420" width="190" height="110" rx="18" fill="#DDF2E6"/>
+<rect x="520" y="440" width="90" height="70" rx="12" fill="#2FB67C"/>
+<path d="M535 462 h60 M535 476 h60 M535 490 h60 M552 450 v52 M578 450 v52" stroke="#DDF2E6" stroke-width="5" fill="none"/>
+<rect x="470" y="550" width="190" height="40" rx="14" fill="#F2A93B"/><rect x="515" y="562" width="100" height="16" rx="8" fill="#fff"/>
+<g transform="rotate(-12 200 470)">
+<path d="M90 360 h160 l50 50 v200 a24 24 0 0 1 -24 24 h-186 a24 24 0 0 1 -24 -24 v-226 a24 24 0 0 1 24 -24z" fill="#F5C518"/>
+<rect x="130" y="450" width="130" height="110" rx="14" fill="#E0A800"/>
+<path d="M130 480 h130 M130 505 h130 M130 530 h130 M180 450 v110 M215 450 v110" stroke="#F5C518" stroke-width="5" fill="none"/>
+</g>
+<g transform="rotate(8 960 430)">
+<rect x="830" y="300" width="270" height="280" rx="70" fill="#E94E77"/>
+<rect x="852" y="322" width="226" height="236" rx="55" fill="#F2799A"/>
+<circle cx="965" cy="400" r="26" fill="#fff"/><circle cx="965" cy="400" r="12" fill="#2FB67C"/>
+<rect x="905" y="470" width="120" height="16" rx="8" fill="#fff"/><rect x="925" y="500" width="80" height="12" rx="6" fill="#fff" opacity=".7"/>
+</g>
+<path d="M900 250 q65 -60 130 0" stroke="#E94E77" stroke-width="10" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M925 220 q40 -45 80 0" stroke="#E94E77" stroke-width="10" fill="none" stroke-linecap="round" opacity=".6"/>
+<path d="M765 520 q40 30 60 -10" stroke="#2E9CCA" stroke-width="5" fill="none" stroke-dasharray="4 14" stroke-linecap="round"/>
+</svg>

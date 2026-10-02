@@ -263,5 +263,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-3-day-itinerary.svg",
   "d": "Palaces, Gwangjang Market, DDP, Namsan, Gangnam and Hongdae in three days, with palace closing days.",
   "s": "Itineraries"
+ },
+ {
+  "t": "eSIM vs SIM Card vs Pocket Wi-Fi in Korea",
+  "u": "/korea-esim-vs-sim-vs-pocket-wifi",
+  "p": "2026-10-02",
+  "i": "/images/korea-esim-vs-sim-vs-pocket-wifi.svg",
+  "d": "Compare LG U+ eSIM, SIM card and pocket Wi-Fi prices, phone numbers, deposits and airport pickup.",
+  "s": "Plan Your Trip"
  }
 ];
