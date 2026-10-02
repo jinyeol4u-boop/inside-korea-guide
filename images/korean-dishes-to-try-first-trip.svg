@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a bibimbap bowl, a table grill with meat, a dish of rice cakes and a spoon with chopsticks">
+<rect width="1200" height="750" fill="#FFF4E3"/>
+<circle cx="110" cy="120" r="95" fill="#FFE0B8"/><circle cx="1090" cy="650" r="160" fill="#FFD3CC"/><circle cx="1080" cy="110" r="62" fill="#DDF2E6"/>
+<rect x="0" y="600" width="1200" height="150" fill="#E8C9A0"/>
+<!-- bibimbap bowl -->
+<ellipse cx="400" cy="560" rx="190" ry="34" fill="#C9A06B"/>
+<path d="M210 400 h380 a190 170 0 0 1 -380 0z" fill="#2B3A55"/>
+<ellipse cx="400" cy="400" rx="190" ry="48" fill="#FFFFFF"/>
+<path d="M290 400 a110 30 0 0 1 110 -30 v30z" fill="#7BC043"/>
+<path d="M400 370 a110 30 0 0 1 110 30 h-110z" fill="#F2A93B"/>
+<path d="M290 400 a110 30 0 0 0 110 30 v-30z" fill="#8B5A3C"/>
+<path d="M400 430 a110 30 0 0 0 110 -30 h-110z" fill="#F4EBD0"/>
+<circle cx="400" cy="400" r="34" fill="#FFFFFF"/><circle cx="400" cy="400" r="17" fill="#FFB800"/>
+<circle cx="440" cy="392" r="9" fill="#E8382F"/>
+<!-- grill -->
+<ellipse cx="860" cy="545" rx="210" ry="40" fill="#3A3A44"/>
+<ellipse cx="860" cy="520" rx="200" ry="52" fill="#555563"/>
+<ellipse cx="860" cy="515" rx="170" ry="38" fill="#2C2C35"/>
+<g stroke="#8A8A9A" stroke-width="5"><path d="M740 500 q120 -35 240 0 M730 518 q130 -40 260 0 M745 536 q115 -30 230 0"/></g>
+<rect x="760" y="478" width="110" height="38" rx="14" fill="#F4A6A0" transform="rotate(-8 815 497)"/>
+<rect x="760" y="478" width="110" height="12" rx="6" fill="#FFF" opacity=".7" transform="rotate(-8 815 497)"/>
+<rect x="880" y="490" width="100" height="36" rx="14" fill="#E57373" transform="rotate(6 930 508)"/>
+<path d="M800 420 q-15 -35 5 -60 M860 430 q-15 -40 8 -75 M920 420 q-15 -35 5 -60" stroke="#FFFFFF" stroke-width="8" fill="none" stroke-linecap="round" opacity=".7"/>
+<!-- rice cakes dish -->
+<ellipse cx="640" cy="640" rx="120" ry="24" fill="#FFFFFF" stroke="#E0C9A6" stroke-width="4"/>
+<g fill="#F7E7CE" stroke="#EDD3AA" stroke-width="3">
+<rect x="560" y="600" width="70" height="30" rx="14" transform="rotate(-10 595 615)"/><rect x="620" y="592" width="70" height="30" rx="14" transform="rotate(8 655 607)"/><rect x="600" y="618" width="70" height="30" rx="14" transform="rotate(-4 635 633)"/></g>
+<path d="M545 625 q40 25 95 20 q60 5 100 -25" stroke="#E8382F" stroke-width="22" fill="none" stroke-linecap="round" opacity=".85"/>
+<!-- spoon and chopsticks -->
+<g transform="rotate(-28 200 640)"><rect x="110" y="636" width="250" height="10" rx="5" fill="#C0C4CC"/><ellipse cx="95" cy="641" rx="30" ry="18" fill="#C0C4CC"/></g>
+<g stroke="#9C5B2F" stroke-width="9" stroke-linecap="round"><path d="M140 690 L420 650"/><path d="M142 706 L424 664"/></g>
+<!-- banchan -->
+<ellipse cx="1040" cy="330" rx="70" ry="22" fill="#FFFFFF" stroke="#E0C9A6" stroke-width="4"/>
+<path d="M985 326 q55 -40 110 0 q-55 28 -110 0z" fill="#E8382F"/>
+<ellipse cx="170" cy="330" rx="70" ry="22" fill="#FFFFFF" stroke="#E0C9A6" stroke-width="4"/>
+<path d="M115 326 q55 -36 110 0 q-55 26 -110 0z" fill="#7BC043"/>
+</svg>

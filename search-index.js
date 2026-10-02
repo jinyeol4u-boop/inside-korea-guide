@@ -271,5 +271,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-esim-vs-sim-vs-pocket-wifi.svg",
   "d": "Compare LG U+ eSIM, SIM card and pocket Wi-Fi prices, phone numbers, deposits and airport pickup.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "20 Korean Dishes to Try on Your First Trip",
+  "u": "/korean-dishes-to-try-first-trip",
+  "p": "2026-10-02",
+  "i": "/images/korean-dishes-to-try-first-trip.svg",
+  "d": "Bibimbap, samgyeopsal, tteokbokki, naengmyeon and 16 more dishes, with typical prices and ordering tips.",
+  "s": "Food"
  }
 ];
