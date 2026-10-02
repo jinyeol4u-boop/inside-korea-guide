@@ -279,5 +279,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-dishes-to-try-first-trip.svg",
   "d": "Bibimbap, samgyeopsal, tteokbokki, naengmyeon and 16 more dishes, with typical prices and ordering tips.",
   "s": "Food"
+ },
+ {
+  "t": "Cash or Card in Korea? What Visitors Need to Know",
+  "u": "/cash-or-card-in-korea",
+  "p": "2026-10-03",
+  "i": "/images/cash-or-card-in-korea.svg",
+  "d": "Where foreign cards work, when to carry cash, Global ATMs, exchange options and the T-money card.",
+  "s": "Plan Your Trip"
  }
 ];
