@@ -287,5 +287,13 @@ window.IKG_INDEX=[
   "i": "/images/cash-or-card-in-korea.svg",
   "d": "Where foreign cards work, when to carry cash, Global ATMs, exchange options and the T-money card.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Seoul Subway Guide for Tourists: Fares and How to Ride",
+  "u": "/seoul-subway-guide-tourists",
+  "p": "2026-10-03",
+  "i": "/images/seoul-subway-guide-tourists.svg",
+  "d": "Card and ticket fares, T-money, transfers, operating hours and step-by-step tips for riding the subway.",
+  "s": "Getting Around"
  }
 ];
