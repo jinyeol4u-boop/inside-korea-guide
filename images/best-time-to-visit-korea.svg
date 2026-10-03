@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of four panels showing spring blossoms, summer sun and rain, autumn maple leaves and winter snow">
+<rect width="1200" height="750" fill="#FFFFFF"/>
+<!-- spring -->
+<rect x="0" y="0" width="600" height="375" fill="#FDE8EE"/>
+<rect x="0" y="300" width="600" height="75" fill="#BFE6C6"/>
+<rect x="280" y="190" width="28" height="120" rx="8" fill="#7A4B2A"/>
+<circle cx="294" cy="170" r="80" fill="#F5A3B5"/><circle cx="235" cy="205" r="52" fill="#F7B8C6"/><circle cx="355" cy="205" r="52" fill="#F7B8C6"/>
+<circle cx="450" cy="90" r="9" fill="#F5A3B5"/><circle cx="500" cy="150" r="7" fill="#F5A3B5"/><circle cx="130" cy="110" r="8" fill="#F7B8C6"/><circle cx="90" cy="200" r="6" fill="#F5A3B5"/>
+<!-- summer -->
+<rect x="600" y="0" width="600" height="375" fill="#D9F0FB"/>
+<rect x="600" y="300" width="600" height="75" fill="#8FD3EA"/>
+<circle cx="760" cy="110" r="58" fill="#F5C518"/>
+<g stroke="#F5C518" stroke-width="8" stroke-linecap="round"><path d="M760 25v-0M760 195v0"/><path d="M675 110h-26M845 110h26M700 50l-18-18M820 50l18-18M700 170l-18 18M820 170l18 18"/></g>
+<ellipse cx="990" cy="120" rx="100" ry="48" fill="#FFFFFF"/><ellipse cx="930" cy="140" rx="60" ry="34" fill="#FFFFFF"/><ellipse cx="1050" cy="142" rx="64" ry="34" fill="#FFFFFF"/>
+<g stroke="#2E9CCA" stroke-width="6" stroke-linecap="round"><path d="M940 200l-12 34M990 200l-12 34M1040 200l-12 34M965 245l-12 34M1015 245l-12 34"/></g>
+<!-- autumn -->
+<rect x="0" y="375" width="600" height="375" fill="#FFE9CC"/>
+<rect x="0" y="675" width="600" height="75" fill="#E8C79A"/>
+<rect x="282" y="540" width="28" height="140" rx="8" fill="#7A4B2A"/>
+<circle cx="296" cy="500" r="85" fill="#E4572E"/><circle cx="232" cy="545" r="52" fill="#F2A93B"/><circle cx="360" cy="545" r="52" fill="#E4572E"/>
+<path d="M120 440 l16 -26 l16 26 l-10 0 l0 16 h-12 v-16z" fill="#F2A93B"/><path d="M470 600 l14 -22 l14 22 l-9 0 l0 14 h-10 v-14z" fill="#E4572E"/><path d="M90 640 l12 -18 l12 18 l-8 0 l0 12 h-8 v-12z" fill="#E4572E"/>
+<!-- winter -->
+<rect x="600" y="375" width="600" height="375" fill="#E3EEF9"/>
+<rect x="600" y="675" width="600" height="75" fill="#FFFFFF"/>
+<rect x="880" y="540" width="26" height="140" rx="8" fill="#6B4A33"/>
+<path d="M893 430 L830 560 H956z" fill="#2E8B6A"/><path d="M893 480 L815 620 H971z" fill="#2E8B6A"/>
+<path d="M893 430 L866 486 H920z" fill="#FFFFFF"/><path d="M893 480 L850 560 H936z" fill="#FFFFFF" opacity="0.9"/>
+<g fill="#FFFFFF" stroke="#9CC4E4" stroke-width="2"><circle cx="680" cy="440" r="9"/><circle cx="760" cy="500" r="7"/><circle cx="1020" cy="450" r="9"/><circle cx="1100" cy="530" r="7"/><circle cx="700" cy="590" r="8"/><circle cx="1060" cy="620" r="8"/><circle cx="980" cy="410" r="6"/></g>
+<!-- dividers -->
+<path d="M600 0V750M0 375H1200" stroke="#FFFFFF" stroke-width="10"/>
+</svg>

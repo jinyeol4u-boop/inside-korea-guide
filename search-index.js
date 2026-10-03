@@ -295,5 +295,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-subway-guide-tourists.svg",
   "d": "Card and ticket fares, T-money, transfers, operating hours and step-by-step tips for riding the subway.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Best Time to Visit Korea: A Month-by-Month Guide",
+  "u": "/best-time-to-visit-korea",
+  "p": "2026-10-03",
+  "i": "/images/best-time-to-visit-korea.svg",
+  "d": "April to June and September to October are best; Seoul temperatures, rainy season, typhoons and blossoms.",
+  "s": "Plan Your Trip"
  }
 ];
