@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of Busan: a beach with high-rises, a central hub and a harbor with fish market boats">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd9a8"/><stop offset="0.55" stop-color="#ffb3b0"/><stop offset="1" stop-color="#9fd8ee"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2aa6c9"/><stop offset="1" stop-color="#0b5f8a"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="600" cy="250" r="95" fill="#fff3c4" opacity="0.95"/>
+<circle cx="600" cy="250" r="140" fill="#fff3c4" opacity="0.3"/>
+<path d="M0 360 Q150 300 300 350 T600 340 T900 350 T1200 330 L1200 450 L0 450Z" fill="#6aa07a" opacity="0.75"/>
+<g fill="#4c6f8f">
+<rect x="70" y="250" width="50" height="190"/><rect x="130" y="210" width="60" height="230"/><rect x="200" y="270" width="45" height="170"/><rect x="255" y="190" width="55" height="250"/><rect x="320" y="240" width="48" height="200"/>
+</g>
+<g fill="#ffe9a8" opacity="0.9">
+<rect x="82" y="270" width="8" height="10"/><rect x="100" y="270" width="8" height="10"/><rect x="82" y="300" width="8" height="10"/><rect x="100" y="300" width="8" height="10"/>
+<rect x="145" y="235" width="8" height="10"/><rect x="165" y="235" width="8" height="10"/><rect x="145" y="270" width="8" height="10"/><rect x="165" y="270" width="8" height="10"/>
+<rect x="270" y="215" width="8" height="10"/><rect x="290" y="215" width="8" height="10"/><rect x="270" y="250" width="8" height="10"/><rect x="290" y="250" width="8" height="10"/>
+</g>
+<g fill="#7d5ba6">
+<rect x="470" y="300" width="70" height="140"/><rect x="550" y="270" width="80" height="170"/><rect x="640" y="310" width="65" height="130"/>
+</g>
+<rect x="560" y="240" width="6" height="35" fill="#7d5ba6"/>
+<g fill="#ffe9a8"><rect x="485" y="320" width="10" height="12"/><rect x="510" y="320" width="10" height="12"/><rect x="568" y="290" width="10" height="12"/><rect x="595" y="290" width="10" height="12"/><rect x="655" y="330" width="10" height="12"/></g>
+<g fill="#c0533d">
+<path d="M820 440 L860 380 L900 440Z"/><path d="M900 440 L950 360 L1000 440Z" fill="#d97a45"/><path d="M1000 440 L1040 390 L1090 440Z" fill="#e0a14c"/>
+</g>
+<rect x="0" y="430" width="1200" height="320" fill="url(#sea)"/>
+<path d="M0 450 L1200 450 L1200 500 Q900 470 600 500 T0 490Z" fill="#f4dca5"/>
+<g stroke="#ffffff" stroke-width="5" fill="none" opacity="0.7" stroke-linecap="round">
+<path d="M60 560 q30 -14 60 0 t60 0"/><path d="M300 610 q30 -14 60 0 t60 0"/><path d="M520 680 q30 -14 60 0 t60 0"/><path d="M110 690 q30 -14 60 0 t60 0"/>
+</g>
+<g>
+<path d="M740 590 h160 l-20 36 h-120z" fill="#e8574a"/><rect x="805" y="540" width="6" height="50" fill="#444"/><path d="M811 545 l45 22 l-45 10z" fill="#fff"/>
+<path d="M930 650 h130 l-16 30 h-98z" fill="#2f6fd1"/><rect x="985" y="610" width="5" height="40" fill="#444"/><path d="M990 614 l36 18 l-36 8z" fill="#fff6c9"/>
+<path d="M880 520 h90 l-12 22 h-66z" fill="#f2b63d"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" text-anchor="middle">
+<g><rect x="95" y="470" width="260" height="52" rx="26" fill="#ffffff" opacity="0.92"/><text x="225" y="507" fill="#0b5f8a">Haeundae</text></g>
+<g><rect x="470" y="470" width="250" height="52" rx="26" fill="#ffffff" opacity="0.92"/><text x="595" y="507" fill="#5b3b8a">Seomyeon</text></g>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" text-anchor="middle"><rect x="868" y="438" width="170" height="52" rx="26" fill="#ffffff" opacity="0.92"/><text x="953" y="475" fill="#b2452c">Nampo</text></g>
+</svg>

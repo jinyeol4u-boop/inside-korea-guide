@@ -319,5 +319,13 @@ window.IKG_INDEX=[
   "i": "/images/how-to-book-ktx-tickets-foreigner.svg",
   "d": "KTX tickets open two months ahead: Korail English site and app, foreign cards, QR e-tickets, fares and Korail Pass.",
   "s": "Getting Around"
+ },
+ {
+  "t": "First Time in Busan: Haeundae, Seomyeon or Nampo?",
+  "u": "/first-time-in-busan-areas",
+  "p": "2026-10-05",
+  "i": "/images/first-time-in-busan-areas.svg",
+  "d": "Haeundae for the beach, Seomyeon as a central hub, Nampo for markets: compare Busan areas by subway line and vibe.",
+  "s": "Destinations"
  }
 ];
