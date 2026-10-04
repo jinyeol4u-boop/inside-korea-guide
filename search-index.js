@@ -303,5 +303,13 @@ window.IKG_INDEX=[
   "i": "/images/best-time-to-visit-korea.svg",
   "d": "April to June and September to October are best; Seoul temperatures, rainy season, typhoons and blossoms.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Where to Stay in Seoul: Best Areas for First-Timers",
+  "u": "/where-to-stay-in-seoul",
+  "p": "2026-10-04",
+  "i": "/images/where-to-stay-in-seoul.svg",
+  "d": "Myeongdong, Hongdae or Seoul Station: compare areas, airport access, hanok stays and booking tips.",
+  "s": "Stay"
  }
 ];
