@@ -311,5 +311,13 @@ window.IKG_INDEX=[
   "i": "/images/where-to-stay-in-seoul.svg",
   "d": "Myeongdong, Hongdae or Seoul Station: compare areas, airport access, hanok stays and booking tips.",
   "s": "Stay"
+ },
+ {
+  "t": "How to Book KTX Tickets as a Foreigner",
+  "u": "/how-to-book-ktx-tickets-foreigner",
+  "p": "2026-10-04",
+  "i": "/images/how-to-book-ktx-tickets-foreigner.svg",
+  "d": "KTX tickets open two months ahead: Korail English site and app, foreign cards, QR e-tickets, fares and Korail Pass.",
+  "s": "Getting Around"
  }
 ];
