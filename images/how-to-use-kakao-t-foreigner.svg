@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a smartphone showing a taxi route map with a pickup pin, beside a taxi on a Seoul street">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9ecff"/><stop offset="1" stop-color="#fff0cf"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eaf7ee"/><stop offset="1" stop-color="#d6efe0"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1050" cy="130" r="65" fill="#ffd166"/>
+<g fill="#9db8d6"><rect x="640" y="330" width="70" height="230"/><rect x="720" y="260" width="90" height="300"/><rect x="820" y="360" width="80" height="200"/><rect x="910" y="300" width="100" height="260"/><rect x="1020" y="380" width="120" height="180"/></g>
+<g fill="#fff"><rect x="735" y="285" width="14" height="14"/><rect x="765" y="285" width="14" height="14"/><rect x="735" y="320" width="14" height="14"/><rect x="765" y="320" width="14" height="14"/><rect x="930" y="325" width="14" height="14"/><rect x="960" y="325" width="14" height="14"/><rect x="930" y="360" width="14" height="14"/><rect x="960" y="360" width="14" height="14"/></g>
+<path d="M670 330 L675 300 L680 330Z" fill="#7a96b8"/>
+<rect x="0" y="560" width="1200" height="190" fill="#4b5563"/>
+<rect x="0" y="650" width="1200" height="10" fill="#fbbf24"/>
+<g fill="#e5e7eb"><rect x="620" y="705" width="90" height="8"/><rect x="820" y="705" width="90" height="8"/><rect x="1020" y="705" width="90" height="8"/></g>
+<!-- phone -->
+<g transform="translate(90 70)">
+<rect width="330" height="610" rx="44" fill="#1f2937"/>
+<rect x="16" y="20" width="298" height="570" rx="32" fill="url(#scr)"/>
+<rect x="125" y="28" width="80" height="10" rx="5" fill="#1f2937"/>
+<path d="M30 140 H300 M30 260 H300 M30 380 H300 M90 60 V470 M210 60 V470" stroke="#fff" stroke-width="14" fill="none"/>
+<path d="M30 200 H150 V330 H250" stroke="#2563eb" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke-dasharray="2 18"/>
+<circle cx="150" cy="200" r="16" fill="#00a84d"/><circle cx="150" cy="200" r="6" fill="#fff"/>
+<g transform="translate(250 330)"><path d="M0 -44 C-28 -44 -28 -6 0 20 C28 -6 28 -44 0 -44Z" fill="#ef4444"/><circle cy="-24" r="10" fill="#fff"/></g>
+<rect x="36" y="450" width="258" height="120" rx="24" fill="#fff"/>
+<rect x="56" y="472" width="140" height="16" rx="8" fill="#9ca3af"/>
+<rect x="56" y="500" width="100" height="12" rx="6" fill="#d1d5db"/>
+<rect x="56" y="526" width="218" height="30" rx="15" fill="#00a84d"/>
+<text x="165" y="548" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="18" font-weight="800" fill="#fff">Call taxi</text>
+</g>
+<!-- taxi -->
+<g transform="translate(560 470)">
+<path d="M20 90 L50 30 Q60 10 90 10 H230 Q260 10 275 35 L310 90Z" fill="#fbbf24"/>
+<rect x="0" y="80" width="340" height="70" rx="22" fill="#f59e0b"/>
+<path d="M75 28 H150 V80 H55Z M165 28 H235 Q250 28 258 44 L272 80 H165Z" fill="#dbeafe"/>
+<rect x="125" y="-14" width="90" height="24" rx="8" fill="#fff" stroke="#374151" stroke-width="3"/>
+<text x="170" y="4" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="15" font-weight="800" fill="#374151">TAXI</text>
+<circle cx="80" cy="152" r="30" fill="#111827"/><circle cx="80" cy="152" r="13" fill="#d1d5db"/>
+<circle cx="262" cy="152" r="30" fill="#111827"/><circle cx="262" cy="152" r="13" fill="#d1d5db"/>
+<rect x="318" y="100" width="22" height="16" rx="5" fill="#fff7c2"/>
+</g>
+<text x="700" y="250" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="34" font-weight="800" fill="#0f172a">Pin. Call. Ride.</text>
+</svg>

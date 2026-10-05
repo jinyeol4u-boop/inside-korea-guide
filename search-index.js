@@ -343,5 +343,13 @@ window.IKG_INDEX=[
   "i": "/images/gwangjang-market-food-guide.svg",
   "d": "Bindaetteok, mayak gimbap, kalguksu and yukhoe: typical prices, hours, cash tips and how to order at a stall.",
   "s": "Food"
+ },
+ {
+  "t": "How to Use Kakao T as a Foreigner",
+  "u": "/how-to-use-kakao-t-foreigner",
+  "p": "2026-10-06",
+  "i": "/images/how-to-use-kakao-t-foreigner.svg",
+  "d": "Call Korean taxis in English: signup with an overseas number, foreign cards, pay-to-driver, ride types and fares.",
+  "s": "Getting Around"
  }
 ];
