@@ -335,5 +335,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-etiquette-dos-and-donts.svg",
   "d": "Short bow, two hands, shoes off indoors, table and drinking manners, transit and temple rules; tipping is not customary.",
   "s": "Culture"
+ },
+ {
+  "t": "Gwangjang Market: What to Eat and How to Order",
+  "u": "/gwangjang-market-food-guide",
+  "p": "2026-10-05",
+  "i": "/images/gwangjang-market-food-guide.svg",
+  "d": "Bindaetteok, mayak gimbap, kalguksu and yukhoe: typical prices, hours, cash tips and how to order at a stall.",
+  "s": "Food"
  }
 ];
