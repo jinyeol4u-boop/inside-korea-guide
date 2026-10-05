@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of two people bowing in greeting, shoes lined up at a doorway, a bowl with a spoon and chopsticks, and a cup held in two hands">
+<rect width="1200" height="750" fill="#F4ECFA"/>
+<circle cx="120" cy="110" r="90" fill="#E6D5F3"/><circle cx="1090" cy="110" r="70" fill="#FFE9B8"/><circle cx="1070" cy="640" r="180" fill="#DDF1E6"/>
+<rect x="0" y="560" width="1200" height="190" fill="#D8B98A"/>
+<rect x="0" y="545" width="1200" height="26" fill="#B98C55"/>
+<g>
+<rect x="60" y="150" width="420" height="400" rx="18" fill="#FFFFFF" stroke="#5B3A86" stroke-width="6"/>
+<path d="M270 150 V550 M60 350 H480" stroke="#5B3A86" stroke-width="4"/>
+<rect x="76" y="166" width="178" height="168" fill="#FBF6EA"/><rect x="286" y="166" width="178" height="168" fill="#FBF6EA"/>
+<rect x="76" y="366" width="178" height="170" fill="#FBF6EA"/><rect x="286" y="366" width="178" height="170" fill="#FBF6EA"/>
+</g>
+<g transform="translate(150 470)">
+<ellipse cx="0" cy="70" rx="60" ry="14" fill="#B98C55"/>
+<path d="M-50 40 q0 -40 40 -40 h20 q30 0 30 30 v20 h-90z" fill="#E4572E"/>
+<path d="M-50 60 h90 v10 h-90z" fill="#7B2D12"/>
+</g>
+<g transform="translate(340 480)">
+<path d="M-50 30 q0 -40 40 -40 h20 q30 0 30 30 v20 h-90z" fill="#2E9CCA"/>
+<path d="M-50 50 h90 v10 h-90z" fill="#1F6F94"/>
+</g>
+<g transform="translate(620 560)">
+<g transform="translate(0 -240) rotate(35)">
+<circle cx="0" cy="-90" r="34" fill="#F2C9A0"/>
+<path d="M-34 -100 q34 -50 68 0 v10 h-68z" fill="#23304A"/>
+<rect x="-40" y="-52" width="80" height="150" rx="30" fill="#E4572E"/>
+</g>
+<rect x="-26" y="-130" width="52" height="130" rx="10" fill="#23304A"/>
+<rect x="-26" y="-6" width="22" height="12" fill="#F2C9A0"/><rect x="4" y="-6" width="22" height="12" fill="#F2C9A0"/>
+</g>
+<g transform="translate(820 560)">
+<g transform="translate(0 -250) rotate(-35)">
+<circle cx="0" cy="-90" r="34" fill="#E8B88A"/>
+<path d="M-36 -96 q36 -56 72 0 v24 h-12 v-14 h-48 v14 h-12z" fill="#3B2A20"/>
+<rect x="-40" y="-52" width="80" height="150" rx="30" fill="#2FB67C"/>
+</g>
+<rect x="-26" y="-130" width="52" height="130" rx="10" fill="#5B3A86"/>
+<rect x="-26" y="-6" width="22" height="12" fill="#E8B88A"/><rect x="4" y="-6" width="22" height="12" fill="#E8B88A"/>
+</g>
+<g transform="translate(980 600)">
+<ellipse cx="0" cy="80" rx="100" ry="18" fill="#B98C55"/>
+<path d="M-80 20 q0 80 80 80 q80 0 80 -80z" fill="#FFFFFF" stroke="#5B3A86" stroke-width="6"/>
+<path d="M-70 40 h140" stroke="#F5C518" stroke-width="10"/>
+<path d="M30 20 L120 -90" stroke="#7B2D12" stroke-width="9" stroke-linecap="round"/>
+<path d="M50 20 L140 -80" stroke="#7B2D12" stroke-width="9" stroke-linecap="round"/>
+<ellipse cx="-30" cy="-60" rx="38" ry="14" fill="#C9CED6" transform="rotate(-20 -30 -60)"/>
+<path d="M-30 -55 L-60 18" stroke="#C9CED6" stroke-width="10" stroke-linecap="round"/>
+</g>
+<g transform="translate(180 690)">
+<rect x="0" y="-30" width="130" height="36" rx="16" fill="#F5C518" stroke="#23304A" stroke-width="5"/>
+<rect x="160" y="-30" width="130" height="36" rx="16" fill="#F5C518" stroke="#23304A" stroke-width="5"/>
+</g>
+
+</svg>

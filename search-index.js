@@ -327,5 +327,13 @@ window.IKG_INDEX=[
   "i": "/images/first-time-in-busan-areas.svg",
   "d": "Haeundae for the beach, Seomyeon as a central hub, Nampo for markets: compare Busan areas by subway line and vibe.",
   "s": "Destinations"
+ },
+ {
+  "t": "Korean Etiquette: 15 Dos and Don'ts for Visitors",
+  "u": "/korean-etiquette-dos-and-donts",
+  "p": "2026-10-05",
+  "i": "/images/korean-etiquette-dos-and-donts.svg",
+  "d": "Short bow, two hands, shoes off indoors, table and drinking manners, transit and temple rules; tipping is not customary.",
+  "s": "Culture"
  }
 ];
