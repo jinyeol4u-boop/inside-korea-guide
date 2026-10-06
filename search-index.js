@@ -351,5 +351,13 @@ window.IKG_INDEX=[
   "i": "/images/how-to-use-kakao-t-foreigner.svg",
   "d": "Call Korean taxis in English: signup with an overseas number, foreign cards, pay-to-driver, ride types and fares.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Getting Around Jeju Without a Car",
+  "u": "/jeju-without-a-car",
+  "p": "2026-10-06",
+  "i": "/images/jeju-without-a-car.svg",
+  "d": "Express buses, tourist shuttles 810 and 820, taxis and tours: fares, cashless payment and a sample bus route on Jeju.",
+  "s": "Destinations"
  }
 ];
