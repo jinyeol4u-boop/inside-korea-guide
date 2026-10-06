@@ -359,5 +359,13 @@ window.IKG_INDEX=[
   "i": "/images/jeju-without-a-car.svg",
   "d": "Express buses, tourist shuttles 810 and 820, taxis and tours: fares, cashless payment and a sample bus route on Jeju.",
   "s": "Destinations"
+ },
+ {
+  "t": "Tax Refund in Korea: How to Claim It",
+  "u": "/tax-refund-in-korea-how-to-claim",
+  "p": "2026-10-06",
+  "i": "/images/tax-refund-in-korea-how-to-claim.svg",
+  "d": "Immediate and airport refunds: 15,000 won minimum, 1 million won per purchase, 5 million per trip and the three-month rule.",
+  "s": "Plan Your Trip"
  }
 ];
