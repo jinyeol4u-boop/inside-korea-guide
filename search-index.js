@@ -375,5 +375,13 @@ window.IKG_INDEX=[
   "i": "/images/hanbok-rental-in-seoul.svg",
   "d": "Rental prices, shop areas, step-by-step process and the free palace entry rule for visitors wearing hanbok.",
   "s": "Culture"
+ },
+ {
+  "t": "How to Ride a City Bus in Seoul",
+  "u": "/seoul-city-bus-guide",
+  "p": "2026-10-08",
+  "i": "/images/seoul-city-bus-guide.svg",
+  "d": "Blue, green, yellow and red bus types, about 1,500 won fares, tapping in and out, stop buttons and transfers.",
+  "s": "Getting Around"
  }
 ];
