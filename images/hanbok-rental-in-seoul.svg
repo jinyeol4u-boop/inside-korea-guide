@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of two people in colorful hanbok in front of a traditional palace gate with a rental rack of hanbok beside them">
+<rect width="1200" height="750" fill="#FFF3E0"/>
+<circle cx="1050" cy="120" r="80" fill="#FFD966"/><circle cx="130" cy="130" r="95" fill="#FBE0E6"/>
+<path d="M0 520 Q300 420 600 500 T1200 470 V750 H0z" fill="#CFE8D5"/>
+<rect x="0" y="600" width="1200" height="150" fill="#E7D3B0"/>
+<g transform="translate(330 120)">
+<rect x="0" y="200" width="60" height="320" fill="#B3402A"/><rect x="480" y="200" width="60" height="320" fill="#B3402A"/>
+<rect x="60" y="300" width="420" height="30" fill="#8C2F1E"/>
+<path d="M-60 210 Q270 70 600 210 L560 200 Q270 110 -20 200z" fill="#3E4A5C"/>
+<path d="M-90 230 Q270 40 630 230 L600 215 Q270 90 -60 215z" fill="#2B3445"/>
+<rect x="60" y="330" width="420" height="190" fill="#FFE4A8"/>
+<rect x="190" y="340" width="160" height="180" rx="80" fill="#8C2F1E"/>
+<g fill="#2FB67C"><rect x="20" y="150" width="30" height="30"/><rect x="60" y="130" width="30" height="30"/><rect x="450" y="130" width="30" height="30"/><rect x="490" y="150" width="30" height="30"/></g>
+</g>
+<g transform="translate(150 360)">
+<circle cx="0" cy="0" r="38" fill="#F2C9A0"/><path d="M-40 -8 Q0 -60 40 -8 V-2 H-40z" fill="#23304A"/>
+<rect x="-38" y="38" width="76" height="90" rx="14" fill="#F5C518"/><path d="M-12 38 L8 90 L22 38" fill="#E4572E"/>
+<path d="M-90 220 Q0 110 90 220 V250 H-90z" fill="#E4572E"/><path d="M-90 235 H90" stroke="#FFD1BF" stroke-width="8"/>
+</g>
+<g transform="translate(990 360)">
+<circle cx="0" cy="0" r="38" fill="#E8B88A"/><path d="M-40 -2 Q0 -60 40 -2 V8 H-40z" fill="#3B2A20"/>
+<rect x="-38" y="38" width="76" height="90" rx="14" fill="#2E9CCA"/><path d="M-12 38 L8 90 L22 38" fill="#FFFFFF"/>
+<path d="M-60 130 H60 L70 260 H-70z" fill="#5B3A86"/>
+</g>
+<g transform="translate(70 560)"><path d="M0 0 H180" stroke="#8C5A2B" stroke-width="10"/>
+<rect x="10" y="10" width="40" height="80" fill="#F06292"/><rect x="60" y="10" width="40" height="80" fill="#4DB6AC"/><rect x="110" y="10" width="40" height="80" fill="#FFB74D"/></g>
+</svg>

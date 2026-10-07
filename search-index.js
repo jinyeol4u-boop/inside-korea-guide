@@ -367,5 +367,13 @@ window.IKG_INDEX=[
   "i": "/images/tax-refund-in-korea-how-to-claim.svg",
   "d": "Immediate and airport refunds: 15,000 won minimum, 1 million won per purchase, 5 million per trip and the three-month rule.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Hanbok Rental in Seoul: How It Works and Where to Go",
+  "u": "/hanbok-rental-in-seoul",
+  "p": "2026-10-07",
+  "i": "/images/hanbok-rental-in-seoul.svg",
+  "d": "Rental prices, shop areas, step-by-step process and the free palace entry rule for visitors wearing hanbok.",
+  "s": "Culture"
  }
 ];
