@@ -383,5 +383,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-city-bus-guide.svg",
   "d": "Blue, green, yellow and red bus types, about 1,500 won fares, tapping in and out, stop buttons and transfers.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Gyeongju in One Day: A Bike Route Through Silla",
+  "u": "/gyeongju-one-day-bike-route",
+  "p": "2026-10-08",
+  "i": "/images/gyeongju-one-day-bike-route.svg",
+  "d": "Rent a bike near Daereungwon and ride a compact loop of royal tombs, Hwangnidan-gil, Cheomseongdae and Wolji Pond.",
+  "s": "Destinations"
  }
 ];
