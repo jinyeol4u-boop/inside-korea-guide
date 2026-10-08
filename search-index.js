@@ -391,5 +391,13 @@ window.IKG_INDEX=[
   "i": "/images/gyeongju-one-day-bike-route.svg",
   "d": "Rent a bike near Daereungwon and ride a compact loop of royal tombs, Hwangnidan-gil, Cheomseongdae and Wolji Pond.",
   "s": "Destinations"
+ },
+ {
+  "t": "5 Days in Korea: Seoul and Busan by KTX",
+  "u": "/5-days-in-korea-seoul-busan",
+  "p": "2026-10-08",
+  "i": "/images/5-days-in-korea-seoul-busan.svg",
+  "d": "Two days in Seoul, a KTX ride south and three days in Busan: a day-by-day plan with costs and closing days.",
+  "s": "Itineraries"
  }
 ];

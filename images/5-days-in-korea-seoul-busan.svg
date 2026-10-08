@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a high-speed train linking a Seoul tower skyline on the left with a Busan harbor bridge and sea on the right">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a9d8ff"/><stop offset="1" stop-color="#fff0d6"/></linearGradient><linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3aa6d8"/><stop offset="1" stop-color="#1b6fa8"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="600" cy="120" r="64" fill="#ffd166"/>
+<g fill="#cfe6d6"><path d="M0 430 Q150 330 300 400 T560 390 V560 H0Z"/></g>
+<!-- Seoul side -->
+<g fill="#7b8fb5"><rect x="60" y="360" width="60" height="200"/><rect x="130" y="320" width="70" height="240"/><rect x="210" y="380" width="55" height="180"/></g>
+<g fill="#e8eefc"><rect x="75" y="380" width="10" height="14"/><rect x="95" y="380" width="10" height="14"/><rect x="150" y="345" width="10" height="14"/><rect x="175" y="345" width="10" height="14"/><rect x="150" y="380" width="10" height="14"/><rect x="175" y="380" width="10" height="14"/></g>
+<g fill="#5b4b8a"><path d="M330 560 L350 300 H358 L378 560Z"/><ellipse cx="354" cy="290" rx="34" ry="14" fill="#e63946"/><rect x="351" y="190" width="6" height="90"/></g>
+<!-- Busan side -->
+<rect x="640" y="520" width="560" height="230" fill="url(#sea)"/>
+<g stroke="#e63946" stroke-width="10" fill="none"><path d="M700 520 V330 M1020 520 V330 M700 330 L840 500 M1020 330 L880 500 M700 330 L560 500 M1020 330 L1160 500"/></g>
+<path d="M600 520 H1200" stroke="#374151" stroke-width="14"/>
+<g fill="#ffffff" opacity=".85"><path d="M760 640 q40 -22 80 0 q-40 14 -80 0Z"/><path d="M980 680 q40 -22 80 0 q-40 14 -80 0Z"/></g>
+<g fill="#ff9f43"><path d="M900 600 L960 600 L945 630 L915 630Z"/><rect x="928" y="560" width="4" height="40" fill="#374151"/><path d="M932 560 L956 590 H932Z" fill="#ffffff"/></g>
+<!-- ground and rails -->
+<rect x="0" y="560" width="640" height="190" fill="#8bc58f"/>
+<rect x="0" y="600" width="1200" height="14" fill="#6b7280"/><rect x="0" y="640" width="640" height="6" fill="#9ca3af"/>
+<!-- train -->
+<g transform="translate(250 505)"><path d="M0 70 Q0 10 70 6 H520 Q600 10 640 60 L650 90 H0Z" fill="#f8fafc" stroke="#1f2937" stroke-width="5"/><path d="M0 62 H650" stroke="#2563eb" stroke-width="12"/><g fill="#93c5fd" stroke="#1f2937" stroke-width="3"><rect x="40" y="22" width="60" height="26" rx="6"/><rect x="130" y="22" width="60" height="26" rx="6"/><rect x="220" y="22" width="60" height="26" rx="6"/><rect x="310" y="22" width="60" height="26" rx="6"/><rect x="400" y="22" width="60" height="26" rx="6"/><path d="M540 22 H590 Q610 30 620 48 H540Z"/></g><circle cx="90" cy="92" r="12" fill="#1f2937"/><circle cx="220" cy="92" r="12" fill="#1f2937"/><circle cx="440" cy="92" r="12" fill="#1f2937"/><circle cx="570" cy="92" r="12" fill="#1f2937"/></g>
+<g fill="#f08aa6"><circle cx="90" cy="690" r="14"/><circle cx="130" cy="705" r="11"/><circle cx="540" cy="695" r="14"/></g>
+</svg>
