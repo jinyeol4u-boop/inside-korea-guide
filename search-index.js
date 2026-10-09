@@ -399,5 +399,13 @@ window.IKG_INDEX=[
   "i": "/images/5-days-in-korea-seoul-busan.svg",
   "d": "Two days in Seoul, a KTX ride south and three days in Busan: a day-by-day plan with costs and closing days.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Korea Festival Calendar: The Best Festivals by Month",
+  "u": "/korea-festival-calendar-by-month",
+  "p": "2026-10-09",
+  "i": "/images/korea-festival-calendar-by-month.svg",
+  "d": "Month-by-month festivals: Hwacheon ice fishing, Jinhae blossoms, Lotus Lanterns, Boryeong mud and autumn events with latest dates.",
+  "s": "Culture"
  }
 ];

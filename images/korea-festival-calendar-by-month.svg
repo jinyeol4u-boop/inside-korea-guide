@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of paper lanterns, fireworks, cherry blossoms and snowflakes arranged as four seasons over a night sky">
+<defs><linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d2b64"/><stop offset="1" stop-color="#7b4397"/></linearGradient><linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f6f5e"/><stop offset="1" stop-color="#1b3f3a"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#night)"/>
+<g fill="#fff" opacity=".8"><circle cx="90" cy="80" r="3"/><circle cx="260" cy="140" r="2"/><circle cx="430" cy="60" r="3"/><circle cx="700" cy="90" r="2"/><circle cx="930" cy="50" r="3"/><circle cx="1110" cy="130" r="2"/></g>
+<circle cx="1040" cy="150" r="52" fill="#fff4c2"/>
+<!-- fireworks -->
+<g stroke-width="6" stroke-linecap="round" fill="none"><g stroke="#ffd166"><path d="M600 170 v-60 M600 170 v60 M600 170 h-60 M600 170 h60 M600 170 l-42 -42 M600 170 l42 42 M600 170 l-42 42 M600 170 l42 -42"/></g>
+<g stroke="#ff6b9d"><path d="M300 260 v-44 M300 260 v44 M300 260 h-44 M300 260 h44 M300 260 l-31 -31 M300 260 l31 31 M300 260 l-31 31 M300 260 l31 -31"/></g>
+<g stroke="#4cc9f0"><path d="M880 280 v-48 M880 280 v48 M880 280 h-48 M880 280 h48 M880 280 l-34 -34 M880 280 l34 34 M880 280 l-34 34 M880 280 l34 -34"/></g></g>
+<!-- hills -->
+<path d="M0 560 Q200 440 420 520 T820 500 T1200 520 V750 H0Z" fill="url(#hill)"/>
+<!-- lantern strings -->
+<path d="M0 330 Q300 400 600 340 T1200 360" stroke="#fde68a" stroke-width="4" fill="none"/>
+<g>
+<g transform="translate(120 372)"><rect x="-4" y="-18" width="8" height="18" fill="#fde68a"/><ellipse cx="0" cy="34" rx="36" ry="46" fill="#ef4444"/><rect x="-14" y="76" width="28" height="8" fill="#fde68a"/><path d="M-30 20 Q0 30 30 20 M-34 44 Q0 54 34 44" stroke="#fecaca" stroke-width="3" fill="none"/></g>
+<g transform="translate(330 390)"><rect x="-4" y="-18" width="8" height="18" fill="#fde68a"/><ellipse cx="0" cy="34" rx="36" ry="46" fill="#f59e0b"/><rect x="-14" y="76" width="28" height="8" fill="#fde68a"/><path d="M-30 20 Q0 30 30 20 M-34 44 Q0 54 34 44" stroke="#fef3c7" stroke-width="3" fill="none"/></g>
+<g transform="translate(560 372)"><rect x="-4" y="-18" width="8" height="18" fill="#fde68a"/><ellipse cx="0" cy="34" rx="36" ry="46" fill="#ec4899"/><rect x="-14" y="76" width="28" height="8" fill="#fde68a"/><path d="M-30 20 Q0 30 30 20 M-34 44 Q0 54 34 44" stroke="#fbcfe8" stroke-width="3" fill="none"/></g>
+<g transform="translate(790 392)"><rect x="-4" y="-18" width="8" height="18" fill="#fde68a"/><ellipse cx="0" cy="34" rx="36" ry="46" fill="#22c55e"/><rect x="-14" y="76" width="28" height="8" fill="#fde68a"/><path d="M-30 20 Q0 30 30 20 M-34 44 Q0 54 34 44" stroke="#bbf7d0" stroke-width="3" fill="none"/></g>
+<g transform="translate(1020 376)"><rect x="-4" y="-18" width="8" height="18" fill="#fde68a"/><ellipse cx="0" cy="34" rx="36" ry="46" fill="#3b82f6"/><rect x="-14" y="76" width="28" height="8" fill="#fde68a"/><path d="M-30 20 Q0 30 30 20 M-34 44 Q0 54 34 44" stroke="#bfdbfe" stroke-width="3" fill="none"/></g>
+</g>
+<!-- lotus -->
+<g transform="translate(600 650)"><g fill="#f9a8d4"><ellipse cx="-50" cy="0" rx="26" ry="56" transform="rotate(-50)"/><ellipse cx="50" cy="0" rx="26" ry="56" transform="rotate(50)"/><ellipse cx="-22" cy="-6" rx="26" ry="62" transform="rotate(-20)"/><ellipse cx="22" cy="-6" rx="26" ry="62" transform="rotate(20)"/></g><ellipse cx="0" cy="-10" rx="26" ry="64" fill="#fbcfe8"/><circle cx="0" cy="20" r="14" fill="#fde68a"/></g>
+<!-- cherry blossom branch -->
+<path d="M0 640 Q160 600 300 650" stroke="#6b3f2a" stroke-width="10" fill="none"/>
+<g fill="#fbcfe8"><circle cx="70" cy="622" r="16"/><circle cx="150" cy="616" r="16"/><circle cx="230" cy="640" r="16"/><circle cx="110" cy="650" r="14"/><circle cx="270" cy="660" r="14"/></g><g fill="#f472b6"><circle cx="70" cy="622" r="5"/><circle cx="150" cy="616" r="5"/><circle cx="230" cy="640" r="5"/></g>
+<!-- snowflakes -->
+<g stroke="#e0f2fe" stroke-width="5" stroke-linecap="round"><g transform="translate(940 640)"><path d="M0 -40 V40 M-35 -20 L35 20 M-35 20 L35 -20"/></g><g transform="translate(1080 600)"><path d="M0 -28 V28 M-24 -14 L24 14 M-24 14 L24 -14"/></g><g transform="translate(850 700)"><path d="M0 -22 V22 M-19 -11 L19 11 M-19 11 L19 -11"/></g></g>
+</svg>
