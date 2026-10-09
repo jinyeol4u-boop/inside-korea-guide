@@ -415,5 +415,13 @@ window.IKG_INDEX=[
   "i": "/images/hanok-cafes-in-seoul.svg",
   "d": "Ikseon-dong, Seochon and Bukchon hanok cafes compared, with listed hours, a 5,000 won treat and a visiting plan.",
   "s": "Food"
+ },
+ {
+  "t": "Staying in a Hanok: What to Expect",
+  "u": "/staying-in-a-hanok-what-to-expect",
+  "p": "2026-10-10",
+  "i": "/images/staying-in-a-hanok-what-to-expect.svg",
+  "d": "Ondol floors, bedding, shoe rules and where to stay in Bukchon, Jeonju and Gyeongju, plus a checklist for booking a hanok.",
+  "s": "Stay"
  }
 ];

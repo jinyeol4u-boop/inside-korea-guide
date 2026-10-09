@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a hanok at dusk with glowing paper windows, a courtyard lantern and a folded floor mattress with a pillow in the foreground">
+<defs><linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B2A6B"/><stop offset="0.55" stop-color="#8A5FB0"/><stop offset="1" stop-color="#FFB47A"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFE9A8"/><stop offset="1" stop-color="#FFC25C"/></radialGradient></defs>
+<rect width="1200" height="750" fill="url(#dusk)"/>
+<circle cx="1000" cy="140" r="64" fill="#FFF3C9"/><circle cx="1026" cy="126" r="56" fill="#8A5FB0" opacity="0.4"/>
+<g fill="#FFFFFF" opacity="0.9"><circle cx="120" cy="90" r="3"/><circle cx="260" cy="150" r="2.5"/><circle cx="430" cy="70" r="3"/><circle cx="600" cy="120" r="2"/><circle cx="760" cy="70" r="3"/><circle cx="880" cy="190" r="2"/><circle cx="80" cy="220" r="2"/><circle cx="520" cy="200" r="2"/></g>
+<path d="M0 430 Q250 330 520 410 T1200 380 V750 H0z" fill="#4C3F7A"/>
+<path d="M0 480 Q300 420 650 470 T1200 450 V750 H0z" fill="#3B7A6B"/>
+<rect x="0" y="560" width="1200" height="190" fill="#D8B98A"/>
+<g fill="#C89E6A"><rect x="60" y="590" width="120" height="14" rx="6"/><rect x="260" y="640" width="150" height="14" rx="6"/><rect x="900" y="600" width="140" height="14" rx="6"/></g>
+<g transform="translate(180 130)">
+<rect x="40" y="230" width="720" height="240" fill="#F3DDB4"/>
+<rect x="40" y="230" width="28" height="240" fill="#7A2F1E"/><rect x="732" y="230" width="28" height="240" fill="#7A2F1E"/>
+<rect x="250" y="230" width="20" height="240" fill="#7A2F1E"/><rect x="530" y="230" width="20" height="240" fill="#7A2F1E"/>
+<g stroke="#7A2F1E" stroke-width="6"><rect x="90" y="285" width="130" height="150" fill="url(#glow)"/><rect x="295" y="285" width="130" height="150" fill="url(#glow)"/><rect x="580" y="285" width="130" height="150" fill="url(#glow)"/></g>
+<g stroke="#B9783C" stroke-width="4"><path d="M155 285V435M90 360H220M360 285V435M295 360H425M645 285V435M580 360H710"/></g>
+<rect x="0" y="470" width="800" height="26" fill="#A87B4A"/>
+<rect x="20" y="496" width="760" height="14" fill="#8C6236"/>
+<path d="M-70 250 Q400 20 870 250 L820 244 Q400 110 -20 244z" fill="#39465C"/>
+<path d="M-70 250 Q400 20 870 250 L870 268 Q400 66 -70 268z" fill="#232C3B"/>
+<g fill="#51627C"><rect x="70" y="190" width="34" height="14" rx="4"/><rect x="140" y="152" width="34" height="14" rx="4"/><rect x="620" y="152" width="34" height="14" rx="4"/><rect x="690" y="190" width="34" height="14" rx="4"/></g>
+</g>
+<g><line x1="1010" y1="410" x2="1010" y2="540" stroke="#5B3A1F" stroke-width="8"/><rect x="975" y="380" width="70" height="60" rx="10" fill="#E4572E"/><rect x="988" y="392" width="44" height="36" rx="6" fill="#FFD27A"/><path d="M965 380H1055" stroke="#5B3A1F" stroke-width="8"/></g>
+<g transform="translate(300 585)">
+<rect x="0" y="40" width="520" height="100" rx="18" fill="#3E86C7"/>
+<rect x="0" y="40" width="520" height="30" rx="14" fill="#6FB2E8"/>
+<g stroke="#FFFFFF" stroke-width="5" opacity="0.8" fill="none"><path d="M40 100 q20 -18 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0"/></g>
+<rect x="-70" y="10" width="150" height="70" rx="30" fill="#F28DA6"/>
+<rect x="-52" y="22" width="114" height="22" rx="11" fill="#F8B5C5"/>
+</g>
+</svg>
