@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a traditional hanok building with a tiled roof, paper lanterns and a steaming teacup in the foreground">
+<rect width="1200" height="750" fill="#FFF1E0"/>
+<circle cx="1040" cy="130" r="85" fill="#FFD27A"/><circle cx="150" cy="150" r="100" fill="#F9D6DE"/>
+<path d="M0 470 Q300 380 620 450 T1200 420 V750 H0z" fill="#CDE7D2"/>
+<path d="M0 560 Q400 500 800 560 T1200 540 V750 H0z" fill="#9FD1B0"/>
+<rect x="0" y="640" width="1200" height="110" fill="#E3CFAA"/>
+<g transform="translate(220 150)">
+<rect x="40" y="250" width="640" height="250" fill="#FBE3B5"/>
+<rect x="40" y="250" width="30" height="250" fill="#8A3A24"/><rect x="650" y="250" width="30" height="250" fill="#8A3A24"/>
+<rect x="190" y="250" width="22" height="250" fill="#8A3A24"/><rect x="508" y="250" width="22" height="250" fill="#8A3A24"/>
+<g fill="#FFFFFF" stroke="#8A3A24" stroke-width="6"><rect x="230" y="300" width="120" height="170"/><rect x="370" y="300" width="120" height="170"/></g>
+<g stroke="#C98B5B" stroke-width="4"><path d="M290 300V470M230 385H350M430 300V470M370 385H490"/></g>
+<rect x="60" y="440" width="140" height="60" fill="#D9A56B"/>
+<path d="M-70 270 Q360 40 790 270 L740 262 Q360 130 -20 262z" fill="#3A4659"/>
+<path d="M-70 270 Q360 40 790 270 L790 285 Q360 80 -70 285z" fill="#27303F"/>
+<path d="M-20 262 Q360 130 740 262 V252 Q360 150 -20 252z" fill="#3A4659"/>
+<path d="M-20 262 Q360 130 740 262 L740 252 L360 135 L-20 252z" fill="#3A4659" opacity="0"/>
+<path d="M0 262 Q360 110 720 262 V500 H0z" fill="#3A4659" opacity="0"/>
+<g fill="#4B5A70"><rect x="60" y="215" width="30" height="14" rx="4"/><rect x="120" y="180" width="30" height="14" rx="4"/><rect x="570" y="180" width="30" height="14" rx="4"/><rect x="630" y="215" width="30" height="14" rx="4"/></g>
+<rect x="0" y="500" width="720" height="26" fill="#B98B5A"/>
+</g>
+<g><line x1="300" y1="130" x2="900" y2="130" stroke="#6B4A2E" stroke-width="5"/>
+<g fill="#E4572E"><ellipse cx="380" cy="175" rx="30" ry="40"/><ellipse cx="520" cy="185" rx="30" ry="40"/></g>
+<g fill="#F5C518"><ellipse cx="660" cy="180" rx="30" ry="40"/><ellipse cx="800" cy="172" rx="30" ry="40"/></g>
+<g stroke="#6B4A2E" stroke-width="4"><path d="M380 130V135M520 130V145M660 130V140M800 130V132"/></g></g>
+<g transform="translate(600 560)">
+<ellipse cx="0" cy="120" rx="150" ry="22" fill="#B98B5A"/>
+<path d="M-100 0 H100 Q100 110 0 115 Q-100 110 -100 0z" fill="#2E9CCA"/>
+<ellipse cx="0" cy="0" rx="100" ry="20" fill="#7CC4E6"/><ellipse cx="0" cy="0" rx="82" ry="14" fill="#A5602E"/>
+<path d="M100 20 Q160 20 150 62 Q140 95 92 85" fill="none" stroke="#2E9CCA" stroke-width="14"/>
+<g fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity=".9"><path d="M-30 -30 Q-55 -70 -30 -105 Q-5 -140 -30 -170"/><path d="M25 -30 Q0 -70 25 -105 Q50 -140 25 -170"/></g>
+</g>
+<g transform="translate(1010 440)"><rect x="-8" y="0" width="16" height="200" fill="#6B4A2E"/><circle cx="0" cy="-20" r="70" fill="#2FB67C"/><circle cx="-50" cy="20" r="50" fill="#26A06C"/><circle cx="50" cy="20" r="50" fill="#26A06C"/></g>
+<g transform="translate(130 480)"><rect x="-8" y="0" width="16" height="170" fill="#6B4A2E"/><circle cx="0" cy="-20" r="60" fill="#F28AA5"/><circle cx="-42" cy="15" r="42" fill="#EE7391"/><circle cx="42" cy="15" r="42" fill="#EE7391"/></g>
+</svg>

@@ -407,5 +407,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-festival-calendar-by-month.svg",
   "d": "Month-by-month festivals: Hwacheon ice fishing, Jinhae blossoms, Lotus Lanterns, Boryeong mud and autumn events with latest dates.",
   "s": "Culture"
+ },
+ {
+  "t": "Best Hanok Cafes in Seoul: Ikseon-dong to Seochon",
+  "u": "/hanok-cafes-in-seoul",
+  "p": "2026-10-09",
+  "i": "/images/hanok-cafes-in-seoul.svg",
+  "d": "Ikseon-dong, Seochon and Bukchon hanok cafes compared, with listed hours, a 5,000 won treat and a visiting plan.",
+  "s": "Food"
  }
 ];
