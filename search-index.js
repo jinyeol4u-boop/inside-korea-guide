@@ -439,5 +439,13 @@ window.IKG_INDEX=[
   "i": "/images/kdrama-filming-locations-seoul.svg",
   "d": "Itaewon, Namsan, Gyeongbokgung and Bukchon drama spots with fees, hours, station exits and visiting rules.",
   "s": "Culture"
+ },
+ {
+  "t": "7 Days in Korea: Seoul, Gyeongju and Busan",
+  "u": "/7-days-in-korea-seoul-gyeongju-busan",
+  "p": "2026-10-11",
+  "i": "/images/7-days-in-korea-seoul-gyeongju-busan.svg",
+  "d": "Three days in Seoul, a night in Gyeongju and Busan by KTX, with transport costs, closing days and a day-by-day route.",
+  "s": "Itineraries"
  }
 ];
