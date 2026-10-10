@@ -431,5 +431,13 @@ window.IKG_INDEX=[
   "i": "/images/dmz-tours-from-seoul-options.svg",
   "d": "Compare the standard Paju tour, Imjingak tickets and the JSA, with ID rules, closed days and Third Tunnel entry fees.",
   "s": "Destinations"
+ },
+ {
+  "t": "K-Drama Filming Locations in Seoul You Can Visit",
+  "u": "/kdrama-filming-locations-seoul",
+  "p": "2026-10-10",
+  "i": "/images/kdrama-filming-locations-seoul.svg",
+  "d": "Itaewon, Namsan, Gyeongbokgung and Bukchon drama spots with fees, hours, station exits and visiting rules.",
+  "s": "Culture"
  }
 ];
