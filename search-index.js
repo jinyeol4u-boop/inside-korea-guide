@@ -423,5 +423,13 @@ window.IKG_INDEX=[
   "i": "/images/staying-in-a-hanok-what-to-expect.svg",
   "d": "Ondol floors, bedding, shoe rules and where to stay in Bukchon, Jeonju and Gyeongju, plus a checklist for booking a hanok.",
   "s": "Stay"
+ },
+ {
+  "t": "DMZ Tours from Seoul: Which Option Is Right for You?",
+  "u": "/dmz-tours-from-seoul-options",
+  "p": "2026-10-10",
+  "i": "/images/dmz-tours-from-seoul-options.svg",
+  "d": "Compare the standard Paju tour, Imjingak tickets and the JSA, with ID rules, closed days and Third Tunnel entry fees.",
+  "s": "Destinations"
  }
 ];
