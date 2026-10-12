@@ -447,5 +447,13 @@ window.IKG_INDEX=[
   "i": "/images/7-days-in-korea-seoul-gyeongju-busan.svg",
   "d": "Three days in Seoul, a night in Gyeongju and Busan by KTX, with transport costs, closing days and a day-by-day route.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Budget Accommodation in Seoul: Guesthouses and Hostels",
+  "u": "/budget-stays-seoul-guesthouses-hostels",
+  "p": "2026-10-12",
+  "i": "/images/budget-stays-seoul-guesthouses-hostels.svg",
+  "d": "Guesthouse dorms, motels and registered Seoul Stay lodging compared, with unofficial price ranges, airport-train areas and booking steps.",
+  "s": "Stay"
  }
 ];
