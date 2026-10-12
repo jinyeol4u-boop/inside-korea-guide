@@ -455,5 +455,13 @@ window.IKG_INDEX=[
   "i": "/images/budget-stays-seoul-guesthouses-hostels.svg",
   "d": "Guesthouse dorms, motels and registered Seoul Stay lodging compared, with unofficial price ranges, airport-train areas and booking steps.",
   "s": "Stay"
+ },
+ {
+  "t": "Korea in November: Weather, Foliage and What to Pack",
+  "u": "/korea-in-november-weather-packing",
+  "p": "2026-10-12",
+  "i": "/images/korea-in-november-weather-packing.svg",
+  "d": "Seoul averages 11.9°C by day and 3.5°C at night in November. Check 2026 foliage peak dates, Gyeongbokgung's 17:00 closing and what to pack.",
+  "s": "Plan Your Trip"
  }
 ];
