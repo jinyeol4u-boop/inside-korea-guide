@@ -463,5 +463,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-in-november-weather-packing.svg",
   "d": "Seoul averages 11.9°C by day and 3.5°C at night in November. Check 2026 foliage peak dates, Gyeongbokgung's 17:00 closing and what to pack.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Gyeongbokgung Palace Guide: Tickets, Hanbok and Guards",
+  "u": "/gyeongbokgung-palace-guide",
+  "p": "2026-10-13",
+  "i": "/images/gyeongbokgung-palace-guide.svg",
+  "d": "Gyeongbokgung costs 3,000 won, closes Tuesdays and is free in hanbok. Check seasonal hours, guard ceremony times and subway exits.",
+  "s": "Destinations"
  }
 ];
