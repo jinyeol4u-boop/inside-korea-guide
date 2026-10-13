@@ -471,5 +471,13 @@ window.IKG_INDEX=[
   "i": "/images/gyeongbokgung-palace-guide.svg",
   "d": "Gyeongbokgung costs 3,000 won, closes Tuesdays and is free in hanbok. Check seasonal hours, guard ceremony times and subway exits.",
   "s": "Destinations"
+ },
+ {
+  "t": "Arriving in Korea: Immigration and Customs Step by Step",
+  "u": "/arriving-in-korea-immigration-customs",
+  "p": "2026-10-14",
+  "i": "/images/arriving-in-korea-immigration-customs.svg",
+  "d": "Submit the free e-Arrival card, expect fingerprints and a photo, and know the USD 800 duty-free limit and what to declare at customs.",
+  "s": "Plan Your Trip"
  }
 ];
