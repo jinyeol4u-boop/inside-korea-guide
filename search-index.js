@@ -495,5 +495,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-subway-transfers-and-exits.svg",
   "d": "Line transfers are free inside the gates. Learn to read line colours, station numbers and exit numbers, and ride the Line 2 loop the right way.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Korean Drinking Etiquette Explained",
+  "u": "/korean-drinking-etiquette-explained",
+  "p": "2026-10-15",
+  "i": "/images/korean-drinking-etiquette-explained.svg",
+  "d": "Pour for others, use two hands with elders, turn away to sip, and know the drinking rounds, the age limit of 19 and the 0.03% driving limit.",
+  "s": "Culture"
  }
 ];

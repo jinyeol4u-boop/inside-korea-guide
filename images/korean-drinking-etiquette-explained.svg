@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of two hands pouring soju from a green bottle into a small glass held with two hands, beside a beer glass, a makgeolli bowl and small snack plates">
+<rect width="1200" height="750" fill="#EEF4FF"/>
+<circle cx="110" cy="110" r="90" fill="#D6E4FF"/><circle cx="1090" cy="110" r="70" fill="#FFE0E6"/><circle cx="1100" cy="650" r="160" fill="#DFF3E3"/>
+<rect x="0" y="560" width="1200" height="190" fill="#A9744A"/><rect x="0" y="550" width="1200" height="22" fill="#85562F"/>
+<g transform="translate(330 120) rotate(28 80 200)">
+<rect x="55" y="0" width="50" height="110" rx="14" fill="#2E8B57"/><path d="M30 110 Q80 80 130 110 V330 Q130 360 80 360 Q30 360 30 330Z" fill="#3FAE72"/>
+<rect x="45" y="190" width="70" height="90" rx="8" fill="#F4FBF6"/><rect x="58" y="215" width="44" height="8" rx="4" fill="#2E8B57"/><rect x="58" y="235" width="44" height="8" rx="4" fill="#9ED3B3"/>
+</g>
+<path d="M300 300 q-60 30 -40 90 q20 40 80 20 l40 -50 z" fill="#F2C7A5"/><path d="M300 300 q10 -40 70 -30 l20 40 z" fill="#E7B58F"/>
+<path d="M455 520 q60 -50 110 -10 q10 40 -30 55 h-80z" fill="#F2C7A5"/><path d="M520 520 q40 -30 70 0 v40 h-70z" fill="#E7B58F"/>
+<g transform="translate(520 400)"><path d="M0 0 H100 L88 130 Q86 150 50 150 Q14 150 12 130Z" fill="#FFFFFF" stroke="#7FA6D6" stroke-width="6"/><path d="M8 40 H92 L88 130 Q86 146 50 146 Q14 146 12 130Z" fill="#DDF0FF"/></g>
+<path d="M505 500 q-30 30 -10 60 q30 20 70 -5 l-5 -40z" fill="#F2C7A5"/><path d="M630 500 q30 30 10 60 q-30 20 -70 -5 l5 -40z" fill="#F2C7A5"/>
+<g transform="translate(760 330)"><path d="M0 0 H150 L135 230 Q130 250 75 250 Q20 250 15 230Z" fill="#FFFFFF" stroke="#D9A441" stroke-width="7"/><path d="M12 70 H138 L135 230 Q130 246 75 246 Q20 246 17 230Z" fill="#F7C948"/><path d="M8 20 H142 L140 70 H10Z" fill="#FFF8E1"/><path d="M155 60 q55 10 45 70 q-10 50 -60 40" fill="none" stroke="#D9A441" stroke-width="12" stroke-linecap="round"/></g>
+<g transform="translate(940 470)"><ellipse cx="90" cy="95" rx="120" ry="40" fill="#8B5E34"/><path d="M-20 40 H200 Q200 140 90 140 Q-20 140 -20 40Z" fill="#F5F0E8" stroke="#B9B2A5" stroke-width="5"/><ellipse cx="90" cy="40" rx="110" ry="24" fill="#FFFDF7"/></g>
+<g transform="translate(130 540)"><ellipse cx="90" cy="60" rx="130" ry="36" fill="#F1E3D3"/><ellipse cx="90" cy="48" rx="110" ry="28" fill="#FFF8EE"/><circle cx="40" cy="42" r="14" fill="#E4572E"/><circle cx="80" cy="36" r="14" fill="#F2A541"/><circle cx="120" cy="44" r="14" fill="#6BBF59"/><circle cx="150" cy="38" r="12" fill="#E4572E"/></g>
+<g fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity=".9"><path d="M470 170 q20 25 0 50"/><path d="M500 150 q20 25 0 50"/></g>
+</svg>
