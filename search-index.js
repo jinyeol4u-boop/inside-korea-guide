@@ -487,5 +487,13 @@ window.IKG_INDEX=[
   "i": "/images/how-to-order-korean-bbq.svg",
   "d": "Order samgyeopsal at about 21,000 won per 200g, learn portions, grilling, ssam wraps, banchan refills and why you skip the tip.",
   "s": "Food"
+ },
+ {
+  "t": "Seoul Subway Transfers and Exits: How Not to Get Lost",
+  "u": "/seoul-subway-transfers-and-exits",
+  "p": "2026-10-14",
+  "i": "/images/seoul-subway-transfers-and-exits.svg",
+  "d": "Line transfers are free inside the gates. Learn to read line colours, station numbers and exit numbers, and ride the Line 2 loop the right way.",
+  "s": "Getting Around"
  }
 ];

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a subway transfer corridor with colored line circles, direction arrows and numbered exit signs">
+<rect width="1200" height="750" fill="#EAF4FF"/>
+<circle cx="110" cy="110" r="90" fill="#CFE6FF"/><circle cx="1100" cy="100" r="70" fill="#FFE3A8"/><circle cx="1120" cy="650" r="150" fill="#D8F0DE"/>
+<rect x="0" y="540" width="1200" height="210" fill="#B8C2CF"/><rect x="0" y="530" width="1200" height="20" fill="#8D99A8"/>
+<g fill="#F7F9FC"><rect x="60" y="150" width="1080" height="330" rx="28"/></g>
+<g stroke="#D5DCE6" stroke-width="4"><path d="M60 200 H1140"/></g>
+<!-- line circles -->
+<g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle" fill="#fff">
+<circle cx="170" cy="290" r="62" fill="#2E9B48"/><text x="170" y="316" font-size="72">2</text>
+<circle cx="170" cy="420" r="46" fill="#F28C28"/><text x="170" y="438" font-size="52">3</text>
+</g>
+<!-- arrows -->
+<g fill="none" stroke="#3B4A5E" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+<path d="M270 290 H560 M520 255 L565 290 L520 325"/>
+<path d="M270 420 H460 M420 385 L465 420 L420 455"/>
+</g>
+<g font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#3B4A5E">
+<text x="290" y="262">Line 2 to the terminus</text>
+<text x="290" y="392">Transfer to Line 3</text>
+</g>
+<!-- exit signs -->
+<g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+<rect x="700" y="230" width="180" height="180" rx="22" fill="#1F2937"/>
+<circle cx="790" cy="300" r="52" fill="none" stroke="#fff" stroke-width="8"/>
+<text x="790" y="327" font-size="78" fill="#fff">5</text>
+<text x="790" y="388" font-size="30" fill="#FFD166">EXIT</text>
+<rect x="920" y="230" width="180" height="180" rx="22" fill="#1F2937"/>
+<circle cx="1010" cy="300" r="52" fill="none" stroke="#fff" stroke-width="8"/>
+<text x="1010" y="327" font-size="78" fill="#fff">9</text>
+<text x="1010" y="388" font-size="30" fill="#FFD166">EXIT</text>
+</g>
+<!-- people silhouettes -->
+<g fill="#5B6B80"><circle cx="300" cy="545" r="22"/><rect x="278" y="570" width="44" height="100" rx="20"/>
+<circle cx="860" cy="545" r="22"/><rect x="838" y="570" width="44" height="100" rx="20"/></g>
+<g fill="#E4572E"><circle cx="560" cy="535" r="24"/><rect x="536" y="562" width="48" height="108" rx="22"/><rect x="590" y="600" width="46" height="62" rx="8" fill="#2563EB"/></g>
+<!-- floor guide line -->
+<path d="M60 705 H1140" stroke="#F2C94C" stroke-width="16" stroke-dasharray="40 24"/>
+</svg>
