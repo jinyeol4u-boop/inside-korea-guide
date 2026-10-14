@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a tabletop grill with sizzling pork belly slices, lettuce leaves, small side dishes, chopsticks and tongs">
+<rect width="1200" height="750" fill="#FFF1E6"/>
+<circle cx="120" cy="110" r="90" fill="#FFD9B8"/><circle cx="1090" cy="120" r="70" fill="#FFCDD2"/><circle cx="1110" cy="640" r="160" fill="#DCEFD9"/>
+<rect x="0" y="560" width="1200" height="190" fill="#B77B4A"/><rect x="0" y="550" width="1200" height="22" fill="#8F5A2E"/>
+<g fill="#C9C9D1"><path d="M520 120 H680 L650 250 H550 Z"/></g>
+<path d="M560 250 Q600 190 640 250" fill="none" stroke="#9A9AA6" stroke-width="10"/>
+<g fill="none" stroke="#E6E6EC" stroke-width="8" stroke-linecap="round" opacity=".8"><path d="M560 100 q-20 -40 5 -70"/><path d="M600 95 q20 -40 -5 -75"/><path d="M640 100 q-18 -38 6 -68"/></g>
+<ellipse cx="600" cy="430" rx="300" ry="95" fill="#3A3A44"/>
+<ellipse cx="600" cy="415" rx="270" ry="78" fill="#55555F"/>
+<g stroke="#2E2E36" stroke-width="6"><path d="M380 415 H820 M420 372 H780 M420 458 H780 M470 345 V485 M540 340 V490 M610 338 V492 M680 340 V490 M750 345 V485"/></g>
+<g>
+<rect x="430" y="385" width="110" height="30" rx="14" fill="#F4B8A0" transform="rotate(-8 485 400)"/><rect x="430" y="385" width="110" height="10" rx="5" fill="#FFF3E4" transform="rotate(-8 485 400)"/>
+<rect x="560" y="400" width="120" height="32" rx="14" fill="#E9967A" transform="rotate(6 620 416)"/><rect x="560" y="400" width="120" height="10" rx="5" fill="#FFF3E4" transform="rotate(6 620 416)"/>
+<rect x="690" y="385" width="100" height="30" rx="14" fill="#C97A52" transform="rotate(-4 740 400)"/><rect x="690" y="385" width="100" height="9" rx="4" fill="#E8C9A0" transform="rotate(-4 740 400)"/>
+<rect x="500" y="430" width="100" height="26" rx="12" fill="#C97A52" transform="rotate(4 550 443)"/>
+</g>
+<g transform="translate(150 470)">
+<ellipse cx="0" cy="40" rx="115" ry="38" fill="#7BC47F"/><ellipse cx="-10" cy="30" rx="100" ry="32" fill="#A6DB8A"/><path d="M-90 30 q30 -20 60 0 t60 0" stroke="#5FAE63" stroke-width="5" fill="none"/>
+<ellipse cx="60" cy="10" rx="70" ry="26" fill="#8BCB75" transform="rotate(-10 60 10)"/>
+</g>
+<g transform="translate(1050 480)">
+<path d="M-70 0 H70 Q70 70 0 70 Q-70 70 -70 0Z" fill="#F5F5F5" stroke="#7B4A24" stroke-width="5"/>
+<ellipse cx="0" cy="0" rx="70" ry="16" fill="#D8412F"/><circle cx="-25" cy="-3" r="8" fill="#A82E20"/><circle cx="15" cy="2" r="9" fill="#F28B7D"/><circle cx="35" cy="-4" r="6" fill="#A82E20"/>
+</g>
+<g transform="translate(200 640)">
+<ellipse cx="0" cy="0" rx="62" ry="20" fill="#FFFFFF" stroke="#7B4A24" stroke-width="4"/><ellipse cx="0" cy="-3" rx="46" ry="12" fill="#F6C945"/>
+</g>
+<g transform="translate(330 640)">
+<ellipse cx="0" cy="0" rx="62" ry="20" fill="#FFFFFF" stroke="#7B4A24" stroke-width="4"/><ellipse cx="0" cy="-3" rx="46" ry="12" fill="#E4572E"/>
+</g>
+<g transform="translate(870 640)">
+<ellipse cx="0" cy="0" rx="62" ry="20" fill="#FFFFFF" stroke="#7B4A24" stroke-width="4"/><ellipse cx="0" cy="-3" rx="46" ry="12" fill="#B9DD7A"/>
+</g>
+<g transform="translate(1000 640)">
+<ellipse cx="0" cy="0" rx="62" ry="20" fill="#FFFFFF" stroke="#7B4A24" stroke-width="4"/><ellipse cx="0" cy="-3" rx="46" ry="12" fill="#F2A33A"/>
+</g>
+<g stroke="#5B3A1E" stroke-width="7" stroke-linecap="round"><path d="M700 690 L930 560"/><path d="M715 705 L945 575"/></g>
+<g stroke="#8A8A96" stroke-width="9" stroke-linecap="round" fill="none"><path d="M420 700 L560 585 M470 710 L585 600"/><path d="M420 700 q-40 25 -70 20"/></g>
+<rect x="470" y="605" width="260" height="60" rx="14" fill="#FFFFFF" stroke="#7B4A24" stroke-width="5"/>
+<circle cx="530" cy="635" r="14" fill="#2E9C5B"/><circle cx="600" cy="635" r="14" fill="#F2B632"/><circle cx="670" cy="635" r="14" fill="#E4572E"/>
+</svg>

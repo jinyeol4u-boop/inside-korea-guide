@@ -479,5 +479,13 @@ window.IKG_INDEX=[
   "i": "/images/arriving-in-korea-immigration-customs.svg",
   "d": "Submit the free e-Arrival card, expect fingerprints and a photo, and know the USD 800 duty-free limit and what to declare at customs.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "How to Order Korean BBQ Like a Local",
+  "u": "/how-to-order-korean-bbq",
+  "p": "2026-10-14",
+  "i": "/images/how-to-order-korean-bbq.svg",
+  "d": "Order samgyeopsal at about 21,000 won per 200g, learn portions, grilling, ssam wraps, banchan refills and why you skip the tip.",
+  "s": "Food"
  }
 ];
