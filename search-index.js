@@ -519,5 +519,13 @@ window.IKG_INDEX=[
   "i": "/images/myeongdong-vs-hongdae-vs-insadong.svg",
   "d": "Myeongdong suits shopping, Hongdae suits busking and nightlife, Insadong suits tradition. Compare stations, exits and who each Seoul area fits best.",
   "s": "Destinations"
+ },
+ {
+  "t": "Staying in Myeongdong: Pros, Cons and Who It Suits",
+  "u": "/stay-in-myeongdong-pros-cons",
+  "p": "2026-10-16",
+  "i": "/images/stay-in-myeongdong-pros-cons.svg",
+  "d": "Myeongdong suits shoppers and short trips. Weigh Line 4 access, airport bus 6015, crowds and noise, and see who should stay elsewhere.",
+  "s": "Stay"
  }
 ];

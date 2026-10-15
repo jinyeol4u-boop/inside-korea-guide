@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a hotel tower beside a busy shopping street with food stalls, lanterns, shopping bags and a bed icon under a night sky">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2D2A55"/><stop offset="1" stop-color="#8E7CC3"/></linearGradient>
+<linearGradient id="gr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB36B"/><stop offset="1" stop-color="#FF7A9A"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#FFF3B0"><circle cx="1010" cy="120" r="48"/></g>
+<circle cx="1030" cy="106" r="44" fill="#2D2A55" opacity=".35"/>
+<g fill="#fff"><circle cx="120" cy="90" r="4"/><circle cx="260" cy="150" r="3"/><circle cx="420" cy="70" r="4"/><circle cx="600" cy="130" r="3"/><circle cx="800" cy="80" r="4"/><circle cx="930" cy="210" r="3"/></g>
+<!-- distant skyline -->
+<g fill="#5A4B94"><rect x="40" y="330" width="90" height="280"/><rect x="140" y="270" width="70" height="340"/><rect x="900" y="300" width="100" height="310"/><rect x="1010" y="360" width="150" height="250"/></g>
+<!-- hotel tower -->
+<rect x="360" y="110" width="300" height="500" rx="8" fill="#F7F1E8"/>
+<rect x="360" y="110" width="300" height="40" rx="8" fill="#E4572E"/>
+<g fill="#FFD43B">
+<rect x="390" y="180" width="50" height="45" rx="4"/><rect x="470" y="180" width="50" height="45" rx="4"/><rect x="550" y="180" width="50" height="45" rx="4"/>
+<rect x="390" y="255" width="50" height="45" rx="4"/><rect x="550" y="255" width="50" height="45" rx="4"/>
+<rect x="390" y="330" width="50" height="45" rx="4"/><rect x="470" y="330" width="50" height="45" rx="4"/>
+<rect x="470" y="405" width="50" height="45" rx="4"/><rect x="550" y="405" width="50" height="45" rx="4"/>
+</g>
+<g fill="#7AD0C0"><rect x="470" y="255" width="50" height="45" rx="4"/><rect x="550" y="330" width="50" height="45" rx="4"/><rect x="390" y="405" width="50" height="45" rx="4"/></g>
+<!-- bed sign -->
+<rect x="440" y="125" width="140" height="0" fill="none"/>
+<g transform="translate(455 118)"><rect x="0" y="14" width="110" height="10" rx="3" fill="#fff"/><rect x="0" y="4" width="8" height="26" rx="2" fill="#fff"/><rect x="14" y="6" width="28" height="12" rx="5" fill="#fff"/><rect x="104" y="14" width="6" height="16" rx="2" fill="#fff"/></g>
+<!-- entrance -->
+<rect x="470" y="500" width="80" height="110" rx="6" fill="#2D2A55"/>
+<path d="M455 500 H565 L550 470 H470 Z" fill="#00A84D"/>
+<!-- street -->
+<rect x="0" y="610" width="1200" height="140" fill="#3B3566"/>
+<rect x="0" y="610" width="1200" height="10" fill="#FF7A9A"/>
+<g fill="#fff" opacity=".7"><rect x="60" y="690" width="120" height="8" rx="4"/><rect x="300" y="690" width="120" height="8" rx="4"/><rect x="540" y="690" width="120" height="8" rx="4"/><rect x="780" y="690" width="120" height="8" rx="4"/><rect x="1020" y="690" width="120" height="8" rx="4"/></g>
+<!-- lanterns -->
+<path d="M0 420 Q300 470 600 430 T1200 440" fill="none" stroke="#fff" stroke-width="3" opacity=".6"/>
+<g><circle cx="100" cy="448" r="14" fill="#FF3D71"/><circle cx="240" cy="466" r="14" fill="#FFB36B"/><circle cx="780" cy="450" r="14" fill="#7AD0C0"/><circle cx="930" cy="448" r="14" fill="#FFD43B"/><circle cx="1090" cy="440" r="14" fill="#FF3D71"/></g>
+<!-- left stall -->
+<rect x="90" y="520" width="200" height="90" fill="#8C5E3C"/>
+<path d="M70 520 H310 L285 465 H95 Z" fill="url(#gr)"/>
+<g stroke="#fff" stroke-width="5"><line x1="115" y1="480" x2="115" y2="520"/><line x1="165" y1="480" x2="165" y2="520"/><line x1="215" y1="480" x2="215" y2="520"/><line x1="265" y1="480" x2="265" y2="520"/></g>
+<g fill="#FFF3B0"><rect x="110" y="545" width="12" height="40" rx="5"/><rect x="140" y="545" width="12" height="40" rx="5"/><rect x="170" y="545" width="12" height="40" rx="5"/></g>
+<!-- right stall -->
+<rect x="760" y="520" width="200" height="90" fill="#6B452B"/>
+<path d="M740 520 H980 L955 465 H765 Z" fill="#6C5CE7"/>
+<circle cx="820" cy="560" r="22" fill="#FFB36B"/><circle cx="870" cy="560" r="22" fill="#FF7A9A"/><circle cx="920" cy="560" r="22" fill="#7AD0C0"/>
+<!-- shopping bags -->
+<path d="M620 650 L650 590 H710 L735 650 Z" fill="#FF3D71"/><path d="M652 590 Q682 555 712 590" fill="none" stroke="#B3224D" stroke-width="8"/>
+<path d="M300 660 L325 600 H385 L410 660 Z" fill="#00A84D"/><path d="M327 600 Q355 565 383 600" fill="none" stroke="#006E32" stroke-width="8"/>
+<!-- transit sign -->
+<rect x="1060" y="520" width="14" height="110" fill="#C4C9D8"/>
+<circle cx="1067" cy="500" r="36" fill="#32A2DE" stroke="#fff" stroke-width="5"/>
+<text x="1067" y="516" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">4</text>
+</svg>
