@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of hanok tile roofs on a hillside with a clock showing the 10:00 to 17:00 visiting window and Namsan Tower in the distance">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7EC8E3"/><stop offset="1" stop-color="#FFE9C7"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1010" cy="130" r="66" fill="#FFF1B8"/>
+<g fill="#FFFFFF" opacity="0.75"><ellipse cx="200" cy="120" rx="110" ry="26"/><ellipse cx="320" cy="100" rx="70" ry="22"/><ellipse cx="700" cy="85" rx="90" ry="22"/></g>
+<path d="M0 420 L200 270 L380 360 L600 220 L820 350 L1000 260 L1200 400 L1200 560 L0 560 Z" fill="#7FB59A"/>
+<g><rect x="858" y="212" width="8" height="70" fill="#7A7F92"/><ellipse cx="862" cy="300" rx="14" ry="26" fill="#9AA0B5"/><rect x="852" y="232" width="20" height="10" fill="#D94F4F"/></g>
+<path d="M0 520 Q300 430 600 480 T1200 450 L1200 750 L0 750 Z" fill="#5E9A74"/>
+<path d="M0 600 Q400 540 800 590 T1200 560 L1200 750 L0 750 Z" fill="#D8C39A"/>
+<g>
+<rect x="110" y="470" width="260" height="110" fill="#F4E7C8"/><rect x="110" y="470" width="260" height="10" fill="#7A5A3A"/>
+<rect x="150" y="510" width="60" height="70" fill="#8C5E3C"/><rect x="250" y="510" width="80" height="45" fill="#FFF8E4" stroke="#7A5A3A" stroke-width="4"/>
+<path d="M60 475 Q240 410 420 475 L395 490 Q240 440 85 490 Z" fill="#2F3E5C"/>
+<path d="M85 490 Q240 440 395 490 L395 498 Q240 452 85 498 Z" fill="#1E2A44"/>
+</g>
+<g>
+<rect x="470" y="430" width="300" height="130" fill="#F4E7C8"/><rect x="470" y="430" width="300" height="10" fill="#7A5A3A"/>
+<rect x="520" y="480" width="70" height="80" fill="#8C5E3C"/><rect x="640" y="470" width="90" height="50" fill="#FFF8E4" stroke="#7A5A3A" stroke-width="4"/>
+<path d="M410 436 Q620 360 830 436 L800 454 Q620 392 440 454 Z" fill="#3B4F7A"/>
+<path d="M440 454 Q620 392 800 454 L800 462 Q620 402 440 462 Z" fill="#26355A"/>
+</g>
+<g>
+<rect x="850" y="490" width="250" height="100" fill="#F4E7C8"/><rect x="850" y="490" width="250" height="10" fill="#7A5A3A"/>
+<rect x="890" y="530" width="55" height="60" fill="#8C5E3C"/><rect x="990" y="525" width="70" height="40" fill="#FFF8E4" stroke="#7A5A3A" stroke-width="4"/>
+<path d="M805 496 Q975 440 1145 496 L1120 510 Q975 462 830 510 Z" fill="#2F3E5C"/>
+</g>
+<g>
+<circle cx="600" cy="180" r="86" fill="#FFFFFF" stroke="#E4572E" stroke-width="10"/>
+<g stroke="#2F3E5C" stroke-width="5" stroke-linecap="round"><path d="M600 112V128"/><path d="M600 232V248"/><path d="M532 180H548"/><path d="M652 180H668"/></g>
+<path d="M600 180 L600 125" stroke="#2F3E5C" stroke-width="7" stroke-linecap="round"/>
+<path d="M600 180 L636 200" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/>
+<circle cx="600" cy="180" r="8" fill="#2F3E5C"/>
+<rect x="505" y="290" width="190" height="46" rx="23" fill="#2F3E5C"/>
+<text x="600" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">10:00 – 17:00</text>
+</g>
+<g fill="#E4572E"><circle cx="300" cy="640" r="14"/><rect x="288" y="654" width="24" height="46" rx="10"/></g>
+<g fill="#2E9CCA"><circle cx="360" cy="650" r="12"/><rect x="349" y="662" width="22" height="42" rx="9"/></g>
+<g fill="#F2B632"><circle cx="900" cy="650" r="12"/><rect x="889" y="662" width="22" height="42" rx="9"/></g>
+</svg>

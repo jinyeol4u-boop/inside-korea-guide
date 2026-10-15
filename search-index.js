@@ -503,5 +503,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-drinking-etiquette-explained.svg",
   "d": "Pour for others, use two hands with elders, turn away to sip, and know the drinking rounds, the age limit of 19 and the 0.03% driving limit.",
   "s": "Culture"
+ },
+ {
+  "t": "Bukchon Hanok Village: Visiting Hours, Rules and Route",
+  "u": "/bukchon-hanok-village-visiting-rules",
+  "p": "2026-10-15",
+  "i": "/images/bukchon-hanok-village-visiting-rules.svg",
+  "d": "Tourist hours are 10:00 to 17:00. Learn the red zone rule, the 100,000 won fine, a walking route from Anguk Station and village etiquette.",
+  "s": "Destinations"
  }
 ];
