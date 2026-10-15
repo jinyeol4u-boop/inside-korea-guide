@@ -511,5 +511,13 @@ window.IKG_INDEX=[
   "i": "/images/bukchon-hanok-village-visiting-rules.svg",
   "d": "Tourist hours are 10:00 to 17:00. Learn the red zone rule, the 100,000 won fine, a walking route from Anguk Station and village etiquette.",
   "s": "Destinations"
+ },
+ {
+  "t": "Myeongdong vs Hongdae vs Insadong: Which Suits You?",
+  "u": "/myeongdong-vs-hongdae-vs-insadong",
+  "p": "2026-10-15",
+  "i": "/images/myeongdong-vs-hongdae-vs-insadong.svg",
+  "d": "Myeongdong suits shopping, Hongdae suits busking and nightlife, Insadong suits tradition. Compare stations, exits and who each Seoul area fits best.",
+  "s": "Destinations"
  }
 ];
