@@ -543,5 +543,13 @@ window.IKG_INDEX=[
   "i": "/images/ordering-at-a-korean-restaurant.svg",
   "d": "Press the table call button, use a kiosk if there is one, expect free water and side dishes, and skip the tip. Pay at the counter.",
   "s": "Food"
+ },
+ {
+  "t": "Seoul Subway Etiquette: Seats, Bags and Phone Calls",
+  "u": "/seoul-subway-etiquette-seats-bags-calls",
+  "p": "2026-10-17",
+  "i": "/images/seoul-subway-etiquette-seats-bags-calls.svg",
+  "d": "Keep pink pregnancy seats free, offer priority seats, wear a big backpack in front and keep calls quiet. No law bans eating, but odors can draw action.",
+  "s": "Getting Around"
  }
 ];

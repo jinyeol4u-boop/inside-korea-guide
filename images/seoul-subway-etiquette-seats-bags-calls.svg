@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a subway car interior with a pink priority seat, a rider wearing a backpack in front and a phone on silent">
+<rect width="1200" height="750" fill="#FFF3E6"/>
+<circle cx="120" cy="110" r="90" fill="#FFE0C2"/><circle cx="1090" cy="95" r="70" fill="#DDEBFF"/><circle cx="1110" cy="660" r="140" fill="#E6F4D9"/>
+<rect x="60" y="120" width="1080" height="470" rx="36" fill="#F7F9FC"/>
+<rect x="60" y="120" width="1080" height="60" rx="30" fill="#2E9B48"/>
+<g fill="#CFE6FF" stroke="#8FB6E8" stroke-width="4"><rect x="120" y="215" width="200" height="130" rx="14"/><rect x="360" y="215" width="200" height="130" rx="14"/><rect x="800" y="215" width="200" height="130" rx="14"/></g>
+<g stroke="#8D99A8" stroke-width="10" stroke-linecap="round"><path d="M80 200 H1120"/><path d="M420 200 V380 M780 200 V380"/></g>
+<!-- seats -->
+<rect x="90" y="440" width="1020" height="26" rx="12" fill="#5B6B80"/>
+<rect x="110" y="400" width="230" height="60" rx="16" fill="#8FA3BA"/>
+<rect x="355" y="400" width="230" height="60" rx="16" fill="#F7A8C4"/>
+<rect x="600" y="400" width="230" height="60" rx="16" fill="#8FA3BA"/>
+<rect x="845" y="400" width="230" height="60" rx="16" fill="#8FA3BA"/>
+<g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+<text x="470" y="440" font-size="30" fill="#8A1F4B">Priority</text>
+</g>
+<!-- heart badge above pink seat -->
+<path d="M470 335 c-20-24-52-6-34 20 l34 34 l34-34 c18-26-14-44-34-20z" fill="#E0457B"/>
+<!-- rider with backpack worn in front -->
+<g><circle cx="215" cy="318" r="30" fill="#F2C9A0"/><rect x="180" y="352" width="70" height="90" rx="24" fill="#2563EB"/><rect x="190" y="372" width="50" height="62" rx="10" fill="#F28C28"/></g>
+<!-- rider on phone silent -->
+<g><circle cx="715" cy="318" r="30" fill="#F2C9A0"/><rect x="680" y="352" width="70" height="90" rx="24" fill="#7C3AED"/><rect x="750" y="360" width="26" height="44" rx="5" fill="#1F2937"/><path d="M790 372 l22 22 M812 372 l-22 22" stroke="#E4572E" stroke-width="7" stroke-linecap="round"/></g>
+<!-- standing rider offering seat -->
+<g><circle cx="960" cy="300" r="30" fill="#F2C9A0"/><rect x="925" y="334" width="70" height="106" rx="24" fill="#E4572E"/></g>
+<rect x="0" y="600" width="1200" height="150" fill="#B8C2CF"/>
+<path d="M60 690 H1140" stroke="#F2C94C" stroke-width="14" stroke-dasharray="40 24"/>
+</svg>
