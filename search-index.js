@@ -535,5 +535,13 @@ window.IKG_INDEX=[
   "i": "/images/what-not-to-bring-into-korea-customs.svg",
   "d": "Narcotics, counterfeits, weapons, raw fruit and meat are barred. Duty-free limit is USD 800; declare cash over USD 10,000 and check medicine rules.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "How to Order at a Korean Restaurant: Bells and Kiosks",
+  "u": "/ordering-at-a-korean-restaurant",
+  "p": "2026-10-16",
+  "i": "/images/ordering-at-a-korean-restaurant.svg",
+  "d": "Press the table call button, use a kiosk if there is one, expect free water and side dishes, and skip the tip. Pay at the counter.",
+  "s": "Food"
  }
 ];
