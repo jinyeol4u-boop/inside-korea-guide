@@ -527,5 +527,13 @@ window.IKG_INDEX=[
   "i": "/images/stay-in-myeongdong-pros-cons.svg",
   "d": "Myeongdong suits shoppers and short trips. Weigh Line 4 access, airport bus 6015, crowds and noise, and see who should stay elsewhere.",
   "s": "Stay"
+ },
+ {
+  "t": "What You Can't Bring into Korea: Customs Rules",
+  "u": "/what-not-to-bring-into-korea-customs",
+  "p": "2026-10-16",
+  "i": "/images/what-not-to-bring-into-korea-customs.svg",
+  "d": "Narcotics, counterfeits, weapons, raw fruit and meat are barred. Duty-free limit is USD 800; declare cash over USD 10,000 and check medicine rules.",
+  "s": "Plan Your Trip"
  }
 ];
