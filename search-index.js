@@ -567,5 +567,13 @@ window.IKG_INDEX=[
   "i": "/images/how-to-get-up-n-seoul-tower.svg",
   "d": "Cable car is 15,000 won round trip, bus 01A/01B about 1,500 won and the forest trail is free. Compare the three ways up Namsan.",
   "s": "Destinations"
+ },
+ {
+  "t": "Tipping in Korea: Do You Need To?",
+  "u": "/tipping-in-korea",
+  "p": "2026-10-18",
+  "i": "/images/tipping-in-korea.svg",
+  "d": "No tip is expected at restaurants, cafes or in taxis. Some upscale hotels add a 10% service charge; politely decline tip requests.",
+  "s": "Culture"
  }
 ];

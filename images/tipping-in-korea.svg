@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a restaurant receipt with a green check mark, a small tip jar with coins, a coffee cup and a taxi on a warm table scene">
+<rect width="1200" height="750" fill="#FFF4E0"/>
+<circle cx="120" cy="120" r="95" fill="#FFE2B8"/><circle cx="1090" cy="110" r="75" fill="#D9F0E1"/><circle cx="1110" cy="640" r="170" fill="#FFD9D2"/>
+<rect x="0" y="560" width="1200" height="190" fill="#B9794B"/><rect x="0" y="548" width="1200" height="24" fill="#8F5A33"/>
+<g transform="translate(360 90) rotate(-4 160 220)">
+<path d="M0 0 H320 V450 L290 430 L260 450 L230 430 L200 450 L170 430 L140 450 L110 430 L80 450 L50 430 L20 450 L0 440Z" fill="#FFFFFF" stroke="#D8CBB8" stroke-width="6"/>
+<rect x="40" y="40" width="240" height="18" rx="9" fill="#E4572E"/>
+<rect x="40" y="90" width="150" height="12" rx="6" fill="#CFC6B8"/><rect x="220" y="90" width="60" height="12" rx="6" fill="#CFC6B8"/>
+<rect x="40" y="125" width="170" height="12" rx="6" fill="#CFC6B8"/><rect x="220" y="125" width="60" height="12" rx="6" fill="#CFC6B8"/>
+<rect x="40" y="160" width="130" height="12" rx="6" fill="#CFC6B8"/><rect x="220" y="160" width="60" height="12" rx="6" fill="#CFC6B8"/>
+<rect x="40" y="210" width="240" height="4" fill="#E9E0D2"/>
+<rect x="40" y="235" width="110" height="16" rx="8" fill="#8A7F70"/><rect x="200" y="235" width="80" height="16" rx="8" fill="#8A7F70"/>
+<circle cx="160" cy="340" r="62" fill="#2E9E5B"/><path d="M128 340 L152 366 L196 314" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(110 360)">
+<path d="M30 40 H170 L160 190 Q158 205 100 205 Q42 205 40 190Z" fill="#E6F4FF" stroke="#7FA6D6" stroke-width="7"/>
+<rect x="20" y="20" width="160" height="26" rx="10" fill="#7FA6D6"/>
+<ellipse cx="100" cy="170" rx="48" ry="12" fill="#F7C948"/><ellipse cx="85" cy="155" rx="30" ry="9" fill="#F2B632"/><ellipse cx="118" cy="148" rx="26" ry="8" fill="#F7C948"/>
+<circle cx="160" cy="215" r="0" fill="none"/>
+</g>
+<g transform="translate(790 330)">
+<path d="M0 60 H170 L160 200 Q158 225 85 225 Q12 225 10 200Z" fill="#FFFFFF" stroke="#C9B8A4" stroke-width="7"/>
+<path d="M12 90 H168 L160 200 Q158 220 85 220 Q12 220 10 200Z" fill="#8B5A3C"/>
+<path d="M172 90 q55 5 45 55 q-8 40 -52 36" fill="none" stroke="#C9B8A4" stroke-width="12" stroke-linecap="round"/>
+<path d="M50 40 q-14 -22 0 -38 M90 40 q-14 -22 0 -38 M130 40 q-14 -22 0 -38" fill="none" stroke="#C9B8A4" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g transform="translate(850 100)">
+<rect x="0" y="70" width="260" height="90" rx="26" fill="#F7C948"/><path d="M50 70 L80 20 H180 L215 70Z" fill="#FFD966"/>
+<rect x="95" y="30" width="30" height="34" fill="#E6F4FF"/><rect x="135" y="30" width="35" height="34" fill="#E6F4FF"/>
+<circle cx="60" cy="165" r="28" fill="#3B3B4F"/><circle cx="60" cy="165" r="11" fill="#BBBBC8"/><circle cx="205" cy="165" r="28" fill="#3B3B4F"/><circle cx="205" cy="165" r="11" fill="#BBBBC8"/>
+<rect x="95" y="2" width="70" height="20" rx="6" fill="#2E9E5B"/>
+</g>
+<g transform="translate(100 600)"><ellipse cx="110" cy="55" rx="130" ry="34" fill="#F1E3D3"/><ellipse cx="110" cy="44" rx="108" ry="26" fill="#FFF8EE"/><circle cx="60" cy="40" r="13" fill="#E4572E"/><circle cx="105" cy="34" r="13" fill="#2E9E5B"/><circle cx="150" cy="42" r="13" fill="#F7C948"/></g>
+</svg>
