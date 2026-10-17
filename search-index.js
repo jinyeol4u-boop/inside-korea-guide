@@ -551,5 +551,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-subway-etiquette-seats-bags-calls.svg",
   "d": "Keep pink pregnancy seats free, offer priority seats, wear a big backpack in front and keep calls quiet. No law bans eating, but odors can draw action.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Busan in 3 Days: Beaches, Markets and Temples",
+  "u": "/busan-3-day-itinerary",
+  "p": "2026-10-17",
+  "i": "/images/busan-3-day-itinerary.svg",
+  "d": "Nampo markets, Gamcheon and Seomyeon, then a seaside temple and Haeundae. Metro fares start near 1,600 won; temple and beach are free.",
+  "s": "Itineraries"
  }
 ];

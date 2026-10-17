@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Three Busan days illustrated: harbor market, hillside village and a beach with a seaside temple">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD9A8"/><stop offset="1" stop-color="#FFF3DF"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4FB6D9"/><stop offset="1" stop-color="#1E6FA8"/></linearGradient>
+<linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7BC47F"/><stop offset="1" stop-color="#3E8E5A"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="130" r="70" fill="#FF8A3D"/>
+<circle cx="980" cy="130" r="95" fill="#FF8A3D" opacity=".18"/>
+<g fill="#fff" opacity=".9"><ellipse cx="220" cy="110" rx="90" ry="26"/><ellipse cx="290" cy="95" rx="60" ry="24"/><ellipse cx="640" cy="160" rx="80" ry="22"/></g>
+<!-- sea -->
+<rect y="430" width="1200" height="320" fill="url(#sea)"/>
+<g fill="none" stroke="#fff" stroke-width="4" opacity=".55" stroke-linecap="round"><path d="M40 520q30-18 60 0t60 0t60 0"/><path d="M480 600q30-18 60 0t60 0t60 0"/><path d="M820 540q30-18 60 0t60 0t60 0"/><path d="M180 660q30-18 60 0t60 0t60 0"/></g>
+<!-- panel 1: harbor market -->
+<g>
+<rect x="40" y="300" width="340" height="150" rx="10" fill="#FFB703"/>
+<rect x="40" y="300" width="340" height="40" rx="10" fill="#E63946"/>
+<g fill="#fff"><rect x="40" y="318" width="340" height="12"/></g>
+<path d="M40 340h340" stroke="#fff" stroke-width="6" stroke-dasharray="34 34"/>
+<rect x="70" y="370" width="110" height="80" fill="#FFF3DF"/><rect x="200" y="370" width="150" height="80" fill="#FFF3DF"/>
+<ellipse cx="125" cy="400" rx="34" ry="14" fill="#4FB6D9"/><path d="M158 400l24-14v28z" fill="#4FB6D9"/><circle cx="108" cy="397" r="3" fill="#1D3557"/>
+<ellipse cx="270" cy="405" rx="40" ry="16" fill="#F4845F"/><path d="M308 405l26-16v32z" fill="#F4845F"/><circle cx="250" cy="402" r="3" fill="#1D3557"/>
+<rect x="60" y="450" width="300" height="14" fill="#8D5A2B"/>
+<path d="M120 560l60-70 60 70z" fill="#fff" opacity=".0"/>
+<!-- boat -->
+<path d="M90 580h200l-30 36h-140z" fill="#E63946"/><rect x="170" y="540" width="6" height="40" fill="#1D3557"/><path d="M176 542l60 30h-60z" fill="#fff"/>
+</g>
+<!-- panel 2: hillside village -->
+<g>
+<path d="M410 450q130-190 380 0z" fill="url(#hill)"/>
+<g>
+<rect x="470" y="370" width="46" height="40" fill="#F28482"/><path d="M466 370l27-20 27 20z" fill="#B5446E"/>
+<rect x="524" y="345" width="46" height="40" fill="#84A59D"/><path d="M520 345l27-20 27 20z" fill="#2A6F6B"/>
+<rect x="578" y="372" width="46" height="40" fill="#F6BD60"/><path d="M574 372l27-20 27 20z" fill="#E07A1F"/>
+<rect x="632" y="395" width="46" height="40" fill="#8ECAE6"/><path d="M628 395l27-20 27 20z" fill="#2B6CB0"/>
+<rect x="436" y="408" width="46" height="40" fill="#CDB4DB"/><path d="M432 408l27-20 27 20z" fill="#7B5EA7"/>
+<rect x="690" y="415" width="46" height="34" fill="#F28482"/><path d="M686 415l27-18 27 18z" fill="#B5446E"/>
+<rect x="500" y="418" width="46" height="32" fill="#F6BD60"/><path d="M496 418l27-18 27 18z" fill="#E07A1F"/>
+</g>
+<g fill="#FFF3DF"><rect x="487" y="384" width="12" height="14"/><rect x="541" y="359" width="12" height="14"/><rect x="595" y="386" width="12" height="14"/><rect x="649" y="409" width="12" height="14"/></g>
+</g>
+<!-- panel 3: beach and temple -->
+<g>
+<path d="M800 450q200-40 360 0v120h-360z" fill="#F6D8A3"/>
+<path d="M800 470q200-40 360 0" stroke="#fff" stroke-width="8" fill="none" opacity=".7"/>
+<!-- temple on rocks -->
+<path d="M850 450q40-60 120 0z" fill="#7A6A5A"/>
+<rect x="878" y="388" width="64" height="40" fill="#C1272D"/>
+<path d="M862 392q48-46 96 0z" fill="#2A6F6B"/>
+<path d="M868 392h84" stroke="#1D3557" stroke-width="4"/>
+<rect x="902" y="402" width="16" height="26" fill="#FFB703"/>
+<!-- umbrella -->
+<path d="M1040 520q40-50 80 0z" fill="#E63946"/><path d="M1060 520q20-50 0 0" /><rect x="1078" y="520" width="4" height="46" fill="#1D3557"/>
+<path d="M1060 520q10-26 20-26t20 26z" fill="#fff" opacity=".6"/>
+<circle cx="1000" cy="560" r="10" fill="#FFB703"/>
+</g>
+<!-- bridge -->
+<g fill="none" stroke="#1D3557" stroke-width="6" stroke-linecap="round">
+<path d="M0 440h1200" opacity=".0"/>
+<path d="M380 470q90-90 180 0" opacity=".0"/>
+</g>
+<!-- day badges -->
+<g font-family="Albert Sans, Arial, sans-serif" font-weight="800" font-size="30" text-anchor="middle">
+<rect x="150" y="230" width="120" height="44" rx="22" fill="#1D3557"/><text x="210" y="261" fill="#fff">DAY 1</text>
+<rect x="540" y="230" width="120" height="44" rx="22" fill="#1D3557"/><text x="600" y="261" fill="#fff">DAY 2</text>
+<rect x="920" y="230" width="120" height="44" rx="22" fill="#1D3557"/><text x="980" y="261" fill="#fff">DAY 3</text>
+</g>
+<!-- gulls -->
+<g fill="none" stroke="#1D3557" stroke-width="4" stroke-linecap="round"><path d="M330 180q16-18 32 0q16-18 32 0"/><path d="M780 200q12-14 24 0q12-14 24 0"/></g>
+</svg>
