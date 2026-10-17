@@ -559,5 +559,13 @@ window.IKG_INDEX=[
   "i": "/images/busan-3-day-itinerary.svg",
   "d": "Nampo markets, Gamcheon and Seomyeon, then a seaside temple and Haeundae. Metro fares start near 1,600 won; temple and beach are free.",
   "s": "Itineraries"
+ },
+ {
+  "t": "How to Get Up N Seoul Tower: Cable Car, Bus or Walk",
+  "u": "/how-to-get-up-n-seoul-tower",
+  "p": "2026-10-17",
+  "i": "/images/how-to-get-up-n-seoul-tower.svg",
+  "d": "Cable car is 15,000 won round trip, bus 01A/01B about 1,500 won and the forest trail is free. Compare the three ways up Namsan.",
+  "s": "Destinations"
  }
 ];
