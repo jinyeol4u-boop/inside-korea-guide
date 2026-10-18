@@ -591,5 +591,13 @@ window.IKG_INDEX=[
   "i": "/images/seongsu-dong-guide.svg",
   "d": "Take Line 2 to Seongsu Station Exit 3, then follow a 2.1 km course of warehouse cafes, handmade shoe shops and Seoul Forest. Pop-up queues grow on weekends.",
   "s": "Destinations"
+ },
+ {
+  "t": "Vegetarian and Vegan Food in Korea: A Practical Guide",
+  "u": "/vegetarian-vegan-food-in-korea",
+  "p": "2026-10-19",
+  "i": "/images/vegetarian-vegan-food-in-korea.svg",
+  "d": "Kimchi often contains fish sauce and many soups use anchovy stock. Learn what to order, key phrases, temple food and costs, from about 1,500 won.",
+  "s": "Food"
  }
 ];

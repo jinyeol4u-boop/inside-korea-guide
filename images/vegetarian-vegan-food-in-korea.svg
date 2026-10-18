@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a vegetable bibimbap bowl with tofu, mushrooms, spinach, carrot and a leafy green garnish beside chopsticks and a cup of barley tea">
+<rect width="1200" height="750" fill="#F1F8E9"/>
+<circle cx="110" cy="110" r="90" fill="#DCEDC8"/><circle cx="1100" cy="120" r="70" fill="#FFF3C4"/><circle cx="1090" cy="650" r="160" fill="#C8E6C9"/>
+<rect x="0" y="580" width="1200" height="170" fill="#C69A6B"/><rect x="0" y="568" width="1200" height="22" fill="#A67C52"/>
+<ellipse cx="560" cy="560" rx="330" ry="46" fill="#9E7650" opacity=".5"/>
+<path d="M230 330 H890 Q880 540 560 560 Q240 540 230 330Z" fill="#37474F"/>
+<ellipse cx="560" cy="330" rx="330" ry="82" fill="#455A64"/>
+<ellipse cx="560" cy="326" rx="300" ry="68" fill="#FFF8E1"/>
+<path d="M300 320 Q420 270 560 326 L560 326 Q430 380 300 340Z" fill="#7CB342"/>
+<path d="M560 326 Q640 262 780 318 Q740 376 560 340Z" fill="#8D6E63"/>
+<path d="M360 300 Q460 250 560 290 Q500 330 360 318Z" fill="#FB8C00"/>
+<rect x="500" y="262" width="110" height="80" rx="14" fill="#FFF3C4" stroke="#E6D28A" stroke-width="5"/>
+<circle cx="640" cy="300" r="26" fill="#EF6C00"/><circle cx="700" cy="330" r="22" fill="#6D4C41"/><circle cx="420" cy="345" r="20" fill="#43A047"/>
+<circle cx="560" cy="300" r="34" fill="#FFEB3B"/><circle cx="560" cy="300" r="16" fill="#FBC02D"/>
+<path d="M740 280 q30 -50 60 -10 q-20 40 -60 10Z" fill="#2E7D32"/><path d="M330 270 q-20 -50 -60 -20 q20 40 60 20Z" fill="#66BB6A"/>
+<g transform="rotate(-18 960 300)"><rect x="880" y="140" width="14" height="420" rx="7" fill="#D7A86E"/><rect x="920" y="140" width="14" height="420" rx="7" fill="#C8975C"/></g>
+<g transform="translate(910 430)"><path d="M0 40 H130 L120 170 Q118 190 65 190 Q12 190 10 170Z" fill="#FFFFFF" stroke="#C9B8A4" stroke-width="6"/><path d="M12 70 H128 L120 170 Q118 184 65 184 Q12 184 10 170Z" fill="#A1673B"/><path d="M130 70 q42 4 34 40 q-6 30 -40 28" fill="none" stroke="#C9B8A4" stroke-width="10" stroke-linecap="round"/></g>
+<g transform="translate(70 380)"><path d="M70 60 q-90 -70 0 -160 q90 90 0 160Z" fill="#43A047"/><path d="M70 60 V-80" stroke="#2E7D32" stroke-width="6"/><path d="M150 100 q60 -90 130 -40 q-40 80 -130 40Z" fill="#7CB342"/><circle cx="120" cy="150" r="46" fill="#EF5350"/><path d="M120 108 q8 -22 28 -24" fill="none" stroke="#2E7D32" stroke-width="8" stroke-linecap="round"/></g>
+</svg>
