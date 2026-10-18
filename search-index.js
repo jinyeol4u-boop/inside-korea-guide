@@ -575,5 +575,13 @@ window.IKG_INDEX=[
   "i": "/images/tipping-in-korea.svg",
   "d": "No tip is expected at restaurants, cafes or in taxis. Some upscale hotels add a 10% service charge; politely decline tip requests.",
   "s": "Culture"
+ },
+ {
+  "t": "Getting a Korean Phone Number as a Tourist",
+  "u": "/korean-phone-number-for-tourists",
+  "p": "2026-10-18",
+  "i": "/images/korean-phone-number-for-tourists.svg",
+  "d": "A Korean 010 number needs a Data + Voice tourist SIM or eSIM and your passport. KT starts at KRW 23,500; banking verification is not supported.",
+  "s": "Plan Your Trip"
  }
 ];
