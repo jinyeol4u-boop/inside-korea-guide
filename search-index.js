@@ -583,5 +583,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-phone-number-for-tourists.svg",
   "d": "A Korean 010 number needs a Data + Voice tourist SIM or eSIM and your passport. KT starts at KRW 23,500; banking verification is not supported.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Seongsu-dong Guide: Seoul's Cafe and Pop-up District",
+  "u": "/seongsu-dong-guide",
+  "p": "2026-10-18",
+  "i": "/images/seongsu-dong-guide.svg",
+  "d": "Take Line 2 to Seongsu Station Exit 3, then follow a 2.1 km course of warehouse cafes, handmade shoe shops and Seoul Forest. Pop-up queues grow on weekends.",
+  "s": "Destinations"
  }
 ];
