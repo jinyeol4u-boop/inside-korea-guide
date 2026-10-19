@@ -607,5 +607,13 @@ window.IKG_INDEX=[
   "i": "/images/busan-metro-guide-visitors.svg",
   "d": "Busan has 4 metro lines. A one-section adult ride is 1,600 won by card, 1,700 won by QR ticket. Learn cards, app passes and 30-minute transfers.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Cheonggyecheon to Gwanghwamun: An Easy Downtown Walk",
+  "u": "/cheonggyecheon-to-gwanghwamun-walk",
+  "p": "2026-10-19",
+  "i": "/images/cheonggyecheon-to-gwanghwamun-walk.svg",
+  "d": "Start at Cheonggye Plaza (Gwanghwamun Exit 5), walk the restored 5.84 km stream with 22 bridges, and plan for rain closures and access.",
+  "s": "Destinations"
  }
 ];

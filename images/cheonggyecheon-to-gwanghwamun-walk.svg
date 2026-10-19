@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a city stream with stepping stones, a stone bridge, a waterfall and a red and blue ribbon sculpture at dusk">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B3F8F"/><stop offset="0.6" stop-color="#F28DA6"/><stop offset="1" stop-color="#FFD9A0"/></linearGradient><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5CC8E8"/><stop offset="1" stop-color="#2A7FB8"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="930" cy="170" r="64" fill="#FFF3C4"/>
+<g fill="#FFFFFF" opacity="0.35"><ellipse cx="230" cy="130" rx="120" ry="22"/><ellipse cx="560" cy="90" rx="90" ry="18"/></g>
+<g fill="#2B2F5E"><rect x="40" y="300" width="110" height="260"/><rect x="170" y="240" width="90" height="320"/><rect x="280" y="330" width="120" height="230"/><rect x="820" y="280" width="100" height="280"/><rect x="940" y="220" width="110" height="340"/><rect x="1070" y="320" width="110" height="240"/></g>
+<g fill="#FFE9A8" opacity="0.9"><rect x="60" y="330" width="14" height="18"/><rect x="95" y="330" width="14" height="18"/><rect x="60" y="380" width="14" height="18"/><rect x="190" y="270" width="14" height="18"/><rect x="225" y="270" width="14" height="18"/><rect x="190" y="330" width="14" height="18"/><rect x="300" y="360" width="14" height="18"/><rect x="340" y="360" width="14" height="18"/><rect x="840" y="310" width="14" height="18"/><rect x="960" y="260" width="14" height="18"/><rect x="1000" y="260" width="14" height="18"/><rect x="960" y="320" width="14" height="18"/><rect x="1095" y="350" width="14" height="18"/></g>
+<rect x="0" y="540" width="1200" height="40" fill="#6E7384"/>
+<path d="M0 580 H1200 V750 H0 Z" fill="#8FA0B5"/>
+<path d="M0 600 Q300 570 600 610 T1200 600 V720 H0 Z" fill="url(#w)"/>
+<g stroke="#FFFFFF" stroke-width="4" fill="none" opacity="0.6" stroke-linecap="round"><path d="M80 640 q30 -12 60 0"/><path d="M420 670 q30 -12 60 0"/><path d="M760 640 q30 -12 60 0"/><path d="M1000 685 q30 -12 60 0"/></g>
+<g fill="#D9D2C3" stroke="#A89F8C" stroke-width="3"><rect x="230" y="650" width="46" height="22" rx="8"/><rect x="310" y="660" width="46" height="22" rx="8"/><rect x="390" y="650" width="46" height="22" rx="8"/><rect x="470" y="662" width="46" height="22" rx="8"/></g>
+<g>
+<path d="M560 560 Q700 470 840 560" fill="#C9BFA9" stroke="#8C8268" stroke-width="6"/>
+<rect x="560" y="540" width="280" height="24" fill="#B8AD94"/>
+<path d="M590 540 V500 M650 540 V500 M710 540 V500 M770 540 V500 M830 540 V500" stroke="#8C8268" stroke-width="6"/>
+<rect x="580" y="492" width="260" height="10" fill="#8C8268"/>
+</g>
+<g transform="translate(130 430)">
+<path d="M0 120 C0 20 90 -30 120 40 C140 90 60 110 70 40" fill="none" stroke="#E14D4D" stroke-width="22" stroke-linecap="round"/>
+<path d="M30 120 C40 40 110 10 130 60" fill="none" stroke="#2F6DD0" stroke-width="16" stroke-linecap="round"/>
+<circle cx="86" cy="-6" r="16" fill="#FFD23F"/>
+</g>
+<g><rect x="1010" y="540" width="120" height="14" fill="#8C8268"/><path d="M1030 554 V640 M1050 554 V650 M1070 554 V640 M1090 554 V655 M1110 554 V640" stroke="#BDEBFA" stroke-width="10" stroke-linecap="round" opacity="0.85"/></g>
+<g><rect x="660" y="700" width="14" height="40" fill="#6B4A2E"/><circle cx="667" cy="690" r="34" fill="#F2A33A"/><rect x="880" y="700" width="14" height="40" fill="#6B4A2E"/><circle cx="887" cy="690" r="30" fill="#E86B4A"/><rect x="40" y="700" width="14" height="40" fill="#6B4A2E"/><circle cx="47" cy="690" r="32" fill="#4FAE6B"/></g>
+<g fill="#FFE9A8"><circle cx="600" cy="505" r="7"/><circle cx="710" cy="478" r="7"/><circle cx="820" cy="505" r="7"/></g>
+</svg>
