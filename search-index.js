@@ -599,5 +599,13 @@ window.IKG_INDEX=[
   "i": "/images/vegetarian-vegan-food-in-korea.svg",
   "d": "Kimchi often contains fish sauce and many soups use anchovy stock. Learn what to order, key phrases, temple food and costs, from about 1,500 won.",
   "s": "Food"
+ },
+ {
+  "t": "Busan Metro Guide for Visitors: Fares and Tips",
+  "u": "/busan-metro-guide-visitors",
+  "p": "2026-10-19",
+  "i": "/images/busan-metro-guide-visitors.svg",
+  "d": "Busan has 4 metro lines. A one-section adult ride is 1,600 won by card, 1,700 won by QR ticket. Learn cards, app passes and 30-minute transfers.",
+  "s": "Getting Around"
  }
 ];
