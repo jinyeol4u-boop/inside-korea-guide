@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a Seoul skyline with a palace roof, a mountain tower, a river bridge with a rainbow fountain and a zero-won coin">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4FB6E8"/><stop offset="1" stop-color="#FFF1C9"/></linearGradient><linearGradient id="riv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A8FD0"/><stop offset="1" stop-color="#1F5FA3"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1000" cy="130" r="70" fill="#FFD84D"/>
+<g fill="#FFFFFF" opacity="0.8"><ellipse cx="220" cy="120" rx="110" ry="24"/><ellipse cx="520" cy="80" rx="80" ry="18"/><ellipse cx="760" cy="150" rx="90" ry="20"/></g>
+<path d="M0 470 L170 330 L300 420 L430 300 L580 430 L700 470 Z" fill="#7BC47F"/>
+<path d="M600 470 L760 340 L900 440 L1040 350 L1200 470 Z" fill="#5FB36A"/>
+<rect x="800" y="250" width="14" height="160" fill="#8B5E3C"/><rect x="780" y="230" width="54" height="30" rx="8" fill="#E8453C"/><rect x="796" y="190" width="22" height="42" fill="#E8453C"/><rect x="803" y="165" width="8" height="28" fill="#555"/>
+<g><path d="M110 470 H400 L440 500 H70 Z" fill="#B8472E"/><path d="M90 440 Q255 380 420 440 L440 470 H70 Z" fill="#2F6E5E"/><path d="M60 440 Q255 360 450 440" fill="none" stroke="#1D4A3F" stroke-width="10" stroke-linecap="round"/><rect x="120" y="500" width="280" height="80" fill="#F4D9A8"/><g fill="#C94F3A"><rect x="140" y="500" width="16" height="80"/><rect x="200" y="500" width="16" height="80"/><rect x="260" y="500" width="16" height="80"/><rect x="320" y="500" width="16" height="80"/><rect x="380" y="500" width="16" height="80"/></g></g>
+<rect x="0" y="580" width="1200" height="170" fill="url(#riv)"/>
+<rect x="520" y="560" width="620" height="22" fill="#6B7280"/>
+<g fill="#4B5563"><rect x="560" y="582" width="16" height="60"/><rect x="700" y="582" width="16" height="60"/><rect x="840" y="582" width="16" height="60"/><rect x="980" y="582" width="16" height="60"/><rect x="1110" y="582" width="16" height="60"/></g>
+<g fill="none" stroke-width="10" stroke-linecap="round" opacity="0.9"><path d="M590 560 Q640 470 690 560" stroke="#E8453C"/><path d="M610 560 Q640 495 670 560" stroke="#FFB400"/><path d="M630 560 Q640 520 650 560" stroke="#3CB371"/><path d="M730 560 Q790 450 850 560" stroke="#8E5FD3"/><path d="M750 560 Q790 480 830 560" stroke="#3A8FD0"/></g>
+<g stroke="#FFFFFF" stroke-width="5" fill="none" opacity="0.6" stroke-linecap="round"><path d="M80 640 q30 -12 60 0"/><path d="M300 690 q30 -12 60 0"/><path d="M520 650 q30 -12 60 0"/><path d="M900 700 q30 -12 60 0"/></g>
+<g><circle cx="200" cy="660" r="62" fill="#FFD84D" stroke="#C99700" stroke-width="8"/><circle cx="200" cy="660" r="46" fill="none" stroke="#C99700" stroke-width="4"/><text x="200" y="682" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" text-anchor="middle" fill="#8A6500">0</text></g>
+</svg>

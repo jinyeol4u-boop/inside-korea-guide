@@ -615,5 +615,13 @@ window.IKG_INDEX=[
   "i": "/images/cheonggyecheon-to-gwanghwamun-walk.svg",
   "d": "Start at Cheonggye Plaza (Gwanghwamun Exit 5), walk the restored 5.84 km stream with 22 bridges, and plan for rain closures and access.",
   "s": "Destinations"
+ },
+ {
+  "t": "25 Free Things to Do in Seoul",
+  "u": "/free-things-to-do-in-seoul",
+  "p": "2026-10-20",
+  "i": "/images/free-things-to-do-in-seoul.svg",
+  "d": "Free palaces in hanbok, museum permanent collections, Han River parks and street scenes: 25 low-cost Seoul sights, with what to confirm first.",
+  "s": "Destinations"
  }
 ];
