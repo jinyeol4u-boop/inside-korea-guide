@@ -631,5 +631,13 @@ window.IKG_INDEX=[
   "i": "/images/free-wifi-in-korea-where-it-works.svg",
   "d": "Free Wi-Fi is common at airports, stations and cafes, and Seoul runs SEOUL and SEOUL_Secure networks. See coverage gaps and when to use a SIM.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Korean Street Food: What to Eat and Where",
+  "u": "/korean-street-food-what-to-eat",
+  "p": "2026-10-20",
+  "i": "/images/korean-street-food-what-to-eat.svg",
+  "d": "Street snacks cost about 1,000 to 6,000 won. Compare tteokbokki, hotteok, eomuk and bungeoppang, and find Seoul market areas and payment tips.",
+  "s": "Food"
  }
 ];

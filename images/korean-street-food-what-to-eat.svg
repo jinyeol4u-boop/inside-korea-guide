@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a street food cart with a bowl of red rice cakes, fish cake skewers, a fish-shaped pastry and a stuffed pancake">
+<rect width="1200" height="750" fill="#FFF1DC"/>
+<circle cx="120" cy="110" r="95" fill="#FFD9B0"/><circle cx="1090" cy="120" r="75" fill="#FFC9D0"/><circle cx="1060" cy="640" r="180" fill="#D6EBD3"/>
+<rect x="0" y="610" width="1200" height="140" fill="#B9854F"/><rect x="0" y="600" width="1200" height="20" fill="#8C5F32"/>
+<path d="M170 100 H1030 L1070 230 H130 Z" fill="#2E86C1"/>
+<path d="M170 100 L150 230 M300 100 L285 230 M430 100 L420 230 M560 100 L555 230 M690 100 L690 230 M820 100 L830 230 M950 100 L965 230 M1030 100 L1050 230" stroke="#FFF1DC" stroke-width="24"/>
+<rect x="160" y="230" width="14" height="370" fill="#6E4422"/><rect x="1026" y="230" width="14" height="370" fill="#6E4422"/>
+<rect x="470" y="250" width="260" height="76" rx="10" fill="#FFFFFF" stroke="#6E4422" stroke-width="5"/>
+<circle cx="540" cy="288" r="14" fill="#E4572E"/><circle cx="600" cy="288" r="14" fill="#F2B632"/><circle cx="660" cy="288" r="14" fill="#2E9C5B"/>
+<rect x="150" y="440" width="900" height="165" rx="14" fill="#4A4A55"/>
+<rect x="150" y="430" width="900" height="26" rx="10" fill="#6B6B78"/>
+<ellipse cx="330" cy="430" rx="150" ry="26" fill="#3A3A44"/>
+<path d="M200 430 Q330 340 460 430 Z" fill="#D8352A"/>
+<g fill="#F7D9A8" stroke="#B98A4E" stroke-width="3"><rect x="255" y="388" width="70" height="22" rx="11" transform="rotate(-18 290 399)"/><rect x="320" y="372" width="70" height="22" rx="11" transform="rotate(14 355 383)"/><rect x="280" y="404" width="70" height="22" rx="11" transform="rotate(-4 315 415)"/></g>
+<g stroke="#8C5F32" stroke-width="6" stroke-linecap="round"><line x1="560" y1="330" x2="560" y2="430"/><line x1="610" y1="325" x2="610" y2="430"/><line x1="660" y1="330" x2="660" y2="430"/></g>
+<g fill="#F4E3C3" stroke="#B98A4E" stroke-width="3"><rect x="544" y="340" width="32" height="26" rx="8"/><rect x="544" y="372" width="32" height="26" rx="8"/><rect x="594" y="336" width="32" height="26" rx="8"/><rect x="594" y="368" width="32" height="26" rx="8"/><rect x="644" y="340" width="32" height="26" rx="8"/><rect x="644" y="372" width="32" height="26" rx="8"/></g>
+<g><ellipse cx="800" cy="425" rx="75" ry="22" fill="#E8B04B"/><ellipse cx="800" cy="418" rx="66" ry="16" fill="#F5CD6E"/><path d="M745 418 Q800 400 855 418" stroke="#C98B2E" stroke-width="4" fill="none"/></g>
+<g transform="translate(930 400)"><path d="M-70 0 Q-30 -40 30 -20 L75 -45 L70 10 L75 55 L30 30 Q-30 50 -70 0 Z" fill="#E59A3A" stroke="#B3701C" stroke-width="4"/><circle cx="-35" cy="-6" r="6" fill="#4A2A0E"/><path d="M-10 -22 Q0 0 -10 24 M12 -20 Q22 2 12 26" stroke="#B3701C" stroke-width="3" fill="none"/></g>
+<g><rect x="120" y="640" width="110" height="80" rx="8" fill="#FFFFFF" stroke="#C9A878" stroke-width="3"/><path d="M130 640 L222 640 L216 720 L136 720 Z" fill="#FFFFFF"/><rect x="130" y="660" width="90" height="10" fill="#E4572E"/></g>
+<g><circle cx="1010" cy="690" r="40" fill="#F5CD6E" stroke="#C98B2E" stroke-width="4"/><circle cx="995" cy="680" r="6" fill="#C98B2E"/><circle cx="1025" cy="696" r="6" fill="#C98B2E"/><circle cx="1004" cy="704" r="5" fill="#C98B2E"/></g>
+<g fill="#FFF1DC" opacity=".9"><path d="M300 330 q-10 -25 0 -45 q10 -20 0 -40" stroke="#C9B08A" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M360 335 q-10 -25 0 -45 q10 -20 0 -40" stroke="#C9B08A" stroke-width="5" fill="none" stroke-linecap="round"/></g>
+</svg>
