@@ -639,5 +639,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-street-food-what-to-eat.svg",
   "d": "Street snacks cost about 1,000 to 6,000 won. Compare tteokbokki, hotteok, eomuk and bungeoppang, and find Seoul market areas and payment tips.",
   "s": "Food"
+ },
+ {
+  "t": "Seoul Unlimited Transit Passes for Tourists Compared",
+  "u": "/seoul-transit-passes-for-tourists",
+  "p": "2026-10-21",
+  "i": "/images/seoul-transit-passes-for-tourists.svg",
+  "d": "Climate Card passes cost 5,000 to 20,000 won for 1 to 7 days. Compare T-money, Mpass and WOWPASS and see how many rides make a pass pay off.",
+  "s": "Getting Around"
  }
 ];
