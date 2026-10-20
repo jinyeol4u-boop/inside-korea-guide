@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a large Wi-Fi signal above a smartphone, a coffee cup, a subway sign and a map pin on a colorful city skyline">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6C5CE7"/><stop offset="1" stop-color="#74D0F1"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<g fill="#FFFFFF" opacity="0.25"><circle cx="150" cy="120" r="60"/><circle cx="1050" cy="90" r="80"/><circle cx="980" cy="260" r="40"/></g>
+<g fill="none" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round"><path d="M360 260 Q600 60 840 260"/><path d="M430 340 Q600 200 770 340"/><path d="M500 420 Q600 340 700 420"/></g>
+<circle cx="600" cy="480" r="30" fill="#FFD84D"/>
+<g><rect x="520" y="500" width="160" height="230" rx="26" fill="#2D3436"/><rect x="534" y="530" width="132" height="170" rx="8" fill="#DFF6FF"/><circle cx="600" cy="515" r="5" fill="#636E72"/><g fill="none" stroke="#6C5CE7" stroke-width="9" stroke-linecap="round"><path d="M560 600 Q600 570 640 600"/><path d="M575 622 Q600 604 625 622"/></g><circle cx="600" cy="642" r="7" fill="#6C5CE7"/></g>
+<rect x="0" y="650" width="1200" height="100" fill="#2D3436"/>
+<g fill="#FF7675"><rect x="40" y="520" width="90" height="130"/><rect x="140" y="470" width="70" height="180"/></g>
+<g fill="#FDCB6E"><rect x="880" y="500" width="90" height="150"/><rect x="980" y="450" width="80" height="200"/><rect x="1070" y="540" width="90" height="110"/></g>
+<g fill="#FFFFFF" opacity="0.8"><rect x="55" y="540" width="14" height="14"/><rect x="85" y="540" width="14" height="14"/><rect x="155" y="490" width="12" height="12"/><rect x="900" y="520" width="14" height="14"/><rect x="1000" y="470" width="14" height="14"/><rect x="1090" y="560" width="14" height="14"/></g>
+<g><path d="M280 560 h150 l-18 90 h-114 z" fill="#FFFFFF"/><path d="M430 580 h35 a22 22 0 0 1 0 44 h-25" fill="none" stroke="#FFFFFF" stroke-width="12"/><path d="M320 530 q10 -25 0 -45 M360 530 q10 -25 0 -45 M400 530 q10 -25 0 -45" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.8"/><rect x="290" y="580" width="130" height="14" fill="#00B894"/></g>
+<g><circle cx="800" cy="560" r="55" fill="#00B894"/><text x="800" y="582" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" text-anchor="middle" fill="#FFFFFF">M</text></g>
+<g><path d="M930 360 a45 45 0 1 1 90 0 c0 35 -45 80 -45 80 s-45 -45 -45 -80z" fill="#E17055"/><circle cx="975" cy="360" r="17" fill="#FFFFFF"/></g>
+</svg>

@@ -623,5 +623,13 @@ window.IKG_INDEX=[
   "i": "/images/free-things-to-do-in-seoul.svg",
   "d": "Free palaces in hanbok, museum permanent collections, Han River parks and street scenes: 25 low-cost Seoul sights, with what to confirm first.",
   "s": "Destinations"
+ },
+ {
+  "t": "Free Wi-Fi in Korea: Where It Works and Where It Doesn't",
+  "u": "/free-wifi-in-korea-where-it-works",
+  "p": "2026-10-20",
+  "i": "/images/free-wifi-in-korea-where-it-works.svg",
+  "d": "Free Wi-Fi is common at airports, stations and cafes, and Seoul runs SEOUL and SEOUL_Secure networks. See coverage gaps and when to use a SIM.",
+  "s": "Plan Your Trip"
  }
 ];
