@@ -663,5 +663,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-at-night-best-views-walks.svg",
   "d": "Naksan Park is free and open 24 hours, N Seoul Tower runs to 22:30 or 23:00, and Banpo fountain shows run April to October. Compare views, costs and access.",
   "s": "Destinations"
+ },
+ {
+  "t": "Staying in Hongdae: Pros, Cons and Who It Suits",
+  "u": "/stay-in-hongdae-pros-cons",
+  "p": "2026-10-22",
+  "i": "/images/stay-in-hongdae-pros-cons.svg",
+  "d": "AREX all-stop trains reach Hongik Univ. Station directly. Weigh Hongdae's busking, cafes and late nights against crowds and noise, and see who it suits.",
+  "s": "Stay"
  }
 ];
