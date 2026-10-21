@@ -655,5 +655,13 @@ window.IKG_INDEX=[
   "i": "/images/jjimjilbang-guide-korean-bathhouse.svg",
   "d": "Day entry runs about 10,000 to 26,000 won. Learn the shower-first routine, uniform, sauna rooms, scrub prices and etiquette rules for a Korean bathhouse.",
   "s": "Culture"
+ },
+ {
+  "t": "Seoul at Night: The Best Night Views and Evening Walks",
+  "u": "/seoul-at-night-best-views-walks",
+  "p": "2026-10-21",
+  "i": "/images/seoul-at-night-best-views-walks.svg",
+  "d": "Naksan Park is free and open 24 hours, N Seoul Tower runs to 22:30 or 23:00, and Banpo fountain shows run April to October. Compare views, costs and access.",
+  "s": "Destinations"
  }
 ];
