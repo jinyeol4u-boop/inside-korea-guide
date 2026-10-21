@@ -647,5 +647,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-transit-passes-for-tourists.svg",
   "d": "Climate Card passes cost 5,000 to 20,000 won for 1 to 7 days. Compare T-money, Mpass and WOWPASS and see how many rides make a pass pay off.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Jjimjilbang Guide: How to Use a Korean Bathhouse",
+  "u": "/jjimjilbang-guide-korean-bathhouse",
+  "p": "2026-10-21",
+  "i": "/images/jjimjilbang-guide-korean-bathhouse.svg",
+  "d": "Day entry runs about 10,000 to 26,000 won. Learn the shower-first routine, uniform, sauna rooms, scrub prices and etiquette rules for a Korean bathhouse.",
+  "s": "Culture"
  }
 ];
