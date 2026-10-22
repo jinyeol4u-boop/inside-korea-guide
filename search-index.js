@@ -671,5 +671,13 @@ window.IKG_INDEX=[
   "i": "/images/stay-in-hongdae-pros-cons.svg",
   "d": "AREX all-stop trains reach Hongik Univ. Station directly. Weigh Hongdae's busking, cafes and late nights against crowds and noise, and see who it suits.",
   "s": "Stay"
+ },
+ {
+  "t": "T-money Card Guide: Buy, Top Up and Use",
+  "u": "/t-money-card-guide-buy-top-up",
+  "p": "2026-10-22",
+  "i": "/images/t-money-card-guide-buy-top-up.svg",
+  "d": "A T-money card costs 3,000 to 5,000 won and tops up with cash to 500,000 won. Learn where to buy, transfer discounts, where it works and refund rules.",
+  "s": "Plan Your Trip"
  }
 ];
