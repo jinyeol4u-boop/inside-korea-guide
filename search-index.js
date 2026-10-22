@@ -679,5 +679,13 @@ window.IKG_INDEX=[
   "i": "/images/t-money-card-guide-buy-top-up.svg",
   "d": "A T-money card costs 3,000 to 5,000 won and tops up with cash to 500,000 won. Learn where to buy, transfer discounts, where it works and refund rules.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Seoul on a Rainy Day: 15 Indoor Things to Do",
+  "u": "/seoul-rainy-day-indoor-things-to-do",
+  "p": "2026-10-22",
+  "i": "/images/seoul-rainy-day-indoor-things-to-do.svg",
+  "d": "Free national museums, Starfield Library and Lotte World Aquarium for wet days, with hours, fees, subway exits and Monday closures checked October 22, 2026.",
+  "s": "Destinations"
  }
 ];

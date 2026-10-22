@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a columned museum building on a rainy evening with rain streaks, warm lit windows and three people under colorful umbrellas on a wet street">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5C7C9E"/><stop offset="1" stop-color="#B7CBDD"/></linearGradient>
+<linearGradient id="road" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4A5568"/><stop offset="1" stop-color="#2D3748"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#FFFFFF" opacity=".55"><ellipse cx="200" cy="90" rx="150" ry="34"/><ellipse cx="520" cy="60" rx="170" ry="30"/><ellipse cx="900" cy="100" rx="190" ry="36"/><ellipse cx="1100" cy="50" rx="110" ry="24"/></g>
+<!-- distant towers -->
+<g fill="#8FA6BD"><rect x="40" y="300" width="90" height="300"/><rect x="140" y="360" width="70" height="240"/><rect x="980" y="280" width="100" height="320"/><rect x="1090" y="340" width="90" height="260"/></g>
+<!-- museum -->
+<g>
+<polygon points="260,250 600,150 940,250" fill="#E8D5B7"/>
+<rect x="260" y="250" width="680" height="30" fill="#D9C19A"/>
+<rect x="290" y="280" width="620" height="300" fill="#F4E6CC"/>
+<g fill="#D9C19A"><rect x="310" y="280" width="34" height="300"/><rect x="420" y="280" width="34" height="300"/><rect x="530" y="280" width="34" height="300"/><rect x="636" y="280" width="34" height="300"/><rect x="746" y="280" width="34" height="300"/><rect x="856" y="280" width="34" height="300"/></g>
+<g fill="#FFC857"><rect x="350" y="360" width="62" height="120" rx="4"/><rect x="460" y="360" width="62" height="120" rx="4"/><rect x="570" y="360" width="62" height="120" rx="4"/><rect x="680" y="360" width="62" height="120" rx="4"/><rect x="790" y="360" width="62" height="120" rx="4"/></g>
+<rect x="540" y="500" width="120" height="80" fill="#C6913F"/>
+<rect x="260" y="580" width="680" height="20" fill="#BFA77E"/>
+</g>
+<!-- road -->
+<rect x="0" y="600" width="1200" height="150" fill="url(#road)"/>
+<g fill="#FFC857" opacity=".35"><ellipse cx="450" cy="640" rx="120" ry="12"/><ellipse cx="700" cy="660" rx="150" ry="12"/></g>
+<!-- people under umbrellas -->
+<g>
+<path d="M170 520 a90 70 0 0 1 180 0 z" fill="#E4572E"/>
+<rect x="258" y="520" width="4" height="100" fill="#333"/>
+<circle cx="260" cy="560" r="16" fill="#F2C9A0"/><rect x="246" y="574" width="28" height="60" rx="10" fill="#2E86AB"/>
+</g>
+<g>
+<path d="M880 500 a80 62 0 0 1 160 0 z" fill="#3FB68B"/>
+<rect x="958" y="500" width="4" height="110" fill="#333"/>
+<circle cx="960" cy="545" r="16" fill="#E8B88A"/><rect x="946" y="559" width="28" height="64" rx="10" fill="#F2A541"/>
+</g>
+<g>
+<path d="M540 560 a70 54 0 0 1 140 0 z" fill="#9B5DE5"/>
+<rect x="608" y="560" width="4" height="86" fill="#333"/>
+<circle cx="610" cy="595" r="14" fill="#F2C9A0"/><rect x="598" y="607" width="24" height="52" rx="9" fill="#FF6392"/>
+</g>
+<!-- rain -->
+<g stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity=".6">
+<line x1="60" y1="120" x2="48" y2="152"/><line x1="140" y1="200" x2="128" y2="232"/><line x1="230" y1="90" x2="218" y2="122"/><line x1="330" y1="180" x2="318" y2="212"/><line x1="420" y1="110" x2="408" y2="142"/><line x1="500" y1="220" x2="488" y2="252"/><line x1="590" y1="100" x2="578" y2="132"/><line x1="680" y1="190" x2="668" y2="222"/><line x1="770" y1="120" x2="758" y2="152"/><line x1="850" y1="210" x2="838" y2="242"/><line x1="940" y1="100" x2="928" y2="132"/><line x1="1030" y1="190" x2="1018" y2="222"/><line x1="1120" y1="130" x2="1108" y2="162"/><line x1="100" y1="400" x2="88" y2="432"/><line x1="200" y1="450" x2="188" y2="482"/><line x1="400" y1="620" x2="388" y2="652"/><line x1="820" y1="420" x2="808" y2="452"/><line x1="1100" y1="440" x2="1088" y2="472"/><line x1="1160" y1="560" x2="1148" y2="592"/><line x1="30" y1="560" x2="18" y2="592"/><line x1="470" y1="680" x2="458" y2="712"/><line x1="760" y1="700" x2="748" y2="732"/><line x1="1000" y1="660" x2="988" y2="692"/><line x1="300" y1="700" x2="288" y2="732"/>
+</g>
+</svg>
