@@ -687,5 +687,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-rainy-day-indoor-things-to-do.svg",
   "d": "Free national museums, Starfield Library and Lotte World Aquarium for wet days, with hours, fees, subway exits and Monday closures checked October 22, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Korean Fried Chicken and Chimaek Explained",
+  "u": "/korean-fried-chicken-chimaek-explained",
+  "p": "2026-10-23",
+  "i": "/images/korean-fried-chicken-chimaek-explained.svg",
+  "d": "A whole chicken costs about 23,000 won at major chains. Compare yangnyeom, ganjang and huraideu, and learn how to order chimaek.",
+  "s": "Food"
  }
 ];

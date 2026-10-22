@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a paper bucket of golden fried chicken pieces beside two frothy beer glasses and a small dish of pickled radish at dusk">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B2D6E"/><stop offset="1" stop-color="#F4A261"/></linearGradient>
+<linearGradient id="beer" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD166"/><stop offset="1" stop-color="#E69F00"/></linearGradient>
+<linearGradient id="crust" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6B045"/><stop offset="1" stop-color="#C96F1A"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#FFF3C4"><circle cx="150" cy="110" r="4"/><circle cx="330" cy="70" r="3"/><circle cx="520" cy="130" r="4"/><circle cx="760" cy="80" r="3"/><circle cx="980" cy="120" r="4"/><circle cx="1100" cy="60" r="3"/></g>
+<circle cx="1000" cy="190" r="70" fill="#FFF1C1" opacity=".9"/>
+<g stroke="#FFD166" stroke-width="3" fill="#FFE8A3"><path d="M60 420 L60 330 M100 420 L100 300 M140 420 L140 340"/><circle cx="60" cy="324" r="9"/><circle cx="100" cy="294" r="9"/><circle cx="140" cy="334" r="9"/></g>
+<path d="M0 560 C200 520 400 590 600 560 C800 530 1000 590 1200 550 L1200 750 L0 750Z" fill="#3D405B"/>
+<rect x="0" y="600" width="1200" height="150" fill="#E07A5F"/>
+<rect x="0" y="600" width="1200" height="14" fill="#C45C42"/>
+<g transform="translate(330 250)">
+<g fill="url(#crust)" stroke="#9A4F0E" stroke-width="4">
+<ellipse cx="120" cy="40" rx="62" ry="46" transform="rotate(-20 120 40)"/>
+<ellipse cx="230" cy="20" rx="58" ry="44" transform="rotate(15 230 20)"/>
+<ellipse cx="170" cy="-20" rx="55" ry="42" transform="rotate(-5 170 -20)"/>
+</g>
+<g fill="#FFF8E7" stroke="#CFA66B" stroke-width="3"><rect x="52" y="52" width="46" height="14" rx="7" transform="rotate(-35 75 59)"/><circle cx="48" cy="82" r="10"/><circle cx="62" cy="90" r="10"/></g>
+<g fill="#FFD27A" opacity=".8"><circle cx="105" cy="30" r="6"/><circle cx="140" cy="55" r="5"/><circle cx="225" cy="12" r="6"/><circle cx="165" cy="-28" r="5"/><circle cx="200" cy="40" r="4"/></g>
+<path d="M0 40 L30 330 Q30 350 52 350 L318 350 Q340 350 340 330 L370 40Z" fill="#D62839" stroke="#8D1624" stroke-width="5"/>
+<path d="M0 40 L370 40 L360 -10 L10 -10Z" fill="#F8F0E3" opacity="0"/>
+<g fill="#FFFFFF" opacity=".92"><path d="M40 140 L330 140 L322 200 L48 200Z"/></g>
+<g fill="#D62839"><circle cx="110" cy="170" r="14"/><circle cx="185" cy="170" r="14"/><circle cx="260" cy="170" r="14"/></g>
+<g stroke="#8D1624" stroke-width="3" opacity=".5"><path d="M60 40 L78 340"/><path d="M185 40 L185 350"/><path d="M310 40 L292 340"/></g>
+</g>
+<g transform="translate(790 330)">
+<path d="M0 0 L20 250 Q22 270 42 270 L118 270 Q138 270 140 250 L160 0Z" fill="#FFFFFF" opacity=".35" stroke="#FFFFFF" stroke-width="5"/>
+<path d="M12 60 L24 250 Q26 262 42 262 L118 262 Q134 262 136 250 L148 60Z" fill="url(#beer)"/>
+<path d="M-6 22 Q10 -30 40 -8 Q60 -42 90 -8 Q120 -34 140 -6 Q168 -16 166 22 L152 70 L8 70Z" fill="#FFFFFF"/>
+<path d="M160 60 Q230 70 226 130 Q222 190 150 190" fill="none" stroke="#FFFFFF" stroke-width="12" opacity=".6"/>
+<g fill="#FFF3C4" opacity=".8"><circle cx="50" cy="150" r="5"/><circle cx="90" cy="200" r="4"/><circle cx="110" cy="120" r="5"/><circle cx="70" cy="230" r="4"/></g>
+</g>
+<g transform="translate(990 430)">
+<path d="M0 0 L14 170 Q15 182 30 182 L80 182 Q95 182 96 170 L110 0Z" fill="#FFFFFF" opacity=".35" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M9 42 L18 168 Q19 176 30 176 L80 176 Q91 176 92 168 L101 42Z" fill="url(#beer)"/>
+<path d="M-4 14 Q8 -20 30 -4 Q48 -26 68 -4 Q90 -22 104 -2 Q120 -8 116 14 L106 48 L6 48Z" fill="#FFFFFF"/>
+</g>
+<g transform="translate(120 560)">
+<ellipse cx="90" cy="60" rx="95" ry="30" fill="#F8F0E3" stroke="#BFB5A3" stroke-width="3"/>
+<g fill="#FFFFFF" stroke="#E8C3D1" stroke-width="2"><rect x="30" y="30" width="34" height="22" rx="4"/><rect x="70" y="24" width="34" height="22" rx="4"/><rect x="110" y="32" width="34" height="22" rx="4"/><rect x="50" y="48" width="34" height="22" rx="4"/><rect x="92" y="50" width="34" height="22" rx="4"/></g>
+</g>
+<g fill="#FFD166" opacity=".9"><path d="M520 180 l8 -20 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8z"/><path d="M880 230 l6 -14 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6z"/></g>
+</svg>
