@@ -703,5 +703,13 @@ window.IKG_INDEX=[
   "i": "/images/is-korail-pass-worth-it.svg",
   "d": "A 2-day KR Pass costs about 131,000 won. Compare it with single KTX fares, see the rules and exclusions, and test your own itinerary.",
   "s": "Getting Around"
+ },
+ {
+  "t": "WOWPASS Explained: Is It Worth Getting?",
+  "u": "/wowpass-card-worth-it",
+  "p": "2026-10-23",
+  "i": "/images/wowpass-card-worth-it.svg",
+  "d": "WOWPASS costs 5,000 won to register and exchanges 16 currencies free. Compare fees, limits, T-money use and cash-out rules, checked October 23, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
