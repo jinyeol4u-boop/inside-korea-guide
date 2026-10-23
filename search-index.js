@@ -695,5 +695,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-fried-chicken-chimaek-explained.svg",
   "d": "A whole chicken costs about 23,000 won at major chains. Compare yangnyeom, ganjang and huraideu, and learn how to order chimaek.",
   "s": "Food"
+ },
+ {
+  "t": "Is the Korail Pass Worth It? KR Pass vs Tickets",
+  "u": "/is-korail-pass-worth-it",
+  "p": "2026-10-23",
+  "i": "/images/is-korail-pass-worth-it.svg",
+  "d": "A 2-day KR Pass costs about 131,000 won. Compare it with single KTX fares, see the rules and exclusions, and test your own itinerary.",
+  "s": "Getting Around"
  }
 ];
