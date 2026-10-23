@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Jeju island scene: a snow-capped volcano, a green sunrise cone by the sea, a tangerine grove and a black stone wall">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB88C"/><stop offset=".55" stop-color="#FFE3B8"/><stop offset="1" stop-color="#FFF6E6"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3FB1D6"/><stop offset="1" stop-color="#1B6AA5"/></linearGradient>
+<linearGradient id="mtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6D8F7A"/><stop offset="1" stop-color="#3F7A58"/></linearGradient>
+<linearGradient id="grass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8FD16B"/><stop offset="1" stop-color="#4FA45A"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="900" cy="250" r="78" fill="#FF7A3D"/>
+<circle cx="900" cy="250" r="115" fill="#FF7A3D" opacity=".18"/>
+<g fill="#fff" opacity=".92"><ellipse cx="180" cy="120" rx="95" ry="26"/><ellipse cx="255" cy="104" rx="62" ry="24"/><ellipse cx="760" cy="90" rx="85" ry="22"/><ellipse cx="1040" cy="140" rx="70" ry="20"/></g>
+<!-- Hallasan-like volcano -->
+<path d="M120 470 L360 190 Q410 150 460 190 L700 470 Z" fill="url(#mtn)"/>
+<path d="M320 232 Q410 196 500 232 L470 262 L440 246 L410 270 L378 246 L350 264 Z" fill="#fff"/>
+<path d="M120 470 L250 330 L330 470 Z" fill="#2F6B4C" opacity=".55"/>
+<!-- sea -->
+<rect y="470" width="1200" height="280" fill="url(#sea)"/>
+<g fill="none" stroke="#fff" stroke-width="4" opacity=".55" stroke-linecap="round"><path d="M60 560q30-18 60 0t60 0t60 0"/><path d="M520 640q30-18 60 0t60 0t60 0"/><path d="M880 560q30-18 60 0t60 0t60 0"/><path d="M250 690q30-18 60 0t60 0t60 0"/></g>
+<path d="M900 330 L900 470" stroke="#FFD27A" stroke-width="10" opacity=".55"/>
+<!-- sunrise cone peninsula -->
+<path d="M720 470 Q760 380 830 372 Q900 366 960 392 Q1010 420 1040 470 Z" fill="url(#grass)"/>
+<path d="M800 392 Q890 360 980 400 L960 412 Q890 384 820 412 Z" fill="#2F8A52"/>
+<path d="M740 470 Q790 450 850 462 Q900 474 980 458 Q1030 450 1050 470 Z" fill="#E9CE9B"/>
+<!-- foreground land -->
+<path d="M0 560 Q300 500 640 540 Q920 570 1200 520 L1200 750 L0 750 Z" fill="url(#grass)"/>
+<!-- stone wall -->
+<g fill="#3A3A44">
+<path d="M0 640 Q300 610 640 636 Q920 656 1200 624 L1200 690 Q920 724 640 700 Q300 676 0 704 Z"/>
+</g>
+<g fill="#5A5A66"><ellipse cx="60" cy="660" rx="34" ry="20"/><ellipse cx="150" cy="650" rx="30" ry="18"/><ellipse cx="240" cy="648" rx="36" ry="20"/><ellipse cx="335" cy="650" rx="30" ry="18"/><ellipse cx="430" cy="650" rx="34" ry="20"/><ellipse cx="530" cy="656" rx="32" ry="18"/><ellipse cx="630" cy="662" rx="34" ry="20"/><ellipse cx="730" cy="668" rx="30" ry="18"/><ellipse cx="830" cy="670" rx="34" ry="20"/><ellipse cx="930" cy="668" rx="32" ry="18"/><ellipse cx="1030" cy="660" rx="34" ry="20"/><ellipse cx="1130" cy="652" rx="32" ry="18"/>
+<ellipse cx="105" cy="686" rx="32" ry="16"/><ellipse cx="200" cy="682" rx="34" ry="16"/><ellipse cx="300" cy="680" rx="32" ry="16"/><ellipse cx="400" cy="682" rx="34" ry="16"/><ellipse cx="500" cy="688" rx="32" ry="16"/><ellipse cx="600" cy="694" rx="34" ry="16"/><ellipse cx="700" cy="696" rx="32" ry="16"/><ellipse cx="800" cy="698" rx="34" ry="16"/><ellipse cx="900" cy="698" rx="32" ry="16"/><ellipse cx="1000" cy="692" rx="34" ry="16"/><ellipse cx="1100" cy="686" rx="32" ry="16"/></g>
+<!-- tangerine trees -->
+<g>
+<rect x="150" y="548" width="12" height="46" fill="#7A4A25"/><circle cx="156" cy="520" r="52" fill="#2F8A52"/><circle cx="130" cy="532" r="34" fill="#3FA564"/><circle cx="184" cy="534" r="34" fill="#3FA564"/>
+<g fill="#FF9F1C"><circle cx="140" cy="510" r="9"/><circle cx="172" cy="500" r="9"/><circle cx="160" cy="536" r="9"/><circle cx="188" cy="526" r="9"/><circle cx="122" cy="534" r="9"/></g>
+<rect x="380" y="558" width="12" height="44" fill="#7A4A25"/><circle cx="386" cy="532" r="48" fill="#2F8A52"/><circle cx="362" cy="544" r="32" fill="#3FA564"/><circle cx="412" cy="546" r="32" fill="#3FA564"/>
+<g fill="#FF9F1C"><circle cx="372" cy="522" r="9"/><circle cx="400" cy="516" r="9"/><circle cx="388" cy="548" r="9"/><circle cx="414" cy="540" r="9"/></g>
+</g>
+<!-- small bus-stop sign shape and path -->
+<path d="M560 600 Q620 560 700 575" stroke="#F2D8A7" stroke-width="12" fill="none" stroke-linecap="round"/>
+<g fill="#fff" opacity=".9"><path d="M1060 210 q18-14 36 0 q18-14 36 0" stroke="#fff" stroke-width="4" fill="none"/></g>
+</svg>

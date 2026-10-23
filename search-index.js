@@ -711,5 +711,13 @@ window.IKG_INDEX=[
   "i": "/images/wowpass-card-worth-it.svg",
   "d": "WOWPASS costs 5,000 won to register and exchanges 16 currencies free. Compare fees, limits, T-money use and cash-out rules, checked October 23, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Jeju 3-Day Itinerary: City, East Coast and Seogwipo",
+  "u": "/jeju-3-day-itinerary",
+  "p": "2026-10-24",
+  "i": "/images/jeju-3-day-itinerary.svg",
+  "d": "Seongsan Ilchulbong costs 5,000 won for adults. Plan Jeju City, the east coast and Seogwipo with hours and closing days checked October 24, 2026.",
+  "s": "Itineraries"
  }
 ];
