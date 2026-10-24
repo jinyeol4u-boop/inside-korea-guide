@@ -719,5 +719,13 @@ window.IKG_INDEX=[
   "i": "/images/jeju-3-day-itinerary.svg",
   "d": "Seongsan Ilchulbong costs 5,000 won for adults. Plan Jeju City, the east coast and Seogwipo with hours and closing days checked October 24, 2026.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Changdeokgung Secret Garden Tour: How to Book",
+  "u": "/changdeokgung-secret-garden-tour",
+  "p": "2026-10-24",
+  "i": "/images/changdeokgung-secret-garden-tour.svg",
+  "d": "Secret Garden tour costs about 5,000 won. English slots run Tuesday to Sunday from 10:30; book online six days ahead (checked October 24, 2026).",
+  "s": "Destinations"
  }
 ];
