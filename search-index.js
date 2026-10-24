@@ -727,5 +727,13 @@ window.IKG_INDEX=[
   "i": "/images/changdeokgung-secret-garden-tour.svg",
   "d": "Secret Garden tour costs about 5,000 won. English slots run Tuesday to Sunday from 10:30; book online six days ahead (checked October 24, 2026).",
   "s": "Destinations"
+ },
+ {
+  "t": "Templestay in Korea: What a Night at a Temple Is Like",
+  "u": "/templestay-in-korea-what-to-expect",
+  "p": "2026-10-24",
+  "i": "/images/templestay-in-korea-what-to-expect.svg",
+  "d": "Templestay costs about 50,000-100,000 won a night with a 3-4 a.m. wake-up. Compare program types, booking and rules, checked October 24, 2026.",
+  "s": "Culture"
  }
 ];

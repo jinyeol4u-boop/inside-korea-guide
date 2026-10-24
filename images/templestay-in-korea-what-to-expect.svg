@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Mountain temple at dawn">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b2f77"/><stop offset=".55" stop-color="#f09a6b"/><stop offset="1" stop-color="#ffd9a0"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="900" cy="330" r="90" fill="#fff3c4" opacity=".95"/>
+<g fill="#4a5a8c" opacity=".75"><path d="M0 470 L180 300 L330 420 L480 260 L650 430 L800 310 L980 440 L1200 290 L1200 750 L0 750Z"/></g>
+<g fill="#2f6b57"><path d="M0 540 L200 400 L380 520 L560 420 L760 540 L960 430 L1200 540 L1200 750 L0 750Z"/></g>
+<rect x="0" y="600" width="1200" height="150" fill="#1f4d3f"/>
+<path d="M300 640 L900 640 L840 700 L360 700Z" fill="#d9c9a3"/>
+<rect x="400" y="450" width="400" height="160" fill="#b23a2e"/>
+<rect x="430" y="480" width="60" height="130" fill="#7a2018"/><rect x="570" y="480" width="60" height="130" fill="#7a2018"/><rect x="710" y="480" width="60" height="130" fill="#7a2018"/>
+<path d="M340 460 Q600 360 860 460 L820 430 Q600 330 380 430Z" fill="#2d2d3a"/>
+<path d="M360 450 Q600 340 840 450 L800 470 Q600 380 400 470Z" fill="#3b3b4f"/>
+<rect x="400" y="448" width="400" height="14" fill="#e3b33c"/>
+<g><circle cx="200" cy="520" r="40" fill="#e3b33c"/><rect x="190" y="450" width="20" height="30" fill="#7a2018"/><path d="M160 520 h80" stroke="#7a2018" stroke-width="6"/></g>
+<g fill="#e84a6f"><ellipse cx="470" cy="400" rx="18" ry="24"/><ellipse cx="600" cy="385" rx="18" ry="24"/><ellipse cx="730" cy="400" rx="18" ry="24"/></g>
+<g stroke="#2d2d3a" stroke-width="3"><path d="M470 360 v16M600 345 v16M730 360 v16"/></g>
+<g fill="#143a2d"><path d="M80 650 l50 -200 l50 200z"/><path d="M1020 650 l50 -230 l50 230z"/><path d="M1100 650 l40 -150 l40 150z"/></g>
+<g fill="#ffffff" opacity=".6"><ellipse cx="250" cy="150" rx="90" ry="22"/><ellipse cx="520" cy="110" rx="110" ry="24"/></g>
+</svg>
