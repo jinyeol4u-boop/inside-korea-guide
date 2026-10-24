@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a narrow hanok alley with tiled curved roofs, paper lanterns, a cafe sign and modern towers behind">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2F3E6B"/><stop offset="0.6" stop-color="#F08A6B"/><stop offset="1" stop-color="#FFD9A0"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="900" cy="170" r="60" fill="#FFF3C4"/>
+<g fill="#FFFFFF" opacity="0.18"><circle cx="150" cy="80" r="3"/><circle cx="300" cy="140" r="3"/><circle cx="520" cy="60" r="3"/><circle cx="700" cy="110" r="3"/><circle cx="1080" cy="70" r="3"/></g>
+<g fill="#4A5578"><rect x="60" y="240" width="110" height="330"/><rect x="190" y="180" width="90" height="390"/><rect x="900" y="260" width="120" height="310"/><rect x="1040" y="200" width="100" height="370"/></g>
+<g fill="#FFE9A8" opacity="0.75"><rect x="80" y="270" width="14" height="18"/><rect x="110" y="270" width="14" height="18"/><rect x="80" y="310" width="14" height="18"/><rect x="210" y="220" width="14" height="18"/><rect x="240" y="260" width="14" height="18"/><rect x="930" y="300" width="14" height="18"/><rect x="1070" y="240" width="14" height="18"/><rect x="1070" y="290" width="14" height="18"/></g>
+<rect x="0" y="560" width="1200" height="190" fill="#6F6A66"/>
+<path d="M430 560 L770 560 L1000 750 L200 750 Z" fill="#A89F94"/>
+<g stroke="#8E857A" stroke-width="3" fill="none" opacity="0.7"><path d="M600 560 V750"/><path d="M520 560 L420 750"/><path d="M680 560 L780 750"/></g>
+<g>
+<rect x="60" y="400" width="360" height="170" fill="#F4E6CF"/>
+<rect x="60" y="540" width="360" height="30" fill="#8B6B4A"/>
+<path d="M20 400 Q240 340 460 400 L430 372 Q240 316 50 372 Z" fill="#2E3A44"/>
+<path d="M20 400 Q240 350 460 400 L460 412 Q240 362 20 412 Z" fill="#46535E"/>
+<rect x="100" y="440" width="70" height="100" fill="#7A4B2C"/><rect x="104" y="444" width="62" height="92" fill="#F7E3A6"/>
+<g stroke="#7A4B2C" stroke-width="3"><path d="M135 444V536M104 490H166"/></g>
+<rect x="250" y="440" width="120" height="100" fill="#7A4B2C"/><rect x="256" y="446" width="108" height="88" fill="#FFD98A"/>
+<g stroke="#7A4B2C" stroke-width="3"><path d="M310 446V534M256 490H364"/></g>
+</g>
+<g>
+<rect x="780" y="400" width="360" height="170" fill="#EFD9BA"/>
+<rect x="780" y="540" width="360" height="30" fill="#8B6B4A"/>
+<path d="M740 400 Q960 340 1180 400 L1150 372 Q960 316 770 372 Z" fill="#2E3A44"/>
+<path d="M740 400 Q960 350 1180 400 L1180 412 Q960 362 740 412 Z" fill="#46535E"/>
+<rect x="830" y="440" width="120" height="100" fill="#7A4B2C"/><rect x="836" y="446" width="108" height="88" fill="#FFD98A"/>
+<g stroke="#7A4B2C" stroke-width="3"><path d="M890 446V534M836 490H944"/></g>
+<rect x="1010" y="440" width="70" height="100" fill="#7A4B2C"/><rect x="1014" y="444" width="62" height="92" fill="#F7E3A6"/>
+<rect x="1000" y="410" width="90" height="24" rx="5" fill="#2F9E6B"/><text x="1045" y="428" font-family="Albert Sans, Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle" fill="#FFFFFF">CAFE</text>
+</g>
+<g stroke="#2E3A44" stroke-width="3"><path d="M240 330 Q600 250 960 330" fill="none"/></g>
+<g>
+<g transform="translate(330 300)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2E3A44" stroke-width="3"/><ellipse cx="0" cy="48" rx="26" ry="32" fill="#E5483B"/><rect x="-14" y="16" width="28" height="8" fill="#2E3A44"/><rect x="-14" y="72" width="28" height="8" fill="#2E3A44"/></g>
+<g transform="translate(460 280)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2E3A44" stroke-width="3"/><ellipse cx="0" cy="48" rx="26" ry="32" fill="#FFB020"/><rect x="-14" y="16" width="28" height="8" fill="#2E3A44"/><rect x="-14" y="72" width="28" height="8" fill="#2E3A44"/></g>
+<g transform="translate(600 272)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2E3A44" stroke-width="3"/><ellipse cx="0" cy="48" rx="26" ry="32" fill="#E5483B"/><rect x="-14" y="16" width="28" height="8" fill="#2E3A44"/><rect x="-14" y="72" width="28" height="8" fill="#2E3A44"/></g>
+<g transform="translate(740 280)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2E3A44" stroke-width="3"/><ellipse cx="0" cy="48" rx="26" ry="32" fill="#FFB020"/><rect x="-14" y="16" width="28" height="8" fill="#2E3A44"/><rect x="-14" y="72" width="28" height="8" fill="#2E3A44"/></g>
+<g transform="translate(870 300)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2E3A44" stroke-width="3"/><ellipse cx="0" cy="48" rx="26" ry="32" fill="#E5483B"/><rect x="-14" y="16" width="28" height="8" fill="#2E3A44"/><rect x="-14" y="72" width="28" height="8" fill="#2E3A44"/></g>
+</g>
+<g transform="translate(600 640)"><path d="M-34 -30 H34 L26 34 H-26 Z" fill="#FFFFFF" stroke="#2E3A44" stroke-width="6"/><rect x="-34" y="-30" width="68" height="12" fill="#2F9E6B"/><path d="M34 -14 q28 0 28 20 q0 20 -28 20" fill="none" stroke="#2E3A44" stroke-width="6"/><path d="M-12 -52 q-8 -14 0 -26 M6 -52 q-8 -14 0 -26" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/></g>
+</svg>

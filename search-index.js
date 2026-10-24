@@ -735,5 +735,13 @@ window.IKG_INDEX=[
   "i": "/images/templestay-in-korea-what-to-expect.svg",
   "d": "Templestay costs about 50,000-100,000 won a night with a 3-4 a.m. wake-up. Compare program types, booking and rules, checked October 24, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Ikseon-dong Guide: Hanok Alleys and Old Jongno Walk",
+  "u": "/ikseon-dong-hanok-alley-guide",
+  "p": "2026-10-25",
+  "i": "/images/ikseon-dong-hanok-alley-guide.svg",
+  "d": "Ikseon-dong is free to enter via Jongno 3-ga Exit 4. Add Unhyeongung, Jongmyo and Pojangmacha Street with hours checked October 25, 2026.",
+  "s": "Destinations"
  }
 ];
