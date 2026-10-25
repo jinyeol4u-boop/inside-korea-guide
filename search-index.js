@@ -751,5 +751,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-winter-5-day-itinerary.svg",
   "d": "Two days in Seoul, a ski day trip and a night in Sokcho with the Seoraksan cable car (16,000 won) and a hot spring, checked October 25, 2026.",
   "s": "Itineraries"
+ },
+ {
+  "t": "What Koreans Eat for Breakfast (and What to Order)",
+  "u": "/what-koreans-eat-for-breakfast",
+  "p": "2026-10-25",
+  "i": "/images/what-koreans-eat-for-breakfast.svg",
+  "d": "Rice, soup and side dishes versus gimbap, toast and porridge, with prices checked October 25, 2026 and 34% of Koreans skipping breakfast.",
+  "s": "Food"
  }
 ];
