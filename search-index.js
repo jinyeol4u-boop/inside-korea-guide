@@ -759,5 +759,13 @@ window.IKG_INDEX=[
   "i": "/images/what-koreans-eat-for-breakfast.svg",
   "d": "Rice, soup and side dishes versus gimbap, toast and porridge, with prices checked October 25, 2026 and 34% of Koreans skipping breakfast.",
   "s": "Food"
+ },
+ {
+  "t": "KTX Seoul to Busan: Stations, Times and Tips",
+  "u": "/ktx-seoul-to-busan-stations-times",
+  "p": "2026-10-26",
+  "i": "/images/ktx-seoul-to-busan-stations-times.svg",
+  "d": "Fastest KTX Seoul to Busan takes about 2 hours 15 minutes. Compare stations, train types, fares and luggage rules, checked October 26, 2026.",
+  "s": "Getting Around"
  }
 ];
