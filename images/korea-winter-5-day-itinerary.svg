@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of snowy mountains, a cable car, a steaming outdoor hot spring pool and ski slopes under a pale winter sky">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B5C9E"/><stop offset="0.65" stop-color="#9EC4E8"/><stop offset="1" stop-color="#F4E3D0"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="150" r="55" fill="#FFF6D6"/>
+<g fill="#FFFFFF" opacity="0.8"><circle cx="120" cy="90" r="4"/><circle cx="260" cy="170" r="3"/><circle cx="430" cy="70" r="4"/><circle cx="610" cy="140" r="3"/><circle cx="780" cy="80" r="4"/><circle cx="1100" cy="220" r="3"/><circle cx="60" cy="260" r="3"/><circle cx="880" cy="260" r="3"/></g>
+<path d="M0 470 L200 250 L330 380 L470 200 L650 430 L800 280 L980 440 L1100 320 L1200 400 L1200 750 L0 750 Z" fill="#7A8DB5"/>
+<path d="M470 200 L430 250 L470 240 L500 265 L520 235 Z M200 250 L165 292 L200 282 L230 300 Z M800 280 L765 322 L800 312 L835 332 Z" fill="#FFFFFF"/>
+<path d="M0 560 L260 430 L520 560 L760 450 L1200 590 L1200 750 L0 750 Z" fill="#E9F1F8"/>
+<path d="M0 640 L300 560 L620 650 L900 580 L1200 660 L1200 750 L0 750 Z" fill="#FFFFFF"/>
+<g stroke="#2B3550" stroke-width="3" fill="none"><path d="M120 300 L1020 380"/></g>
+<g><rect x="520" y="338" width="64" height="46" rx="8" fill="#EF7C1C"/><rect x="532" y="348" width="16" height="16" fill="#FFF3C4"/><rect x="556" y="348" width="16" height="16" fill="#FFF3C4"/><path d="M552 338 L552 326" stroke="#2B3550" stroke-width="3"/></g>
+<g fill="#2B3550"><rect x="112" y="296" width="12" height="110"/><rect x="1014" y="372" width="12" height="110"/></g>
+<g><ellipse cx="300" cy="650" rx="190" ry="55" fill="#8B6B4A"/><ellipse cx="300" cy="645" rx="165" ry="42" fill="#5BC0DE"/><ellipse cx="300" cy="645" rx="165" ry="42" fill="none" stroke="#FFFFFF" stroke-width="4" opacity="0.6"/></g>
+<g fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.85"><path d="M250 610 Q230 570 255 540 Q280 510 255 480"/><path d="M310 610 Q290 565 315 535 Q340 505 315 470"/><path d="M370 612 Q350 580 372 552"/></g>
+<g><path d="M720 740 L860 560 L940 740 Z" fill="#00A84D"/><path d="M820 740 L920 600 L1010 740 Z" fill="#008A3E"/><path d="M860 560 L832 600 L860 592 L888 604 Z" fill="#FFFFFF"/><path d="M920 600 L900 628 L920 622 L940 630 Z" fill="#FFFFFF"/></g>
+<g stroke="#D1495B" stroke-width="5" stroke-linecap="round" fill="none"><path d="M660 690 Q700 660 740 690"/></g>
+<g><circle cx="700" cy="640" r="12" fill="#D1495B"/><path d="M700 652 L688 690 M700 652 L714 690 M700 660 L676 676 M700 660 L724 672" stroke="#D1495B" stroke-width="6" stroke-linecap="round"/><path d="M660 702 L748 692" stroke="#2B3550" stroke-width="5" stroke-linecap="round"/></g>
+</svg>

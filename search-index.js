@@ -743,5 +743,13 @@ window.IKG_INDEX=[
   "i": "/images/ikseon-dong-hanok-alley-guide.svg",
   "d": "Ikseon-dong is free to enter via Jongno 3-ga Exit 4. Add Unhyeongung, Jongmyo and Pojangmacha Street with hours checked October 25, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Korea in Winter: 5-Day Itinerary with Snow and Hot Springs",
+  "u": "/korea-winter-5-day-itinerary",
+  "p": "2026-10-25",
+  "i": "/images/korea-winter-5-day-itinerary.svg",
+  "d": "Two days in Seoul, a ski day trip and a night in Sokcho with the Seoraksan cable car (16,000 won) and a hot spring, checked October 25, 2026.",
+  "s": "Itineraries"
  }
 ];
