@@ -783,5 +783,13 @@ window.IKG_INDEX=[
   "i": "/images/gamcheon-culture-village-guide.svg",
   "d": "Free entry, Toseong Station Exit 6 plus a village bus, a 2,000 won stamp map and etiquette for visiting this living hillside neighborhood, checked October 26, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Haeundae vs Gwangalli: Which Busan Beach Suits You?",
+  "u": "/haeundae-vs-gwangalli-busan-beach",
+  "p": "2026-10-27",
+  "i": "/images/haeundae-vs-gwangalli-busan-beach.svg",
+  "d": "Haeundae has the longer beach and earlier 2026 swim season; Gwangalli has bridge views and free Saturday drone shows. Compare access, season and who each suits, checked October 27, 2026.",
+  "s": "Destinations"
  }
 ];
