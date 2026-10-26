@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a currency exchange booth with a rate board, stacks of banknotes, coins and a passport">
+<rect width="1200" height="750" fill="#E8F4FF"/>
+<circle cx="130" cy="120" r="95" fill="#FFE0B2"/><circle cx="1080" cy="120" r="85" fill="#DDF5E3"/><circle cx="1000" cy="680" r="190" fill="#FFD6E0"/>
+<rect x="0" y="620" width="1200" height="130" fill="#B7D9F2"/>
+<rect x="0" y="608" width="1200" height="24" fill="#2E9CCA"/>
+<g transform="translate(90 170)">
+<rect x="0" y="60" width="520" height="400" rx="20" fill="#FFFFFF" stroke="#23304A" stroke-width="6"/>
+<path d="M-20 70 H540 L500 -10 H20 Z" fill="#FF7043" stroke="#23304A" stroke-width="6" stroke-linejoin="round"/>
+<path d="M60 -10 L40 70 M140 -10 L130 70 M220 -10 L220 70 M300 -10 L310 70 M380 -10 L400 70 M460 -10 L490 70" stroke="#FFFFFF" stroke-width="10"/>
+<rect x="40" y="110" width="440" height="180" rx="14" fill="#23304A"/>
+<g fill="#FFD54F"><rect x="64" y="136" width="90" height="16" rx="6"/><rect x="64" y="176" width="90" height="16" rx="6"/><rect x="64" y="216" width="90" height="16" rx="6"/><rect x="64" y="256" width="90" height="16" rx="6"/></g>
+<g fill="#7CE0A3"><rect x="200" y="136" width="130" height="16" rx="6"/><rect x="200" y="176" width="130" height="16" rx="6"/><rect x="200" y="216" width="130" height="16" rx="6"/><rect x="200" y="256" width="130" height="16" rx="6"/></g>
+<g fill="#FFFFFF" opacity=".85"><rect x="370" y="136" width="90" height="16" rx="6"/><rect x="370" y="176" width="90" height="16" rx="6"/><rect x="370" y="216" width="90" height="16" rx="6"/><rect x="370" y="256" width="90" height="16" rx="6"/></g>
+<rect x="30" y="330" width="460" height="40" rx="10" fill="#BFE8FF" stroke="#23304A" stroke-width="5"/>
+<rect x="80" y="390" width="360" height="70" fill="#2E9CCA"/>
+</g>
+<g transform="translate(700 330)">
+<rect x="0" y="130" width="200" height="110" rx="10" fill="#9ED8A8" stroke="#23304A" stroke-width="5"/>
+<rect x="30" y="100" width="200" height="110" rx="10" fill="#B8E4BF" stroke="#23304A" stroke-width="5"/>
+<rect x="60" y="70" width="200" height="110" rx="10" fill="#CDEFD2" stroke="#23304A" stroke-width="5"/>
+<circle cx="160" cy="125" r="34" fill="#E6F7EE" stroke="#23304A" stroke-width="4"/>
+<path d="M145 125 H175 M160 110 V140" stroke="#23304A" stroke-width="6" stroke-linecap="round"/>
+<rect x="260" y="170" width="190" height="70" rx="10" fill="#FFCDD2" stroke="#23304A" stroke-width="5" transform="rotate(-6 355 205)"/>
+<circle cx="355" cy="205" r="24" fill="#FFEBEE" stroke="#23304A" stroke-width="4" transform="rotate(-6 355 205)"/>
+</g>
+<g transform="translate(910 190) rotate(8)">
+<rect width="190" height="260" rx="16" fill="#7C4DFF" stroke="#23304A" stroke-width="6"/>
+<circle cx="95" cy="105" r="46" fill="none" stroke="#FFD54F" stroke-width="7"/>
+<path d="M49 105 H141 M95 59 V151 M62 78 Q95 105 62 132 M128 78 Q95 105 128 132" stroke="#FFD54F" stroke-width="4" fill="none"/>
+<rect x="40" y="188" width="110" height="14" rx="6" fill="#FFFFFF" opacity=".85"/>
+<rect x="55" y="214" width="80" height="12" rx="6" fill="#FFFFFF" opacity=".55"/>
+</g>
+<g transform="translate(720 520)">
+<circle cx="40" cy="60" r="44" fill="#FFD54F" stroke="#C99700" stroke-width="6"/>
+<circle cx="140" cy="76" r="36" fill="#FFD54F" stroke="#C99700" stroke-width="6"/>
+<circle cx="225" cy="60" r="44" fill="#FFD54F" stroke="#C99700" stroke-width="6"/>
+</g>
+</svg>

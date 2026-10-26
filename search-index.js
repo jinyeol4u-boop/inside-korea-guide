@@ -767,5 +767,13 @@ window.IKG_INDEX=[
   "i": "/images/ktx-seoul-to-busan-stations-times.svg",
   "d": "Fastest KTX Seoul to Busan takes about 2 hours 15 minutes. Compare stations, train types, fares and luggage rules, checked October 26, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Where to Exchange Money in Korea for the Best Rate",
+  "u": "/where-to-exchange-money-in-korea",
+  "p": "2026-10-26",
+  "i": "/images/where-to-exchange-money-in-korea.svg",
+  "d": "Exchange only a little at Incheon Airport, compare city shops, bring your passport and know the USD 10,000 declaration limit, checked October 26, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
