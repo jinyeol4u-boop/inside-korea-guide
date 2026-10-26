@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of colorful hillside houses stacked on a steep slope with winding stairs, a small bus and a sunset sky over the bay">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd2a1"/><stop offset="0.6" stop-color="#ffb7c5"/><stop offset="1" stop-color="#a9dcf0"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3bb0d0"/><stop offset="1" stop-color="#14688f"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="900" cy="170" r="80" fill="#fff3c4"/><circle cx="900" cy="170" r="120" fill="#fff3c4" opacity=".3"/>
+<rect x="0" y="560" width="1200" height="190" fill="url(#sea)"/>
+<g stroke="#fff" stroke-width="5" fill="none" opacity=".65" stroke-linecap="round"><path d="M700 620 q30 -12 60 0 t60 0"/><path d="M880 680 q30 -12 60 0 t60 0"/><path d="M980 600 q30 -12 60 0 t60 0"/></g>
+<path d="M0 750 L0 250 Q200 160 420 300 Q620 430 780 560 L1200 600 L1200 750Z" fill="#6aa97b"/>
+<path d="M0 750 L0 330 Q200 250 400 380 Q580 500 720 640 L1200 650 L1200 750Z" fill="#4f9366"/>
+<g>
+<rect x="60" y="300" width="90" height="70" fill="#f26b6b"/><path d="M52 300 L105 262 L158 300Z" fill="#b94a4a"/>
+<rect x="170" y="330" width="80" height="64" fill="#ffd34e"/><path d="M162 330 L210 296 L258 330Z" fill="#c99a1d"/>
+<rect x="270" y="360" width="86" height="66" fill="#5fc0e8"/><path d="M262 360 L313 326 L364 360Z" fill="#2f86ad"/>
+<rect x="100" y="400" width="96" height="72" fill="#8ad17f"/><path d="M92 400 L148 364 L204 400Z" fill="#4c9a43"/>
+<rect x="220" y="440" width="84" height="66" fill="#f59ad0"/><path d="M212 440 L262 406 L312 440Z" fill="#c25e98"/>
+<rect x="330" y="470" width="90" height="68" fill="#ff9d4d"/><path d="M322 470 L375 436 L428 470Z" fill="#c9692a"/>
+<rect x="40" y="500" width="90" height="68" fill="#a98be8"/><path d="M32 500 L85 464 L138 500Z" fill="#6f55b3"/>
+<rect x="160" y="530" width="92" height="70" fill="#ffd34e"/><path d="M152 530 L206 494 L260 530Z" fill="#c99a1d"/>
+<rect x="450" y="520" width="86" height="64" fill="#5fc0e8"/><path d="M442 520 L493 486 L544 520Z" fill="#2f86ad"/>
+<rect x="280" y="570" width="96" height="70" fill="#f26b6b"/><path d="M272 570 L328 534 L384 570Z" fill="#b94a4a"/>
+<rect x="560" y="570" width="86" height="62" fill="#8ad17f"/><path d="M552 570 L603 538 L654 570Z" fill="#4c9a43"/>
+<rect x="400" y="610" width="96" height="70" fill="#f59ad0"/><path d="M392 610 L448 574 L504 610Z" fill="#c25e98"/>
+</g>
+<path d="M130 300 L190 380 L250 420 L330 500 L420 590 L520 660" stroke="#fff" stroke-width="12" fill="none" stroke-linecap="round" stroke-dasharray="26 14" opacity=".9"/>
+<g transform="translate(700 640)"><rect width="150" height="64" rx="12" fill="#2f6fd1"/><rect x="14" y="12" width="28" height="22" fill="#d9f0ff"/><rect x="50" y="12" width="28" height="22" fill="#d9f0ff"/><rect x="86" y="12" width="28" height="22" fill="#d9f0ff"/><circle cx="34" cy="68" r="12" fill="#333"/><circle cx="116" cy="68" r="12" fill="#333"/></g>
+<g transform="translate(560 190)"><circle cx="0" cy="0" r="28" fill="#ffe08a" stroke="#c99a1d" stroke-width="4"/><path d="M-12 -4 q6 -8 12 0 q6 -8 12 0" stroke="#7a5a00" stroke-width="3" fill="none"/><rect x="-6" y="28" width="12" height="40" fill="#7a5a00"/><path d="M-30 70 H30" stroke="#7a5a00" stroke-width="6"/></g>
+<g fill="#fff" opacity=".85"><ellipse cx="300" cy="120" rx="70" ry="22"/><ellipse cx="350" cy="106" rx="50" ry="20"/><ellipse cx="1050" cy="300" rx="80" ry="22"/></g>
+</svg>

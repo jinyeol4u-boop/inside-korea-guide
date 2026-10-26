@@ -775,5 +775,13 @@ window.IKG_INDEX=[
   "i": "/images/where-to-exchange-money-in-korea.svg",
   "d": "Exchange only a little at Incheon Airport, compare city shops, bring your passport and know the USD 10,000 declaration limit, checked October 26, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Gamcheon Culture Village: How to Get There and What to See",
+  "u": "/gamcheon-culture-village-guide",
+  "p": "2026-10-26",
+  "i": "/images/gamcheon-culture-village-guide.svg",
+  "d": "Free entry, Toseong Station Exit 6 plus a village bus, a 2,000 won stamp map and etiquette for visiting this living hillside neighborhood, checked October 26, 2026.",
+  "s": "Destinations"
  }
 ];
