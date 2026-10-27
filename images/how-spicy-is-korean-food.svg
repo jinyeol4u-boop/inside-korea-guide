@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of Korean dishes arranged by heat, from mild bibimbap and bulgogi to red stew and tteokbokki, with a chili-pepper heat scale">
+<rect width="1200" height="750" fill="#FFF3E6"/>
+<circle cx="100" cy="90" r="80" fill="#FFE0B2"/><circle cx="1110" cy="100" r="65" fill="#FFCDD2"/><circle cx="1100" cy="650" r="140" fill="#FFE0B2"/>
+<rect x="0" y="560" width="1200" height="190" fill="#B9855A"/><rect x="0" y="548" width="1200" height="22" fill="#9C6B43"/>
+<defs><linearGradient id="h" x1="0" x2="1"><stop offset="0" stop-color="#66BB6A"/><stop offset=".45" stop-color="#FFCA28"/><stop offset=".75" stop-color="#FB8C00"/><stop offset="1" stop-color="#C62828"/></linearGradient></defs>
+<rect x="120" y="120" width="960" height="40" rx="20" fill="url(#h)"/>
+<g fill="#C62828"><path d="M150 100 q-30 -10 -20 -40 q14 10 22 30z" fill="#2E7D32"/></g>
+<g transform="translate(130 70)"><path d="M0 30 q10 40 40 36 q-6 -20 -10 -40z" fill="#C62828"/><path d="M0 30 q-4 -14 6 -22" stroke="#2E7D32" stroke-width="6" fill="none"/></g>
+<g transform="translate(560 70)"><path d="M0 30 q10 40 40 36 q-6 -20 -10 -40z" fill="#E64A19"/><path d="M0 30 q-4 -14 6 -22" stroke="#2E7D32" stroke-width="6" fill="none"/><path d="M60 30 q10 40 40 36 q-6 -20 -10 -40z" fill="#E64A19"/><path d="M60 30 q-4 -14 6 -22" stroke="#2E7D32" stroke-width="6" fill="none"/></g>
+<g transform="translate(960 70)"><path d="M0 30 q10 40 40 36 q-6 -20 -10 -40z" fill="#B71C1C"/><path d="M0 30 q-4 -14 6 -22" stroke="#2E7D32" stroke-width="6" fill="none"/><path d="M50 30 q10 40 40 36 q-6 -20 -10 -40z" fill="#B71C1C"/><path d="M50 30 q-4 -14 6 -22" stroke="#2E7D32" stroke-width="6" fill="none"/><path d="M100 30 q10 40 40 36 q-6 -20 -10 -40z" fill="#B71C1C"/></g>
+<g><path d="M110 340 H350 Q342 480 230 490 Q118 480 110 340Z" fill="#ECEFF1" stroke="#B0BEC5" stroke-width="6"/><ellipse cx="230" cy="340" rx="120" ry="34" fill="#fff" stroke="#B0BEC5" stroke-width="6"/><ellipse cx="230" cy="334" rx="98" ry="24" fill="#FFFDE7"/><circle cx="190" cy="328" r="10" fill="#7CB342"/><circle cx="230" cy="324" r="10" fill="#FB8C00"/><circle cx="270" cy="330" r="10" fill="#8D6E63"/><circle cx="230" cy="334" r="7" fill="#FFB300"/></g>
+<g><ellipse cx="520" cy="470" rx="110" ry="30" fill="#CFD8DC"/><path d="M430 440 q50 -60 100 -20 q40 -30 70 10 q-60 50 -170 10z" fill="#8D4B2E"/><path d="M450 430 q30 -20 60 -4" stroke="#C98B5E" stroke-width="6" fill="none"/></g>
+<g><path d="M700 340 H940 Q932 480 820 490 Q708 480 700 340Z" fill="#37474F"/><ellipse cx="820" cy="340" rx="120" ry="34" fill="#455A64"/><ellipse cx="820" cy="336" rx="100" ry="25" fill="#E64A19"/><circle cx="780" cy="334" r="9" fill="#FFF3C4"/><circle cx="830" cy="340" r="8" fill="#66BB6A"/><circle cx="865" cy="332" r="9" fill="#FFF3C4"/></g>
+<g><path d="M980 360 H1160 Q1152 480 1070 490 Q988 480 980 360Z" fill="#212121"/><ellipse cx="1070" cy="360" rx="90" ry="26" fill="#424242"/><ellipse cx="1070" cy="356" rx="74" ry="19" fill="#B71C1C"/><rect x="1020" y="346" width="26" height="12" rx="6" fill="#FFCCBC"/><rect x="1060" y="352" width="26" height="12" rx="6" fill="#FFCCBC"/><rect x="1100" y="346" width="26" height="12" rx="6" fill="#FFCCBC"/></g>
+<g><ellipse cx="230" cy="620" rx="80" ry="22" fill="#CFD8DC"/><rect x="170" y="588" width="120" height="28" rx="10" fill="#FFF8E1"/></g>
+<g><ellipse cx="520" cy="630" rx="80" ry="22" fill="#CFD8DC"/><path d="M460 616 q60 -40 120 0z" fill="#FFE082"/></g>
+<g><ellipse cx="820" cy="630" rx="80" ry="22" fill="#CFD8DC"/><path d="M770 618 q50 -30 100 0z" fill="#FFAB91"/></g>
+<g><ellipse cx="1070" cy="630" rx="80" ry="22" fill="#CFD8DC"/><path d="M1020 618 q50 -30 100 0z" fill="#EF9A9A"/></g>
+<g stroke="#8D6E63" stroke-width="8" stroke-linecap="round"><path d="M60 690 L330 640"/><path d="M60 710 L330 660"/></g>
+</svg>

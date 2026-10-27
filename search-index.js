@@ -791,5 +791,13 @@ window.IKG_INDEX=[
   "i": "/images/haeundae-vs-gwangalli-busan-beach.svg",
   "d": "Haeundae has the longer beach and earlier 2026 swim season; Gwangalli has bridge views and free Saturday drone shows. Compare access, season and who each suits, checked October 27, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "How Spicy Is Korean Food? A Heat Guide for Visitors",
+  "u": "/how-spicy-is-korean-food",
+  "p": "2026-10-27",
+  "i": "/images/how-spicy-is-korean-food.svg",
+  "d": "Which Korean dishes are spicy or mild, the phrase deol maepge haejuseyo for less heat, and how to cool down, checked October 27, 2026.",
+  "s": "Food"
  }
 ];
