@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">Two high-speed train lines merging into one</title>
+<desc id="d">Original illustration of a blue train and an orange train on two tracks that join into a single track leading to a coastal city.</desc>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ad7ff"/><stop offset="1" stop-color="#ffeccc"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cfe0f5"/></linearGradient>
+<linearGradient id="org" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6ea"/><stop offset="1" stop-color="#ffd7a8"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="120" r="60" fill="#ffd34d"/>
+<g fill="#fff" opacity=".9"><ellipse cx="220" cy="110" rx="90" ry="26"/><ellipse cx="290" cy="96" rx="56" ry="22"/><ellipse cx="640" cy="170" rx="80" ry="22"/></g>
+<path d="M0 470 Q220 400 440 460 T900 450 Q1050 430 1200 470 V750 H0Z" fill="#62c187"/>
+<path d="M0 580 Q300 520 600 575 T1200 560 V750 H0Z" fill="#2f9e5f"/>
+<g fill="none" stroke="#33415f" stroke-width="12" stroke-linecap="round">
+<path d="M60 360 H420 Q560 360 640 450 Q700 520 820 520 H1140"/>
+<path d="M60 640 H420 Q560 640 640 560 Q700 520 820 520"/>
+</g>
+<g stroke="#8a97b5" stroke-width="4" opacity=".7"><path d="M120 345v30M200 345v30M280 345v30M360 345v30M120 625v30M200 625v30M280 625v30M360 625v30M900 505v30M980 505v30M1060 505v30"/></g>
+<g>
+<rect x="110" y="290" width="290" height="62" rx="26" fill="url(#blue)" stroke="#2b6cb0" stroke-width="4"/>
+<rect x="130" y="304" width="210" height="18" rx="6" fill="#2b6cb0"/>
+<circle cx="365" cy="321" r="9" fill="#2b6cb0"/>
+<rect x="110" y="570" width="290" height="62" rx="26" fill="url(#org)" stroke="#e07a1f" stroke-width="4"/>
+<rect x="130" y="584" width="210" height="18" rx="6" fill="#e07a1f"/>
+<circle cx="365" cy="601" r="9" fill="#e07a1f"/>
+<rect x="840" y="458" width="300" height="62" rx="26" fill="url(#blue)" stroke="#2b6cb0" stroke-width="4"/>
+<rect x="860" y="472" width="150" height="18" rx="6" fill="#2b6cb0"/><rect x="1020" y="472" width="80" height="18" rx="6" fill="#e07a1f"/>
+</g>
+<g>
+<rect x="520" y="160" width="14" height="70" fill="#6b7a99"/><rect x="560" y="130" width="12" height="100" fill="#8391ad"/><rect x="590" y="180" width="16" height="50" fill="#5a6a8d"/>
+<path d="M0 230 H1200" stroke="none"/>
+</g>
+<g fill="#ffe28a" stroke="#d8a928" stroke-width="2"><circle cx="640" cy="450" r="22"/></g>
+<path d="M630 450 l8 8 14 -16" fill="none" stroke="#a36a00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

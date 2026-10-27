@@ -799,5 +799,13 @@ window.IKG_INDEX=[
   "i": "/images/how-spicy-is-korean-food.svg",
   "d": "Which Korean dishes are spicy or mild, the phrase deol maepge haejuseyo for less heat, and how to cool down, checked October 27, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "KTX vs SRT: What the 2026 Merger Changed for Visitors",
+  "u": "/ktx-vs-srt-merger-what-changed",
+  "p": "2026-10-27",
+  "i": "/images/ktx-vs-srt-merger-what-changed.svg",
+  "d": "SRT merged into KTX on September 1, 2026. What changed for visitors: stations, about 10% lower fares, KORAIL+ booking and open questions, checked October 27, 2026.",
+  "s": "Getting Around"
  }
 ];
