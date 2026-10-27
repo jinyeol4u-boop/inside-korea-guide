@@ -807,5 +807,13 @@ window.IKG_INDEX=[
   "i": "/images/ktx-vs-srt-merger-what-changed.svg",
   "d": "SRT merged into KTX on September 1, 2026. What changed for visitors: stations, about 10% lower fares, KORAIL+ booking and open questions, checked October 27, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Korea in December: Weather, Events and What to Pack",
+  "u": "/korea-in-december-weather-events",
+  "p": "2026-10-28",
+  "i": "/images/korea-in-december-weather-events.svg",
+  "d": "Seoul averages 4.2°C by day and -3.4°C at night in December. Winter lantern, light and skating events, palace hours and what to pack, checked October 28, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
