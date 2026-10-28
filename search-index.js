@@ -815,5 +815,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-in-december-weather-events.svg",
   "d": "Seoul averages 4.2°C by day and -3.4°C at night in December. Winter lantern, light and skating events, palace hours and what to pack, checked October 28, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Seoul's Five Grand Palaces Compared: Fees and Hours",
+  "u": "/seoul-five-grand-palaces-compared",
+  "p": "2026-10-28",
+  "i": "/images/seoul-five-grand-palaces-compared.svg",
+  "d": "Fees from free to 3,000 won, closing days, hours and subway exits for Seoul's five palaces, plus which to pick and how to enter free, checked October 28, 2026.",
+  "s": "Culture"
  }
 ];
