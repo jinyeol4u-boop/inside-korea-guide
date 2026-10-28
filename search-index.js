@@ -823,5 +823,13 @@ window.IKG_INDEX=[
   "i": "/images/seoul-five-grand-palaces-compared.svg",
   "d": "Fees from free to 3,000 won, closing days, hours and subway exits for Seoul's five palaces, plus which to pick and how to enter free, checked October 28, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Gangnam vs Jongno: Where Should You Base Yourself?",
+  "u": "/gangnam-vs-jongno-where-to-stay",
+  "p": "2026-10-28",
+  "i": "/images/gangnam-vs-jongno-where-to-stay.svg",
+  "d": "Gangnam's COEX and K-beauty shopping versus Jongno's palaces and hanok lanes: airport routes, who suits each area and how to choose, checked October 28, 2026.",
+  "s": "Stay"
  }
 ];
