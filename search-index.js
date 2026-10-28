@@ -831,5 +831,13 @@ window.IKG_INDEX=[
   "i": "/images/gangnam-vs-jongno-where-to-stay.svg",
   "d": "Gangnam's COEX and K-beauty shopping versus Jongno's palaces and hanok lanes: airport routes, who suits each area and how to choose, checked October 28, 2026.",
   "s": "Stay"
+ },
+ {
+  "t": "How Much Does a Trip to Korea Cost? A Daily Budget",
+  "u": "/korea-trip-cost-daily-budget",
+  "p": "2026-10-29",
+  "i": "/images/korea-trip-cost-daily-budget.svg",
+  "d": "Lean (60,000 to 80,000 won) and mid-range (105,000 to 175,000 won) daily Korea budgets from Seoul meal averages, transit fares and lodging, checked October 29, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
