@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a seaside fish market with tanks of fish, crabs and a gull-wing roof">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd9a8"/><stop offset="1" stop-color="#ffefd6"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2aa7c9"/><stop offset="1" stop-color="#0d6c96"/></linearGradient>
+<linearGradient id="tank" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9be3f0"/><stop offset="1" stop-color="#3bb4d4"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="130" r="70" fill="#ff9a3c" opacity=".9"/>
+<rect y="330" width="1200" height="140" fill="url(#sea)"/>
+<g fill="none" stroke="#bfeaf5" stroke-width="5" stroke-linecap="round" opacity=".8"><path d="M40 370q30-20 60 0t60 0t60 0"/><path d="M820 420q30-20 60 0t60 0t60 0"/><path d="M400 440q30-20 60 0t60 0t60 0"/></g>
+<g fill="#fff"><path d="M120 150q25-25 50 0q25-25 50 0q-25 8-50 0q-25 8-50 0z"/><path d="M330 100q20-20 40 0q20-20 40 0q-20 6-40 0q-20 6-40 0z"/></g>
+<path d="M150 320L600 190L1050 320L1050 350L150 350Z" fill="#e8553d"/>
+<path d="M150 320L600 190L1050 320" fill="none" stroke="#b83a26" stroke-width="10" stroke-linejoin="round"/>
+<path d="M600 190q-150 70-450 130M600 190q150 70 450 130" fill="none" stroke="#ffd1c4" stroke-width="6" opacity=".7"/>
+<rect x="160" y="350" width="880" height="260" fill="#fff6e8"/>
+<rect x="160" y="350" width="880" height="18" fill="#d9c7a8"/>
+<g fill="#7a5a3a"><rect x="200" y="368" width="14" height="242"/><rect x="590" y="368" width="14" height="242"/><rect x="986" y="368" width="14" height="242"/></g>
+<rect x="160" y="610" width="880" height="40" fill="#8c8c96"/>
+<rect x="160" y="650" width="880" height="14" fill="#6b6b75"/>
+<g>
+<rect x="240" y="470" width="220" height="110" rx="10" fill="url(#tank)" stroke="#2a7f9c" stroke-width="6"/>
+<rect x="640" y="470" width="220" height="110" rx="10" fill="url(#tank)" stroke="#2a7f9c" stroke-width="6"/>
+<g fill="#ff7a59"><ellipse cx="310" cy="520" rx="34" ry="16"/><path d="M342 520l26-14v28z"/></g>
+<g fill="#ffc83d"><ellipse cx="400" cy="552" rx="30" ry="13"/><path d="M428 552l22-12v24z"/></g>
+<g fill="#6ad39a"><ellipse cx="710" cy="515" rx="32" ry="14"/><path d="M740 515l24-13v26z"/></g>
+<g fill="#ff9ab8"><ellipse cx="800" cy="550" rx="34" ry="15"/><path d="M832 550l24-14v28z"/></g>
+<g fill="#fff"><circle cx="296" cy="516" r="4"/><circle cx="391" cy="549" r="4"/><circle cx="699" cy="512" r="4"/><circle cx="788" cy="546" r="4"/></g>
+<g fill="none" stroke="#fff" stroke-width="3" opacity=".8"><circle cx="270" cy="500" r="7"/><circle cx="440" cy="498" r="5"/><circle cx="670" cy="495" r="6"/><circle cx="845" cy="505" r="5"/></g>
+</g>
+<g transform="translate(500 600)"><ellipse cx="0" cy="0" rx="48" ry="30" fill="#e8553d"/><circle cx="-22" cy="-30" r="8" fill="#e8553d"/><circle cx="22" cy="-30" r="8" fill="#e8553d"/><g stroke="#e8553d" stroke-width="7" stroke-linecap="round" fill="none"><path d="M-48 -4l-30-20M48 -4l30-20M-40 14l-26 14M40 14l26 14"/></g><circle cx="-20" cy="-32" r="3" fill="#222"/><circle cx="20" cy="-32" r="3" fill="#222"/></g>
+<rect x="270" y="400" width="160" height="46" rx="8" fill="#0d6c96"/>
+<rect x="670" y="400" width="160" height="46" rx="8" fill="#0d6c96"/>
+<g fill="#fff"><circle cx="320" cy="423" r="9"/><circle cx="350" cy="423" r="9"/><circle cx="380" cy="423" r="9"/><circle cx="720" cy="423" r="9"/><circle cx="750" cy="423" r="9"/><circle cx="780" cy="423" r="9"/></g>
+<g fill="#fff"><path d="M905 240q15-15 30 0q15-15 30 0q-15 5-30 0q-15 5-30 0z"/></g>
+<g fill="#2b2b3a"><circle cx="110" cy="610" r="22"/><rect x="92" y="632" width="36" height="60" rx="14" fill="#3e8ed0"/></g>
+<rect x="0" y="690" width="1200" height="60" fill="#0d6c96"/>
+<g fill="none" stroke="#9be3f0" stroke-width="5" stroke-linecap="round" opacity=".7"><path d="M60 720q30-18 60 0t60 0t60 0"/><path d="M520 722q30-18 60 0t60 0t60 0"/><path d="M900 718q30-18 60 0t60 0t60 0"/></g>
+</svg>

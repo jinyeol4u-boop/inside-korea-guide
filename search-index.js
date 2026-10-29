@@ -855,5 +855,13 @@ window.IKG_INDEX=[
   "i": "/images/how-to-use-naver-map-in-english.svg",
   "d": "Switch to English, search by Korean name, read bus and subway routes and match exit numbers, checked October 29, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Jagalchi Fish Market: How to Buy and Eat Seafood in Busan",
+  "u": "/jagalchi-fish-market-busan-guide",
+  "p": "2026-10-30",
+  "i": "/images/jagalchi-fish-market-busan-guide.svg",
+  "d": "Pick live seafood from first-floor tanks, eat at second-floor restaurants, subway access and sourced hours and closing days, checked October 30, 2026.",
+  "s": "Food"
  }
 ];
