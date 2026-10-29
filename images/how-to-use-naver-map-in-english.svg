@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Phone showing a map with a route, pins and a language switch">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3d6"/><stop offset="1" stop-color="#d9f2e6"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<circle cx="150" cy="130" r="90" fill="#ffd166" opacity=".7"/><circle cx="1070" cy="640" r="130" fill="#7bd3a8" opacity=".6"/>
+<rect x="60" y="540" width="1080" height="14" rx="7" fill="#9ad1c0" opacity=".6"/>
+<g transform="translate(400,50)"><rect width="400" height="650" rx="46" fill="#26324a"/><rect x="18" y="18" width="364" height="614" rx="32" fill="#f7fbf9"/>
+<rect x="18" y="18" width="364" height="70" rx="32" fill="#00a84d"/><rect x="18" y="56" width="364" height="32" fill="#00a84d"/>
+<rect x="44" y="34" width="250" height="40" rx="20" fill="#fff"/><circle cx="68" cy="54" r="9" fill="none" stroke="#00a84d" stroke-width="4"/><rect x="90" y="50" width="140" height="8" rx="4" fill="#cfd8d3"/>
+<rect x="308" y="34" width="56" height="40" rx="20" fill="#ffd166"/><text x="336" y="62" font-family="Arial" font-size="22" font-weight="700" text-anchor="middle" fill="#26324a">EN</text>
+<rect x="30" y="100" width="340" height="360" fill="#e8f3ee"/>
+<path d="M30 200 H370 M30 330 H370 M120 100 V460 M260 100 V460" stroke="#fff" stroke-width="16"/>
+<rect x="150" y="120" width="90" height="60" rx="8" fill="#bfe3cf"/><rect x="280" y="350" width="80" height="90" rx="8" fill="#bfe3cf"/><rect x="40" y="350" width="70" height="90" rx="8" fill="#f9d9b8"/>
+<path d="M70 420 L120 330 L120 200 L260 200 L260 140" fill="none" stroke="#2f7bff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70" cy="420" r="14" fill="#fff" stroke="#2f7bff" stroke-width="7"/>
+<path d="M260 100 c-20 0 -34 14 -34 32 c0 26 34 56 34 56 s34 -30 34 -56 c0 -18 -14 -32 -34 -32z" fill="#ef476f"/><circle cx="260" cy="132" r="11" fill="#fff"/>
+<rect x="30" y="478" width="340" height="136" rx="18" fill="#fff" stroke="#dfe8e3" stroke-width="3"/>
+<circle cx="76" cy="530" r="26" fill="#2f7bff"/><text x="76" y="539" font-family="Arial" font-size="26" font-weight="700" text-anchor="middle" fill="#fff">2</text>
+<rect x="120" y="512" width="200" height="14" rx="7" fill="#26324a"/><rect x="120" y="540" width="140" height="10" rx="5" fill="#9aa8a1"/>
+<rect x="56" y="578" width="70" height="22" rx="11" fill="#ffd166"/><rect x="136" y="578" width="70" height="22" rx="11" fill="#7bd3a8"/><rect x="216" y="578" width="70" height="22" rx="11" fill="#ef9fb7"/></g>
+<g transform="translate(110,230)"><rect width="200" height="110" rx="20" fill="#fff" stroke="#00a84d" stroke-width="5"/><text x="100" y="52" font-family="Arial" font-size="30" font-weight="700" text-anchor="middle" fill="#26324a">Exit 2</text><text x="100" y="88" font-family="Arial" font-size="24" text-anchor="middle" fill="#00a84d">2번 출구</text></g>
+<g transform="translate(890,200)"><rect width="200" height="110" rx="20" fill="#fff" stroke="#2f7bff" stroke-width="5"/><text x="100" y="52" font-family="Arial" font-size="30" font-weight="700" text-anchor="middle" fill="#26324a">Bus 3 min</text><text x="100" y="88" font-family="Arial" font-size="24" text-anchor="middle" fill="#2f7bff">live arrival</text></g>
+</svg>

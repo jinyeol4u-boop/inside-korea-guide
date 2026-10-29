@@ -847,5 +847,13 @@ window.IKG_INDEX=[
   "i": "/images/haedong-yonggungsa-temple-busan-guide.svg",
   "d": "Free entry, 04:30 to 19:20 daily per VisitKorea, bus 181 from Haeundae Station in about 35 to 50 minutes, plus the 108 steps and temple etiquette, checked October 29, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "How to Use Naver Map in English: A Visitor's Guide",
+  "u": "/how-to-use-naver-map-in-english",
+  "p": "2026-10-29",
+  "i": "/images/how-to-use-naver-map-in-english.svg",
+  "d": "Switch to English, search by Korean name, read bus and subway routes and match exit numbers, checked October 29, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
