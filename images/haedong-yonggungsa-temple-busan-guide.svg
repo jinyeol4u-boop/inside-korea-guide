@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a seaside temple with curved tile roofs on a rocky cliff, stone steps, lanterns and a sunrise over the ocean">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb36b"/><stop offset="0.5" stop-color="#ff9fa8"/><stop offset="1" stop-color="#ffe3b8"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2fa7c9"/><stop offset="1" stop-color="#0f5a85"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="360" cy="400" r="150" fill="#fff0b8" opacity=".35"/>
+<circle cx="360" cy="400" r="95" fill="#fff6d0"/>
+<g fill="#fff" opacity=".7"><ellipse cx="820" cy="140" rx="110" ry="26"/><ellipse cx="900" cy="170" rx="80" ry="20"/><ellipse cx="190" cy="190" rx="90" ry="22"/></g>
+<rect x="0" y="420" width="1200" height="330" fill="url(#sea)"/>
+<g stroke="#fff" stroke-width="5" fill="none" opacity=".6" stroke-linecap="round"><path d="M60 500 q30 -12 60 0 t60 0"/><path d="M220 560 q30 -12 60 0 t60 0"/><path d="M80 650 q30 -12 60 0 t60 0"/><path d="M420 620 q30 -12 60 0 t60 0"/><path d="M300 470 q30 -12 60 0 t60 0"/></g>
+<path d="M1200 750 L1200 230 Q1080 250 980 330 Q880 410 780 470 Q700 540 640 620 Q600 680 560 750Z" fill="#6f6a7a"/>
+<path d="M1200 750 L1200 300 Q1100 330 1010 400 Q930 470 850 530 Q780 590 730 750Z" fill="#59546a"/>
+<path d="M1200 280 Q1100 270 1000 320 Q940 350 900 380 L1200 400Z" fill="#4f9366"/>
+<path d="M1200 750 L1200 520 Q1050 560 900 640 Q820 690 780 750Z" fill="#4a465a"/>
+<g stroke="#ffd9a0" stroke-width="3" opacity=".9"><path d="M780 470 l-40 40"/><path d="M810 485 l-40 40"/><path d="M840 500 l-40 40"/><path d="M870 515 l-40 40"/></g>
+<path d="M980 330 L720 560" stroke="#c9b9a0" stroke-width="22" stroke-linecap="round"/>
+<g stroke="#8d7b66" stroke-width="3"><path d="M968 342 l-14 -14"/><path d="M940 366 l-14 -14"/><path d="M912 390 l-14 -14"/><path d="M884 414 l-14 -14"/><path d="M856 438 l-14 -14"/><path d="M828 462 l-14 -14"/><path d="M800 486 l-14 -14"/><path d="M772 510 l-14 -14"/><path d="M744 534 l-14 -14"/></g>
+<g>
+<rect x="720" y="395" width="170" height="85" fill="#e9d6b0"/>
+<rect x="720" y="395" width="170" height="14" fill="#c24a3d"/>
+<rect x="740" y="415" width="16" height="65" fill="#b33d33"/><rect x="780" y="415" width="16" height="65" fill="#b33d33"/><rect x="820" y="415" width="16" height="65" fill="#b33d33"/><rect x="860" y="415" width="16" height="65" fill="#b33d33"/>
+<path d="M690 398 Q805 360 920 398 L890 380 Q805 330 720 380Z" fill="#2c4a63"/>
+<path d="M675 402 Q720 395 740 372 L870 372 Q890 395 935 402 Q900 392 880 366 L730 366 Q710 392 675 402Z" fill="#1f3a52"/>
+<path d="M730 366 Q805 290 880 366 Z" fill="#35607f"/>
+<path d="M745 350 Q805 270 865 350" fill="none" stroke="#1f3a52" stroke-width="6"/>
+<circle cx="805" cy="290" r="8" fill="#f2c14e"/>
+</g>
+<g><rect x="560" y="500" width="70" height="46" fill="#e9d6b0"/><path d="M548 502 Q595 470 642 502 L626 488 Q595 450 564 488Z" fill="#2c4a63"/></g>
+<g>
+<line x1="470" y1="420" x2="470" y2="470" stroke="#8b5a2b" stroke-width="4"/>
+<ellipse cx="470" cy="490" rx="22" ry="28" fill="#e84a4a"/><rect x="458" y="466" width="24" height="6" fill="#8b5a2b"/>
+<ellipse cx="520" cy="505" rx="18" ry="24" fill="#ffd34e"/><rect x="510" y="484" width="20" height="5" fill="#8b5a2b"/>
+<ellipse cx="420" cy="508" rx="18" ry="24" fill="#4eb7e8"/><rect x="410" y="487" width="20" height="5" fill="#8b5a2b"/>
+</g>
+<g><rect x="1010" y="270" width="12" height="70" fill="#8b5a2b"/><circle cx="1016" cy="250" r="34" fill="#3e8f58"/><circle cx="1050" cy="270" r="26" fill="#4eae6b"/><circle cx="985" cy="275" r="26" fill="#4eae6b"/></g>
+<g fill="#fff" opacity=".85"><path d="M640 730 q20 -30 45 -5 q20 -35 50 0 q25 -25 45 5Z"/></g>
+<path d="M0 750 L0 690 Q150 640 300 700 Q420 740 520 750Z" fill="#ffd9a0" opacity=".5"/>
+</svg>

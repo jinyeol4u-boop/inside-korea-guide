@@ -839,5 +839,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-trip-cost-daily-budget.svg",
   "d": "Lean (60,000 to 80,000 won) and mid-range (105,000 to 175,000 won) daily Korea budgets from Seoul meal averages, transit fares and lodging, checked October 29, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Haedong Yonggungsa Temple: Hours, Access and Etiquette",
+  "u": "/haedong-yonggungsa-temple-busan-guide",
+  "p": "2026-10-29",
+  "i": "/images/haedong-yonggungsa-temple-busan-guide.svg",
+  "d": "Free entry, 04:30 to 19:20 daily per VisitKorea, bus 181 from Haeundae Station in about 35 to 50 minutes, plus the 108 steps and temple etiquette, checked October 29, 2026.",
+  "s": "Destinations"
  }
 ];
