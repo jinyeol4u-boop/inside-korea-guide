@@ -879,5 +879,13 @@ window.IKG_INDEX=[
   "i": "/images/haeundae-blueline-park-sky-capsule-guide.svg",
   "d": "Sky Capsule from 50,000 won per capsule, Beach Train from 10,000 won, weekly booking opening four weeks ahead and seasonal hours, checked October 30, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Traditional Korean Crafts You Can Try as a Visitor",
+  "u": "/traditional-korean-crafts-you-can-try",
+  "p": "2026-10-31",
+  "i": "/images/traditional-korean-crafts-you-can-try.svg",
+  "d": "Hands-on workshops in Bukchon, the free Seoul Museum of Craft Art, and hanji and pottery options in Jeonju and Icheon, checked October 31, 2026.",
+  "s": "Culture"
  }
 ];

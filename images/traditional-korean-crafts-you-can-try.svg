@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a craft table with a paper lantern, a knotted tassel, a mother-of-pearl box and a ceramic bowl">
+<rect width="1200" height="750" fill="#FFF3E0"/>
+<circle cx="1060" cy="110" r="75" fill="#FFD966"/><circle cx="120" cy="120" r="90" fill="#FBE0E6"/>
+<rect x="0" y="520" width="1200" height="230" fill="#E7D3B0"/>
+<rect x="0" y="520" width="1200" height="22" fill="#C9A874"/>
+<!-- hanji lantern -->
+<g transform="translate(250 140)">
+<line x1="100" y1="0" x2="100" y2="60" stroke="#6B4A2B" stroke-width="6"/>
+<rect x="60" y="55" width="80" height="16" rx="6" fill="#8C2F1E"/>
+<path d="M50 71 Q0 190 50 310 H150 Q200 190 150 71z" fill="#FFE9B8" stroke="#E4572E" stroke-width="6"/>
+<path d="M50 140 H150 M42 200 H158 M50 262 H150" stroke="#E4572E" stroke-width="5" fill="none"/>
+<path d="M100 71 V310" stroke="#E4572E" stroke-width="4"/>
+<rect x="60" y="306" width="80" height="16" rx="6" fill="#8C2F1E"/>
+<path d="M100 322 V380" stroke="#2FB67C" stroke-width="6"/><circle cx="100" cy="392" r="12" fill="#2FB67C"/>
+</g>
+<!-- knot tassel -->
+<g transform="translate(560 120)">
+<line x1="0" y1="0" x2="0" y2="80" stroke="#6B4A2B" stroke-width="5"/>
+<circle cx="0" cy="110" r="32" fill="#E4572E"/><circle cx="0" cy="110" r="18" fill="#FFD966"/>
+<path d="M-32 110 Q-60 150 -32 175 M32 110 Q60 150 32 175" stroke="#E4572E" stroke-width="10" fill="none" stroke-linecap="round"/>
+<path d="M-26 155 L26 155 L18 215 L-18 215z" fill="#2FB67C"/>
+<g stroke="#2FB67C" stroke-width="5"><path d="M-14 215 V300 M-7 215 V310 M0 215 V315 M7 215 V310 M14 215 V300"/></g>
+</g>
+<!-- mother-of-pearl box -->
+<g transform="translate(760 330)">
+<rect x="0" y="40" width="240" height="150" rx="14" fill="#23304A"/>
+<rect x="0" y="0" width="240" height="56" rx="14" fill="#2B3A5C"/>
+<g fill="none" stroke="#BFE9E2" stroke-width="5" stroke-linecap="round">
+<path d="M30 120 q40 -50 80 0 q40 50 80 0"/><path d="M30 150 q40 -30 80 0 q40 30 80 0" stroke="#F7C6D9"/>
+</g>
+<circle cx="120" cy="28" r="9" fill="#F7C6D9"/>
+</g>
+<!-- ceramic bowl -->
+<g transform="translate(450 410)">
+<path d="M0 0 H260 Q250 110 130 120 Q10 110 0 0z" fill="#9DC8C0" stroke="#4F8F86" stroke-width="6"/>
+<rect x="70" y="118" width="120" height="14" rx="5" fill="#4F8F86"/>
+<path d="M30 30 H230 M45 60 H215" stroke="#E8F6F2" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- hands/pot dots -->
+<g fill="#FFD966"><circle cx="1000" cy="560" r="14"/><circle cx="1050" cy="600" r="10"/><circle cx="180" cy="590" r="12"/></g>
+</svg>
