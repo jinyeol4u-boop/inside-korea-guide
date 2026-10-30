@@ -863,5 +863,13 @@ window.IKG_INDEX=[
   "i": "/images/jagalchi-fish-market-busan-guide.svg",
   "d": "Pick live seafood from first-floor tanks, eat at second-floor restaurants, subway access and sourced hours and closing days, checked October 30, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Intercity and Express Buses in Korea: How to Book",
+  "u": "/intercity-express-buses-korea-booking",
+  "p": "2026-10-30",
+  "i": "/images/intercity-express-buses-korea-booking.svg",
+  "d": "Kobus for express, Bustago and TxBus for intercity, foreign-card caveats, ticket collection and cancellation fees, checked October 30, 2026.",
+  "s": "Getting Around"
  }
 ];
