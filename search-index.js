@@ -871,5 +871,13 @@ window.IKG_INDEX=[
   "i": "/images/intercity-express-buses-korea-booking.svg",
   "d": "Kobus for express, Bustago and TxBus for intercity, foreign-card caveats, ticket collection and cancellation fees, checked October 30, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Busan Sky Capsule and Beach Train: Fares and Booking",
+  "u": "/haeundae-blueline-park-sky-capsule-guide",
+  "p": "2026-10-30",
+  "i": "/images/haeundae-blueline-park-sky-capsule-guide.svg",
+  "d": "Sky Capsule from 50,000 won per capsule, Beach Train from 10,000 won, weekly booking opening four weeks ahead and seasonal hours, checked October 30, 2026.",
+  "s": "Destinations"
  }
 ];

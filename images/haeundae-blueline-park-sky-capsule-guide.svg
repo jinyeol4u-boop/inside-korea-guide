@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of colorful sky capsules on an elevated track above a coastline with a small beach train below, sea and sunset">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5b6bd6"/><stop offset="0.45" stop-color="#f58fb0"/><stop offset="1" stop-color="#ffd59a"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#27a3c7"/><stop offset="1" stop-color="#0e4f86"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="820" cy="360" r="140" fill="#fff1b8" opacity=".35"/><circle cx="820" cy="360" r="88" fill="#fff6d0"/>
+<g fill="#fff" opacity=".65"><ellipse cx="220" cy="130" rx="120" ry="26"/><ellipse cx="320" cy="160" rx="80" ry="20"/><ellipse cx="960" cy="110" rx="100" ry="24"/></g>
+<rect x="0" y="380" width="1200" height="370" fill="url(#sea)"/>
+<g stroke="#fff" stroke-width="5" fill="none" opacity=".55" stroke-linecap="round"><path d="M80 450 q30 -12 60 0 t60 0"/><path d="M420 430 q30 -12 60 0 t60 0"/><path d="M900 470 q30 -12 60 0 t60 0"/><path d="M640 520 q30 -12 60 0 t60 0"/></g>
+<path d="M0 750 L0 520 Q150 470 330 500 Q520 530 700 560 Q900 590 1200 560 L1200 750Z" fill="#e9c98f"/>
+<path d="M0 750 L0 600 Q200 560 420 590 Q700 630 1200 610 L1200 750Z" fill="#d7b072"/>
+<path d="M0 520 Q120 330 300 340 Q420 350 520 440 L520 520Z" fill="#3f8f5a"/>
+<path d="M0 520 Q100 400 250 400 Q360 410 430 480 L430 520Z" fill="#2f7a4c"/>
+<g stroke="#4b4f6b" stroke-width="10" fill="none" stroke-linecap="round"><path d="M80 300 Q420 240 760 320 Q960 370 1140 330"/></g>
+<g stroke="#4b4f6b" stroke-width="8"><path d="M200 282 V470"/><path d="M420 262 V500"/><path d="M640 285 V520"/><path d="M880 345 V545"/><path d="M1060 345 V555"/></g>
+<g>
+<g transform="translate(300 262)"><rect x="-4" y="-18" width="8" height="18" fill="#4b4f6b"/><rect x="-46" y="0" width="92" height="64" rx="26" fill="#ff5d73"/><rect x="-34" y="10" width="68" height="30" rx="14" fill="#cdeeff"/></g>
+<g transform="translate(540 270)"><rect x="-4" y="-18" width="8" height="18" fill="#4b4f6b"/><rect x="-46" y="0" width="92" height="64" rx="26" fill="#ffc83d"/><rect x="-34" y="10" width="68" height="30" rx="14" fill="#cdeeff"/></g>
+<g transform="translate(790 322)"><rect x="-4" y="-18" width="8" height="18" fill="#4b4f6b"/><rect x="-46" y="0" width="92" height="64" rx="26" fill="#3ccf9a"/><rect x="-34" y="10" width="68" height="30" rx="14" fill="#cdeeff"/></g>
+<g transform="translate(1010 345)"><rect x="-4" y="-18" width="8" height="18" fill="#4b4f6b"/><rect x="-46" y="0" width="92" height="64" rx="26" fill="#8a6cf0"/><rect x="-34" y="10" width="68" height="30" rx="14" fill="#cdeeff"/></g>
+</g>
+<g stroke="#6b5a48" stroke-width="6"><path d="M60 560 Q300 535 560 575 Q820 610 1140 585"/></g>
+<g stroke="#8a7560" stroke-width="3"><path d="M120 548 v22 M200 546 v22 M280 548 v22 M360 554 v22 M440 562 v22 M520 570 v22 M600 578 v22 M680 586 v22 M760 592 v22 M840 596 v22 M920 598 v22 M1000 598 v22 M1080 594 v22"/></g>
+<g transform="translate(560 540)"><rect width="190" height="46" rx="12" fill="#2e86de"/><rect x="14" y="10" width="34" height="20" rx="4" fill="#e8f6ff"/><rect x="58" y="10" width="34" height="20" rx="4" fill="#e8f6ff"/><rect x="102" y="10" width="34" height="20" rx="4" fill="#e8f6ff"/><rect x="146" y="10" width="30" height="20" rx="4" fill="#e8f6ff"/><rect y="34" width="190" height="8" fill="#ffc83d"/><circle cx="36" cy="50" r="7" fill="#333"/><circle cx="150" cy="50" r="7" fill="#333"/></g>
+<g fill="#2f7a4c"><circle cx="90" cy="560" r="26"/><circle cx="1130" cy="600" r="22"/></g>
+</svg>
