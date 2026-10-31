@@ -887,5 +887,13 @@ window.IKG_INDEX=[
   "i": "/images/traditional-korean-crafts-you-can-try.svg",
   "d": "Hands-on workshops in Bukchon, the free Seoul Museum of Craft Art, and hanji and pottery options in Jeonju and Icheon, checked October 31, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Taejongdae Busan: Danubi Train Status, Access and Walk",
+  "u": "/taejongdae-busan-danubi-train-walk",
+  "p": "2026-10-31",
+  "i": "/images/taejongdae-busan-danubi-train-walk.svg",
+  "d": "Free park entry, Danubi train halted since July 2026 with free shuttles, bus routes from Nampo and walking times, checked October 31, 2026.",
+  "s": "Destinations"
  }
 ];
