@@ -903,5 +903,13 @@ window.IKG_INDEX=[
   "i": "/images/5-day-korea-food-itinerary.svg",
   "d": "Two days of Seoul markets and barbecue, a KTX ride and two days of Busan seafood and pork soup, with hours, closing days and costs, checked October 31, 2026.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Christmas and New Year in Seoul: What's Open and What to Do",
+  "u": "/christmas-and-new-year-in-seoul",
+  "p": "2026-11-01",
+  "i": "/images/christmas-and-new-year-in-seoul.svg",
+  "d": "2025-26 lantern walk, Gwanghwamun market, 1,000 won Seoul Plaza ice rink, Bosingak countdown plan and palace closing days, checked November 1, 2026.",
+  "s": "Itineraries"
  }
 ];
