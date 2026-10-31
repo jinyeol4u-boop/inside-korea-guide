@@ -895,5 +895,13 @@ window.IKG_INDEX=[
   "i": "/images/taejongdae-busan-danubi-train-walk.svg",
   "d": "Free park entry, Danubi train halted since July 2026 with free shuttles, bus routes from Nampo and walking times, checked October 31, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "5 Days in Korea for Food Lovers: Seoul and Busan",
+  "u": "/5-day-korea-food-itinerary",
+  "p": "2026-10-31",
+  "i": "/images/5-day-korea-food-itinerary.svg",
+  "d": "Two days of Seoul markets and barbecue, a KTX ride and two days of Busan seafood and pork soup, with hours, closing days and costs, checked October 31, 2026.",
+  "s": "Itineraries"
  }
 ];
