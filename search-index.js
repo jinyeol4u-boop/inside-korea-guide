@@ -911,5 +911,13 @@ window.IKG_INDEX=[
   "i": "/images/christmas-and-new-year-in-seoul.svg",
   "d": "2025-26 lantern walk, Gwanghwamun market, 1,000 won Seoul Plaza ice rink, Bosingak countdown plan and palace closing days, checked November 1, 2026.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Papago vs Google Translate in Korea",
+  "u": "/papago-vs-google-translate-korea",
+  "p": "2026-11-01",
+  "i": "/images/papago-vs-google-translate-korea.svg",
+  "d": "Image, conversation and offline features of Papago and Google Translate compared, with steps to download languages and scan a menu, checked November 1, 2026.",
+  "s": "Plan Your Trip"
  }
 ];

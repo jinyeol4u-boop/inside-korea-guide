@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of two smartphones showing speech bubbles with Korean and English characters, one scanning a restaurant menu">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e3f4ff"/><stop offset="1" stop-color="#fff0d9"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffd166"/><circle cx="150" cy="620" r="110" fill="#bfe8d2"/><circle cx="1080" cy="640" r="90" fill="#f7c6d4"/>
+<g transform="translate(180 90)">
+<rect x="0" y="0" width="300" height="560" rx="40" fill="#22304a"/><rect x="16" y="24" width="268" height="512" rx="26" fill="#fff"/>
+<rect x="40" y="60" width="220" height="70" rx="18" fill="#00a84d"/><text x="150" y="105" font-family="sans-serif" font-size="30" font-weight="700" fill="#fff" text-anchor="middle">안녕하세요</text>
+<rect x="40" y="160" width="220" height="70" rx="18" fill="#dff3e8"/><text x="150" y="205" font-family="sans-serif" font-size="30" font-weight="700" fill="#22304a" text-anchor="middle">Hello</text>
+<rect x="40" y="260" width="220" height="70" rx="18" fill="#00a84d"/><text x="150" y="305" font-family="sans-serif" font-size="30" font-weight="700" fill="#fff" text-anchor="middle">감사합니다</text>
+<rect x="40" y="360" width="220" height="70" rx="18" fill="#dff3e8"/><text x="150" y="405" font-family="sans-serif" font-size="30" font-weight="700" fill="#22304a" text-anchor="middle">Thank you</text>
+<circle cx="150" cy="487" r="26" fill="#ff7a59"/></g>
+<g transform="translate(720 130) rotate(6)">
+<rect x="0" y="0" width="300" height="560" rx="40" fill="#3a2a5c"/><rect x="16" y="24" width="268" height="512" rx="26" fill="#fff8ec"/>
+<rect x="36" y="56" width="228" height="220" rx="12" fill="#fff" stroke="#c9b79c" stroke-width="3"/>
+<rect x="52" y="76" width="130" height="16" rx="8" fill="#c9b79c"/><rect x="52" y="112" width="170" height="12" rx="6" fill="#e1d5c0"/><rect x="52" y="140" width="150" height="12" rx="6" fill="#e1d5c0"/><rect x="52" y="168" width="180" height="12" rx="6" fill="#e1d5c0"/><rect x="52" y="196" width="120" height="12" rx="6" fill="#e1d5c0"/>
+<rect x="30" y="50" width="240" height="232" rx="8" fill="none" stroke="#2d9cdb" stroke-width="6" stroke-dasharray="40 24"/>
+<rect x="36" y="310" width="228" height="64" rx="16" fill="#2d9cdb"/><text x="150" y="352" font-family="sans-serif" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">Spicy stew</text>
+<rect x="36" y="396" width="228" height="64" rx="16" fill="#ffd166"/><text x="150" y="438" font-family="sans-serif" font-size="26" font-weight="700" fill="#3a2a5c" text-anchor="middle">Rice bowl</text>
+<circle cx="150" cy="495" r="22" fill="#ff7a59"/></g>
+<path d="M520 360 H680" stroke="#22304a" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 18"/>
+<path d="M660 335 L695 360 L660 385" fill="none" stroke="#22304a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
