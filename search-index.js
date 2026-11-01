@@ -919,5 +919,13 @@ window.IKG_INDEX=[
   "i": "/images/papago-vs-google-translate-korea.svg",
   "d": "Image, conversation and offline features of Papago and Google Translate compared, with steps to download languages and scan a menu, checked November 1, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Myeongdong Street Food Night Market Guide",
+  "u": "/myeongdong-street-food-night-market",
+  "p": "2026-11-01",
+  "i": "/images/myeongdong-street-food-night-market.svg",
+  "d": "When Myeongdong's food stalls set up, typical snack prices, card payment tips and a one-hour walking plan, checked November 1, 2026.",
+  "s": "Food"
  }
 ];
