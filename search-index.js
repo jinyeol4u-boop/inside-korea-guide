@@ -927,5 +927,13 @@ window.IKG_INDEX=[
   "i": "/images/myeongdong-street-food-night-market.svg",
   "d": "When Myeongdong's food stalls set up, typical snack prices, card payment tips and a one-hour walking plan, checked November 1, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Airport Limousine Buses in Seoul: Routes and Tips",
+  "u": "/airport-limousine-bus-seoul-guide",
+  "p": "2026-11-02",
+  "i": "/images/airport-limousine-bus-seoul-guide.svg",
+  "d": "Incheon Airport limousine bus route numbers by area, 17,000 to 18,000 won fares, ticket booths, first and last buses and night routes, checked November 2, 2026.",
+  "s": "Getting Around"
  }
 ];
