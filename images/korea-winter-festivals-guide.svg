@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a snowy Korean winter night with glowing lanterns, a frozen river with an ice fishing hole and a snowman">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B2A5C"/><stop offset="0.6" stop-color="#5B6FB8"/><stop offset="1" stop-color="#C9D8F5"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#FFE9A8" stop-opacity="0.9"/><stop offset="1" stop-color="#FFE9A8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="130" r="58" fill="#FFF4D0"/>
+<g fill="#FFFFFF" opacity="0.9"><circle cx="120" cy="90" r="3"/><circle cx="260" cy="150" r="2.5"/><circle cx="420" cy="70" r="3"/><circle cx="560" cy="130" r="2"/><circle cx="700" cy="60" r="3"/><circle cx="820" cy="170" r="2.5"/><circle cx="1100" cy="220" r="3"/><circle cx="60" cy="260" r="2"/></g>
+<path d="M0 420L150 300L260 380L420 240L580 390L740 290L900 400L1050 310L1200 390V750H0Z" fill="#8FA3D6"/>
+<path d="M420 240L380 285L420 270L460 290Z M740 290L705 330L740 318L775 335Z M150 300L115 340L150 328L185 345Z" fill="#FFFFFF"/>
+<path d="M0 470L200 400L380 460L600 395L820 465L1020 410L1200 460V750H0Z" fill="#DDE7FA"/>
+<rect y="520" width="1200" height="230" fill="#F4F8FF"/>
+<ellipse cx="600" cy="620" rx="430" ry="95" fill="#A9D8F2"/>
+<ellipse cx="600" cy="620" rx="430" ry="95" fill="none" stroke="#7FB9DD" stroke-width="5"/>
+<path d="M300 610L380 590M420 650L520 635M700 600L800 612M640 660L760 650" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+<ellipse cx="600" cy="625" rx="52" ry="20" fill="#2F5F86"/>
+<ellipse cx="600" cy="620" rx="52" ry="20" fill="#143A5C"/>
+<path d="M600 540V620" stroke="#6B4226" stroke-width="5"/>
+<path d="M600 540C640 520 660 540 660 575" fill="none" stroke="#6B4226" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="660" cy="590" rx="14" ry="7" fill="#F28C28"/>
+<path d="M650 590L636 584L636 596Z" fill="#F28C28"/>
+<g transform="translate(180 470)">
+<ellipse cx="0" cy="105" rx="70" ry="14" fill="#C9D8F5"/>
+<circle cx="0" cy="70" r="52" fill="#FFFFFF"/><circle cx="0" cy="10" r="38" fill="#FFFFFF"/><circle cx="0" cy="-38" r="27" fill="#FFFFFF"/>
+<circle cx="-9" cy="-44" r="3.5" fill="#222"/><circle cx="9" cy="-44" r="3.5" fill="#222"/>
+<path d="M0 -36L22 -32L0 -28Z" fill="#F28C28"/>
+<rect x="-30" y="-70" width="60" height="10" rx="3" fill="#D93A3A"/><rect x="-20" y="-96" width="40" height="30" rx="4" fill="#D93A3A"/>
+<path d="M-30 -14C-10 0 10 0 30 -14" fill="none" stroke="#2A9D8F" stroke-width="10" stroke-linecap="round"/>
+<circle cx="0" cy="20" r="3.5" fill="#222"/><circle cx="0" cy="38" r="3.5" fill="#222"/>
+</g>
+<g>
+<circle cx="360" cy="330" r="85" fill="url(#glow)"/><circle cx="560" cy="290" r="95" fill="url(#glow)"/><circle cx="780" cy="335" r="85" fill="url(#glow)"/><circle cx="960" cy="300" r="90" fill="url(#glow)"/>
+<path d="M300 250C420 300 500 235 600 270S840 300 1040 240" fill="none" stroke="#4A3A2A" stroke-width="3"/>
+<g><line x1="360" y1="270" x2="360" y2="292" stroke="#4A3A2A" stroke-width="3"/><rect x="335" y="292" width="50" height="62" rx="22" fill="#F0453A"/><rect x="347" y="286" width="26" height="8" fill="#B8860B"/><path d="M360 354v22" stroke="#F5C518" stroke-width="4"/></g>
+<g><line x1="470" y1="262" x2="470" y2="284" stroke="#4A3A2A" stroke-width="3"/><rect x="445" y="284" width="50" height="62" rx="22" fill="#F5A623"/><rect x="457" y="278" width="26" height="8" fill="#B8860B"/><path d="M470 346v22" stroke="#F0453A" stroke-width="4"/></g>
+<g><line x1="560" y1="266" x2="560" y2="288" stroke="#4A3A2A" stroke-width="3"/><rect x="535" y="288" width="50" height="62" rx="22" fill="#2FB67C"/><rect x="547" y="282" width="26" height="8" fill="#B8860B"/><path d="M560 350v22" stroke="#F5C518" stroke-width="4"/></g>
+<g><line x1="680" y1="280" x2="680" y2="302" stroke="#4A3A2A" stroke-width="3"/><rect x="655" y="302" width="50" height="62" rx="22" fill="#B05CE0"/><rect x="667" y="296" width="26" height="8" fill="#B8860B"/><path d="M680 364v22" stroke="#F5A623" stroke-width="4"/></g>
+<g><line x1="780" y1="290" x2="780" y2="312" stroke="#4A3A2A" stroke-width="3"/><rect x="755" y="312" width="50" height="62" rx="22" fill="#F0453A"/><rect x="767" y="306" width="26" height="8" fill="#B8860B"/><path d="M780 374v22" stroke="#2FB67C" stroke-width="4"/></g>
+<g><line x1="880" y1="282" x2="880" y2="304" stroke="#4A3A2A" stroke-width="3"/><rect x="855" y="304" width="50" height="62" rx="22" fill="#1FA2D6"/><rect x="867" y="298" width="26" height="8" fill="#B8860B"/><path d="M880 366v22" stroke="#F5C518" stroke-width="4"/></g>
+<g><line x1="960" y1="262" x2="960" y2="284" stroke="#4A3A2A" stroke-width="3"/><rect x="935" y="284" width="50" height="62" rx="22" fill="#F5A623"/><rect x="947" y="278" width="26" height="8" fill="#B8860B"/><path d="M960 346v22" stroke="#F0453A" stroke-width="4"/></g>
+</g>
+<g fill="#FFFFFF" opacity="0.95"><circle cx="90" cy="200" r="5"/><circle cx="210" cy="330" r="4"/><circle cx="330" cy="200" r="5"/><circle cx="520" cy="180" r="4"/><circle cx="640" cy="210" r="5"/><circle cx="880" cy="200" r="4"/><circle cx="1010" cy="420" r="5"/><circle cx="1130" cy="330" r="4"/><circle cx="260" cy="560" r="5"/><circle cx="1080" cy="560" r="5"/><circle cx="450" cy="470" r="4"/><circle cx="780" cy="500" r="4"/></g>
+<g transform="translate(1030 480)"><rect x="-6" y="0" width="12" height="70" fill="#6B4226"/><path d="M-50 10L0 -70L50 10Z" fill="#2E7D5B"/><path d="M-42 -20L0 -90L42 -20Z" fill="#3A9570"/><path d="M-40 10L0 -70L-10 10Z" fill="#FFFFFF" opacity="0.6"/></g>
+</svg>

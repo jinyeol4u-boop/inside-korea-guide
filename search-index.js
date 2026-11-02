@@ -935,5 +935,13 @@ window.IKG_INDEX=[
   "i": "/images/airport-limousine-bus-seoul-guide.svg",
   "d": "Incheon Airport limousine bus route numbers by area, 17,000 to 18,000 won fares, ticket booths, first and last buses and night routes, checked November 2, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Winter Festivals in Korea: Dates, Costs and Tips",
+  "u": "/korea-winter-festivals-guide",
+  "p": "2026-11-02",
+  "i": "/images/korea-winter-festivals-guide.svg",
+  "d": "Hwacheon ice fishing, Seoul and Busan light festivals and sunrise events: latest listed dates, costs and trip tips, checked November 2, 2026.",
+  "s": "Culture"
  }
 ];
