@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of sunrise over a crater-topped coastal volcanic cone with a stone staircase, small island and sea">
+<defs>
+<linearGradient id="sk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b3a8f"/><stop offset="0.45" stop-color="#ff7a59"/><stop offset="0.75" stop-color="#ffc861"/><stop offset="1" stop-color="#ffe9a8"/></linearGradient>
+<linearGradient id="se" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6a05a"/><stop offset="0.3" stop-color="#2a8fb8"/><stop offset="1" stop-color="#0b4f78"/></linearGradient>
+<radialGradient id="sun" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fffbe0"/><stop offset="1" stop-color="#ffd35c"/></radialGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sk)"/>
+<g fill="#ffffff" opacity="0.18"><circle cx="150" cy="90" r="3"/><circle cx="330" cy="150" r="2"/><circle cx="520" cy="70" r="3"/><circle cx="900" cy="110" r="2"/><circle cx="1080" cy="60" r="3"/></g>
+<g fill="#ffb199" opacity="0.8"><ellipse cx="260" cy="250" rx="130" ry="20"/><ellipse cx="340" cy="232" rx="80" ry="16"/><ellipse cx="880" cy="290" rx="150" ry="18"/></g>
+<circle cx="760" cy="430" r="150" fill="#ffd35c" opacity="0.35"/>
+<circle cx="760" cy="430" r="92" fill="url(#sun)"/>
+<rect x="0" y="470" width="1200" height="280" fill="url(#se)"/>
+<g stroke="#ffe9a8" stroke-width="5" stroke-linecap="round" opacity="0.7"><path d="M690 500 H830"/><path d="M670 530 H850"/><path d="M700 562 H820"/><path d="M720 596 H800"/></g>
+<g stroke="#ffffff" stroke-width="3" fill="none" opacity="0.4"><path d="M60 560 q30 -14 60 0 t60 0"/><path d="M980 640 q30 -14 60 0 t60 0"/><path d="M200 660 q30 -14 60 0 t60 0"/></g>
+<path d="M880 470 Q930 440 985 450 Q1040 440 1090 470Z" fill="#33546a"/>
+<path d="M0 470 L0 560 Q80 560 170 540 L420 520 L420 470Z" fill="#2f7d4f"/>
+<path d="M170 540 Q330 470 470 478 L470 470 L170 470Z" fill="#2f7d4f"/>
+<path d="M120 548 Q260 425 330 330 L368 300 Q430 262 480 300 L520 330 Q600 420 690 548Z" fill="#4c7a3f"/>
+<path d="M330 330 L368 300 Q430 262 480 300 L520 330 Q430 352 330 330Z" fill="#35592d"/>
+<path d="M368 300 Q430 262 480 300 Q432 330 368 300Z" fill="#25421f"/>
+<path d="M300 520 Q330 440 360 400" stroke="#2f4f28" stroke-width="10" fill="none" opacity="0.5"/>
+<g stroke="#e8d9b0" stroke-width="5" fill="none" stroke-linecap="round"><path d="M250 545 L292 520 L262 498 L318 474 L292 452 L346 430 L322 410 L378 388 L360 366 L408 344"/></g>
+<g fill="#d9c58f"><rect x="246" y="540" width="12" height="6"/><rect x="288" y="515" width="12" height="6"/><rect x="314" y="469" width="12" height="6"/><rect x="342" y="425" width="12" height="6"/><rect x="374" y="383" width="12" height="6"/></g>
+<g fill="#1f2d3a"><circle cx="394" cy="338" r="5"/><rect x="391" y="343" width="6" height="12" rx="2"/><circle cx="414" cy="324" r="5"/><rect x="411" y="329" width="6" height="12" rx="2"/></g>
+<rect x="0" y="548" width="700" height="14" fill="#2f7d4f" opacity="0"/>
+<path d="M520 548 Q640 560 700 548 L700 566 Q600 576 520 566Z" fill="#c9b27a"/>
+<g fill="#ffffff" opacity="0.9"><path d="M60 140 q12 -14 24 0 q12 -14 24 0" stroke="#ffffff" stroke-width="3" fill="none"/><path d="M130 110 q10 -12 20 0 q10 -12 20 0" stroke="#ffffff" stroke-width="3" fill="none"/></g>
+<rect x="0" y="690" width="1200" height="60" fill="#0b3b5c" opacity="0.5"/>
+</svg>

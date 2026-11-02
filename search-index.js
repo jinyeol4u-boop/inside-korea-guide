@@ -943,5 +943,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-winter-festivals-guide.svg",
   "d": "Hwacheon ice fishing, Seoul and Busan light festivals and sunrise events: latest listed dates, costs and trip tips, checked November 2, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Seongsan Ilchulbong Sunrise Hike: Hours, Fees, Tips",
+  "u": "/seongsan-ilchulbong-sunrise-hike",
+  "p": "2026-11-02",
+  "i": "/images/seongsan-ilchulbong-sunrise-hike.svg",
+  "d": "Seongsan Ilchulbong 5,000 won adult entry, 06:00 winter opening, first-Monday closure, roughly 30-minute climb and bus options, checked November 2, 2026.",
+  "s": "Destinations"
  }
 ];
