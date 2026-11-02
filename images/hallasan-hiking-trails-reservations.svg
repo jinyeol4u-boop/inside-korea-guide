@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a snow-dusted volcanic mountain with a crater lake, forested slopes, a winding trail and two hikers under a blue sky">
+<defs>
+<linearGradient id="sk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4aa3e8"/><stop offset="0.6" stop-color="#bfe3f7"/><stop offset="1" stop-color="#fff1d0"/></linearGradient>
+<linearGradient id="mt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7d6a8f"/><stop offset="1" stop-color="#4b5d7a"/></linearGradient>
+<linearGradient id="fo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3f9b5a"/><stop offset="1" stop-color="#1f6b3f"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sk)"/>
+<circle cx="1010" cy="130" r="58" fill="#ffd35c"/>
+<g fill="#ffffff" opacity="0.9"><ellipse cx="220" cy="140" rx="110" ry="26"/><ellipse cx="300" cy="120" rx="70" ry="22"/><ellipse cx="720" cy="190" rx="120" ry="24"/><ellipse cx="800" cy="172" rx="70" ry="20"/></g>
+<path d="M0 520 Q150 440 300 470 Q420 430 520 470 L520 750 L0 750Z" fill="#6aa7c9" opacity="0.55"/>
+<path d="M140 560 L470 250 Q520 205 580 200 L640 200 Q700 205 740 250 L1120 560Z" fill="url(#mt)"/>
+<path d="M470 250 Q520 205 580 200 L640 200 Q700 205 740 250 Q690 275 640 262 L580 262 Q520 275 470 250Z" fill="#ffffff"/>
+<path d="M545 214 Q610 196 675 214 Q640 236 610 236 Q575 236 545 214Z" fill="#3d9ad1"/>
+<path d="M545 214 Q610 196 675 214" stroke="#ffffff" stroke-width="4" fill="none"/>
+<path d="M0 640 Q200 520 420 560 Q600 480 800 550 Q1000 500 1200 600 L1200 750 L0 750Z" fill="url(#fo)"/>
+<g fill="#1b5a35"><path d="M90 610 l26 -70 l26 70z"/><path d="M160 640 l30 -80 l30 80z"/><path d="M980 600 l26 -70 l26 70z"/><path d="M1060 630 l30 -80 l30 80z"/><path d="M1130 600 l24 -64 l24 64z"/></g>
+<g fill="#e86a5a"><circle cx="300" cy="650" r="9"/><circle cx="340" cy="668" r="8"/><circle cx="880" cy="640" r="9"/></g>
+<path d="M360 750 Q420 690 520 660 Q640 630 600 560 Q570 510 640 470 Q690 440 650 380" stroke="#f3e4b8" stroke-width="16" fill="none" stroke-linecap="round"/>
+<path d="M360 750 Q420 690 520 660 Q640 630 600 560 Q570 510 640 470 Q690 440 650 380" stroke="#c9a96a" stroke-width="3" fill="none" stroke-dasharray="14 14" stroke-linecap="round"/>
+<g><circle cx="610" cy="548" r="9" fill="#f2c9a0"/><rect x="600" y="556" width="20" height="30" rx="6" fill="#e8453c"/><rect x="598" y="560" width="8" height="22" rx="3" fill="#2c3e6b"/><rect x="602" y="586" width="6" height="18" fill="#2c3e6b"/><rect x="612" y="586" width="6" height="18" fill="#2c3e6b"/></g>
+<g><circle cx="650" cy="470" r="8" fill="#f2c9a0"/><rect x="641" y="477" width="18" height="27" rx="6" fill="#2f8f5b"/><rect x="639" y="480" width="7" height="20" rx="3" fill="#e6a23c"/><rect x="643" y="504" width="6" height="16" fill="#2c3e6b"/><rect x="652" y="504" width="6" height="16" fill="#2c3e6b"/></g>
+<path d="M170 720 q40 -18 80 0 t80 0" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.4"/>
+</svg>

@@ -951,5 +951,13 @@ window.IKG_INDEX=[
   "i": "/images/seongsan-ilchulbong-sunrise-hike.svg",
   "d": "Seongsan Ilchulbong 5,000 won adult entry, 06:00 winter opening, first-Monday closure, roughly 30-minute climb and bus options, checked November 2, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Hiking Hallasan: Trails, Reservations and What to Pack",
+  "u": "/hallasan-hiking-trails-reservations",
+  "p": "2026-11-03",
+  "i": "/images/hallasan-hiking-trails-reservations.svg",
+  "d": "Hallasan summit trails need a free online reservation; compare Seongpanak, Gwaneumsa, Eorimok and Yeongsil, with cut-off times and gear, checked November 3, 2026.",
+  "s": "Destinations"
  }
 ];
