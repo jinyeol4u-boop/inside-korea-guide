@@ -959,5 +959,13 @@ window.IKG_INDEX=[
   "i": "/images/hallasan-hiking-trails-reservations.svg",
   "d": "Hallasan summit trails need a free online reservation; compare Seongpanak, Gwaneumsa, Eorimok and Yeongsil, with cut-off times and gear, checked November 3, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Hanok Stays in Jeonju and Gyeongju: Where to Sleep",
+  "u": "/hanok-stays-jeonju-gyeongju",
+  "p": "2026-11-03",
+  "i": "/images/hanok-stays-jeonju-gyeongju.svg",
+  "d": "Compare Jeonju Hanok Village, with about 700 hanok, and Gyeongju's Hwangnidan-gil area: check-in times, nearby sights and booking tips, checked November 3, 2026.",
+  "s": "Stay"
  }
 ];

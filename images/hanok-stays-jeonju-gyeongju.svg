@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a hanok village with tiled curved roofs on the left and grassy burial mounds with a bottle-shaped stone tower on the right under an evening sky, with a glowing lantern in front">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F3B73"/><stop offset="0.6" stop-color="#E0728A"/><stop offset="1" stop-color="#FFC27A"/></linearGradient>
+<radialGradient id="gl" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFF1B8"/><stop offset="1" stop-color="#FFB547"/></radialGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="600" cy="170" r="70" fill="#FFF3C9" opacity="0.95"/>
+<g fill="#fff" opacity="0.85"><circle cx="90" cy="80" r="3"/><circle cx="240" cy="140" r="2.5"/><circle cx="420" cy="60" r="3"/><circle cx="800" cy="90" r="3"/><circle cx="980" cy="60" r="2.5"/><circle cx="1110" cy="150" r="3"/></g>
+<path d="M0 470 Q300 400 600 450 T1200 430 V750 H0z" fill="#3E6B5A"/>
+<rect y="580" width="1200" height="170" fill="#D9BC8C"/>
+<path d="M0 600 H1200" stroke="#C49C68" stroke-width="4"/>
+<g transform="translate(40 250)">
+<rect x="20" y="150" width="240" height="130" fill="#F2DCB0"/>
+<rect x="20" y="150" width="18" height="130" fill="#7A2F1E"/><rect x="242" y="150" width="18" height="130" fill="#7A2F1E"/>
+<rect x="60" y="185" width="70" height="80" fill="url(#gl)" stroke="#7A2F1E" stroke-width="5"/><rect x="150" y="185" width="70" height="80" fill="url(#gl)" stroke="#7A2F1E" stroke-width="5"/>
+<path d="M-30 160 Q140 40 310 160 L290 156 Q140 80 -10 156z" fill="#2E3B52"/><path d="M-30 160 Q140 40 310 160 L310 176 Q140 70 -30 176z" fill="#1F2937"/>
+</g>
+<g transform="translate(250 330)">
+<rect x="10" y="100" width="190" height="110" fill="#F5E2BC"/>
+<rect x="10" y="100" width="14" height="110" fill="#7A2F1E"/><rect x="186" y="100" width="14" height="110" fill="#7A2F1E"/>
+<rect x="45" y="130" width="55" height="62" fill="url(#gl)" stroke="#7A2F1E" stroke-width="4"/><rect x="115" y="130" width="55" height="62" fill="url(#gl)" stroke="#7A2F1E" stroke-width="4"/>
+<path d="M-30 110 Q105 20 240 110 L225 106 Q105 52 -15 106z" fill="#3A4A63"/><path d="M-30 110 Q105 20 240 110 L240 124 Q105 44 -30 124z" fill="#252F40"/>
+</g>
+<g transform="translate(760 0)">
+<ellipse cx="120" cy="560" rx="190" ry="120" fill="#4F8A5B"/>
+<ellipse cx="380" cy="575" rx="150" ry="95" fill="#5C9A66"/>
+<path d="M-40 580 Q60 470 160 580z" fill="#6AAE72"/>
+<g transform="translate(250 390)"><path d="M30 170 Q10 120 22 90 Q26 60 34 40 L66 40 Q74 60 78 90 Q90 120 70 170z" fill="#CFC3AE" stroke="#8C7F68" stroke-width="3"/>
+<rect x="28" y="22" width="44" height="18" fill="#B9AC96" stroke="#8C7F68" stroke-width="3"/><rect x="42" y="82" width="16" height="22" fill="#4A4338"/>
+<path d="M18 170 H82" stroke="#8C7F68" stroke-width="5"/></g>
+</g>
+<g transform="translate(560 520)"><rect x="38" y="0" width="4" height="40" fill="#7A2F1E"/><path d="M20 40 H60 L66 100 H14z" fill="url(#gl)" stroke="#7A2F1E" stroke-width="4"/><rect x="26" y="96" width="28" height="8" fill="#7A2F1E"/><path d="M30 40 V100 M50 40 V100" stroke="#C97A2B" stroke-width="3"/></g>
+<g fill="#C79B66"><rect x="90" y="640" width="130" height="14" rx="6"/><rect x="430" y="680" width="150" height="14" rx="6"/><rect x="900" y="650" width="140" height="14" rx="6"/></g>
+</svg>
