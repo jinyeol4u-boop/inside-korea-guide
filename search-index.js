@@ -967,5 +967,13 @@ window.IKG_INDEX=[
   "i": "/images/hanok-stays-jeonju-gyeongju.svg",
   "d": "Compare Jeonju Hanok Village, with about 700 hanok, and Gyeongju's Hwangnidan-gil area: check-in times, nearby sights and booking tips, checked November 3, 2026.",
   "s": "Stay"
+ },
+ {
+  "t": "What to Pack for Korea in Winter: A Practical List",
+  "u": "/what-to-pack-for-korea-in-winter",
+  "p": "2026-11-03",
+  "i": "/images/what-to-pack-for-korea-in-winter.svg",
+  "d": "Seoul averages 2.1°C by day and -5.5°C at night in January; get a layered winter packing list, Seoul and Busan temperatures and indoor-heat tips, checked November 3, 2026.",
+  "s": "Plan Your Trip"
  }
 ];

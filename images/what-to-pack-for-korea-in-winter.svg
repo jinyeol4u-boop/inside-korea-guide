@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Open suitcase with winter clothes under falling snow">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f3b73"/><stop offset="1" stop-color="#8fc4ec"/></linearGradient>
+<linearGradient id="case" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7a59"/><stop offset="1" stop-color="#d9482b"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#ffffff" opacity=".9">
+<circle cx="90" cy="80" r="6"/><circle cx="220" cy="160" r="4"/><circle cx="340" cy="60" r="7"/><circle cx="470" cy="140" r="5"/><circle cx="600" cy="50" r="6"/><circle cx="730" cy="130" r="4"/><circle cx="860" cy="70" r="7"/><circle cx="990" cy="150" r="5"/><circle cx="1110" cy="90" r="6"/><circle cx="150" cy="260" r="5"/><circle cx="290" cy="320" r="6"/><circle cx="1050" cy="280" r="5"/><circle cx="930" cy="340" r="4"/><circle cx="420" cy="260" r="4"/><circle cx="800" cy="250" r="6"/>
+</g>
+<path d="M0 560 Q200 500 400 545 T800 530 T1200 540 V750 H0Z" fill="#f4f9ff"/>
+<path d="M0 620 Q300 570 600 610 T1200 600 V750 H0Z" fill="#dcecfb"/>
+<g transform="translate(100,330)">
+<rect x="0" y="120" width="560" height="260" rx="26" fill="url(#case)"/>
+<rect x="30" y="150" width="500" height="200" rx="14" fill="#fff3e0"/>
+<rect x="40" y="-10" width="480" height="140" rx="20" fill="#ff9a7d" transform="rotate(-6 280 60)"/>
+<rect x="230" y="102" width="100" height="26" rx="8" fill="#7a3b2a"/>
+<rect x="60" y="170" width="200" height="120" rx="18" fill="#2e7d6b"/>
+<rect x="60" y="170" width="200" height="34" rx="12" fill="#3fa58e"/>
+<circle cx="160" cy="236" r="7" fill="#fff"/><circle cx="160" cy="262" r="7" fill="#fff"/>
+<rect x="280" y="175" width="230" height="38" rx="19" fill="#ffc83d"/>
+<rect x="290" y="213" width="38" height="90" rx="12" fill="#ffc83d"/>
+<g stroke="#e0a000" stroke-width="4"><path d="M330 187v14M360 187v14M390 187v14M420 187v14M450 187v14M480 187v14"/></g>
+<ellipse cx="400" cy="262" rx="70" ry="38" fill="#6a4fb3"/>
+<rect x="330" y="236" width="140" height="22" rx="11" fill="#fff"/>
+<circle cx="400" cy="226" r="18" fill="#fff"/>
+</g>
+<g transform="translate(760,300)">
+<rect x="0" y="40" width="70" height="300" rx="35" fill="#ffffff" stroke="#254a8f" stroke-width="6"/>
+<circle cx="35" cy="340" r="52" fill="#e53935" stroke="#254a8f" stroke-width="6"/>
+<rect x="22" y="150" width="26" height="190" rx="13" fill="#e53935"/>
+<g stroke="#254a8f" stroke-width="4"><path d="M70 70h28M70 110h18M70 150h28M70 190h18M70 230h28"/></g>
+<text x="108" y="80" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff">0°</text>
+<text x="108" y="160" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff">-5°</text>
+<text x="108" y="240" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#254a8f">-10°</text>
+</g>
+<g transform="translate(940,360)" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round">
+<g transform="translate(60,60)"><path d="M0-50v100M-43-25l86 50M-43 25l86-50"/><path d="M-12-62L0-48l12-14M-12 62L0 48l12 14" stroke-width="4"/></g>
+<g transform="translate(150,180) scale(.7)"><path d="M0-50v100M-43-25l86 50M-43 25l86-50"/></g>
+<g transform="translate(40,230) scale(.55)"><path d="M0-50v100M-43-25l86 50M-43 25l86-50"/></g>
+</g>
+</svg>
