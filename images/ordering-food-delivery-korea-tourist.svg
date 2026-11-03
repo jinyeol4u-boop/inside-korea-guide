@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">Smartphone food delivery illustration</title>
+<desc id="d">A phone showing a food order with a map pin, a scooter rider and a bowl of noodles on a colorful city background.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE9B8"/><stop offset="1" stop-color="#FFC9A8"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1000" cy="130" r="80" fill="#FF7A59" opacity=".85"/>
+<g fill="#5B7FFF" opacity=".35"><rect x="40" y="330" width="120" height="300"/><rect x="180" y="260" width="140" height="370"/><rect x="340" y="360" width="110" height="270"/></g>
+<g fill="#00A86B" opacity=".35"><rect x="800" y="300" width="130" height="330"/><rect x="950" y="240" width="150" height="390"/><rect x="1110" y="340" width="90" height="290"/></g>
+<rect y="620" width="1200" height="130" fill="#3B3F5C"/>
+<g stroke="#FFD84D" stroke-width="8" stroke-dasharray="50 40"><line x1="0" y1="690" x2="1200" y2="690"/></g>
+<rect x="430" y="90" width="250" height="470" rx="36" fill="#23263D"/>
+<rect x="446" y="116" width="218" height="418" rx="20" fill="#FFFFFF"/>
+<rect x="446" y="116" width="218" height="70" rx="20" fill="#FF5A5F"/>
+<rect x="470" y="140" width="110" height="14" rx="7" fill="#FFFFFF"/>
+<rect x="466" y="206" width="178" height="96" rx="12" fill="#E8F1FF"/>
+<path d="M500 280 L540 232 L580 270 L610 240 L644 280 Z" fill="#9CC0FF"/>
+<g transform="translate(555 226)"><path d="M0 0c-12 0-22 10-22 22 0 16 22 36 22 36s22-20 22-36c0-12-10-22-22-22z" fill="#FF5A5F"/><circle cx="0" cy="22" r="8" fill="#fff"/></g>
+<rect x="466" y="320" width="178" height="40" rx="10" fill="#FFF3D6"/>
+<circle cx="490" cy="340" r="12" fill="#FFB020"/><rect x="512" y="332" width="100" height="10" rx="5" fill="#C9A24A"/>
+<rect x="466" y="372" width="178" height="40" rx="10" fill="#FFF3D6"/>
+<circle cx="490" cy="392" r="12" fill="#00A86B"/><rect x="512" y="384" width="80" height="10" rx="5" fill="#C9A24A"/>
+<rect x="466" y="460" width="178" height="52" rx="26" fill="#00A86B"/>
+<rect x="520" y="480" width="70" height="12" rx="6" fill="#FFFFFF"/>
+<g transform="translate(150 430)"><ellipse cx="110" cy="130" rx="130" ry="26" fill="#000" opacity=".15"/><path d="M0 60h220c0 70-50 110-110 110S0 130 0 60z" fill="#FF5A5F"/><rect x="-6" y="52" width="232" height="16" rx="8" fill="#B8323A"/><g stroke="#FFE08A" stroke-width="10" fill="none" stroke-linecap="round"><path d="M30 50c20-30 40 30 60 0s40 30 60 0 30 20 40 0"/><path d="M40 28c20-30 40 30 60 0s40 30 60 0"/></g><circle cx="150" cy="30" r="16" fill="#7BD389"/><circle cx="70" cy="22" r="14" fill="#FFB020"/><g stroke="#8B5A2B" stroke-width="7" stroke-linecap="round"><line x1="170" y1="-30" x2="120" y2="40"/><line x1="190" y1="-24" x2="140" y2="46"/></g></g>
+<g transform="translate(760 470)"><circle cx="40" cy="130" r="42" fill="#23263D"/><circle cx="40" cy="130" r="16" fill="#9AA0B8"/><circle cx="250" cy="130" r="42" fill="#23263D"/><circle cx="250" cy="130" r="16" fill="#9AA0B8"/><path d="M40 130 L120 60 H220 L250 130" fill="none" stroke="#5B7FFF" stroke-width="16" stroke-linejoin="round"/><rect x="90" y="-10" width="90" height="80" rx="10" fill="#FFB020"/><rect x="100" y="0" width="70" height="14" rx="7" fill="#FFE08A"/><circle cx="200" cy="30" r="20" fill="#FFD1B0"/><rect x="178" y="-4" width="44" height="22" rx="11" fill="#FF5A5F"/><rect x="190" y="50" width="30" height="50" rx="10" fill="#00A86B"/></g>
+</svg>

@@ -975,5 +975,13 @@ window.IKG_INDEX=[
   "i": "/images/what-to-pack-for-korea-in-winter.svg",
   "d": "Seoul averages 2.1°C by day and -5.5°C at night in January; get a layered winter packing list, Seoul and Busan temperatures and indoor-heat tips, checked November 3, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Ordering Food Delivery in Korea as a Tourist",
+  "u": "/ordering-food-delivery-korea-tourist",
+  "p": "2026-11-04",
+  "i": "/images/ordering-food-delivery-korea-tourist.svg",
+  "d": "Compare Coupang Eats, Baemin and Yogiyo: English support, pickup, foreign card notes and hotel delivery tips, checked November 4, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
