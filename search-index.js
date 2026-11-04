@@ -991,5 +991,13 @@ window.IKG_INDEX=[
   "i": "/images/chuseok-seollal-travel-closures-guide.svg",
   "d": "Seollal 2027 is Feb 6-9 and Chuseok 2027 Sept 14-16; see what closes, what stays open, free palace entry patterns and train booking tips, checked November 4, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Tongin Market Coin Lunchbox: How It Works",
+  "u": "/tongin-market-coin-lunchbox-guide",
+  "p": "2026-11-04",
+  "i": "/images/tongin-market-coin-lunchbox-guide.svg",
+  "d": "How the 20-coin dosirak set works, reported prices, opening hours and closed days, checked November 4, 2026.",
+  "s": "Food"
  }
 ];
