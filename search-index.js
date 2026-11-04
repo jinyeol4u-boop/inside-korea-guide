@@ -983,5 +983,13 @@ window.IKG_INDEX=[
   "i": "/images/ordering-food-delivery-korea-tourist.svg",
   "d": "Compare Coupang Eats, Baemin and Yogiyo: English support, pickup, foreign card notes and hotel delivery tips, checked November 4, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Chuseok and Seollal Travel: What's Closed and What to Do",
+  "u": "/chuseok-seollal-travel-closures-guide",
+  "p": "2026-11-04",
+  "i": "/images/chuseok-seollal-travel-closures-guide.svg",
+  "d": "Seollal 2027 is Feb 6-9 and Chuseok 2027 Sept 14-16; see what closes, what stays open, free palace entry patterns and train booking tips, checked November 4, 2026.",
+  "s": "Culture"
  }
 ];

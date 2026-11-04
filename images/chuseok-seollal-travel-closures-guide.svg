@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">Korean holiday travel illustration</title>
+<desc id="d">A full moon over a palace-style roof, hanging lanterns, a holiday table with rice cakes and a closed shop sign beside an open convenience store.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B2F6B"/><stop offset="1" stop-color="#F29A6B"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#fff" opacity=".8"><circle cx="90" cy="80" r="3"/><circle cx="260" cy="150" r="2"/><circle cx="420" cy="60" r="3"/><circle cx="820" cy="70" r="2"/><circle cx="1120" cy="170" r="3"/><circle cx="980" cy="40" r="2"/></g>
+<circle cx="600" cy="210" r="120" fill="#FFF3C4"/><circle cx="560" cy="180" r="18" fill="#F7E39A"/><circle cx="640" cy="250" r="26" fill="#F7E39A"/><circle cx="625" cy="160" r="10" fill="#F7E39A"/>
+<g><path d="M250 470 Q600 380 950 470 L920 490 Q600 420 280 490 Z" fill="#3A2A2A"/><path d="M300 490 Q600 430 900 490 L900 510 L300 510 Z" fill="#B23A48"/>
+<rect x="330" y="510" width="540" height="110" fill="#F5E6C8"/><rect x="380" y="530" width="60" height="90" fill="#8C3B2A"/><rect x="570" y="530" width="60" height="90" fill="#8C3B2A"/><rect x="760" y="530" width="60" height="90" fill="#8C3B2A"/>
+<g fill="#2E8B57"><rect x="330" y="505" width="540" height="10"/></g></g>
+<g stroke="#FFD84D" stroke-width="3"><line x1="0" y1="60" x2="1200" y2="90"/></g>
+<g><g transform="translate(120 105)"><rect x="-6" y="-14" width="12" height="14" fill="#FFD84D"/><ellipse cx="0" cy="30" rx="28" ry="36" fill="#E63946"/><rect x="-14" y="64" width="28" height="8" fill="#FFD84D"/></g>
+<g transform="translate(330 112)"><rect x="-6" y="-14" width="12" height="14" fill="#FFD84D"/><ellipse cx="0" cy="30" rx="28" ry="36" fill="#2A9D8F"/><rect x="-14" y="64" width="28" height="8" fill="#FFD84D"/></g>
+<g transform="translate(870 112)"><rect x="-6" y="-14" width="12" height="14" fill="#FFD84D"/><ellipse cx="0" cy="30" rx="28" ry="36" fill="#F4A261"/><rect x="-14" y="64" width="28" height="8" fill="#FFD84D"/></g>
+<g transform="translate(1080 105)"><rect x="-6" y="-14" width="12" height="14" fill="#FFD84D"/><ellipse cx="0" cy="30" rx="28" ry="36" fill="#E63946"/><rect x="-14" y="64" width="28" height="8" fill="#FFD84D"/></g></g>
+<rect y="620" width="1200" height="130" fill="#3B2F4A"/>
+<g transform="translate(60 520)"><rect width="230" height="170" rx="10" fill="#E9ECEF"/><rect y="0" width="230" height="36" rx="10" fill="#6C757D"/><rect x="20" y="60" width="190" height="80" fill="#ADB5BD"/><line x1="20" y1="60" x2="210" y2="140" stroke="#6C757D" stroke-width="6"/><line x1="210" y1="60" x2="20" y2="140" stroke="#6C757D" stroke-width="6"/></g>
+<g transform="translate(910 520)"><rect width="240" height="170" rx="10" fill="#FFFFFF"/><rect width="240" height="36" rx="10" fill="#2A9D8F"/><rect x="20" y="60" width="200" height="80" fill="#BDE0FE"/><circle cx="60" cy="100" r="12" fill="#FFD84D"/><rect x="90" y="92" width="110" height="16" rx="8" fill="#2A9D8F"/></g>
+<g transform="translate(420 600)"><ellipse cx="180" cy="60" rx="190" ry="26" fill="#6D4C41"/><g><ellipse cx="90" cy="30" rx="34" ry="20" fill="#FFFFFF"/><ellipse cx="160" cy="22" rx="34" ry="20" fill="#C8E6C9"/><ellipse cx="230" cy="22" rx="34" ry="20" fill="#FFFFFF"/><ellipse cx="300" cy="30" rx="34" ry="20" fill="#F8BBD0"/></g></g>
+</svg>
