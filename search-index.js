@@ -999,5 +999,13 @@ window.IKG_INDEX=[
   "i": "/images/tongin-market-coin-lunchbox-guide.svg",
   "d": "How the 20-coin dosirak set works, reported prices, opening hours and closed days, checked November 4, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Incheon Terminal 1 vs 2: How to Tell Which Is Yours",
+  "u": "/incheon-terminal-1-vs-terminal-2",
+  "p": "2026-11-05",
+  "i": "/images/incheon-terminal-1-vs-terminal-2.svg",
+  "d": "Which airlines use each Incheon terminal, the free shuttle (about 15-18 min) and 6-minute AREX link, checked November 5, 2026.",
+  "s": "Getting Around"
  }
 ];

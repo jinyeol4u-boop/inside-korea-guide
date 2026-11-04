@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">Two airport terminals linked by a shuttle bus and a train</title>
+<desc id="d">Two terminal buildings, one blue and one orange, with a green shuttle bus on the road and a train on a rail line running between them under a bright sky.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe3ff"/><stop offset="1" stop-color="#fff4d9"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1050" cy="130" r="64" fill="#ffd166"/>
+<g fill="#ffffff" opacity=".9"><ellipse cx="260" cy="130" rx="90" ry="30"/><ellipse cx="320" cy="115" rx="60" ry="26"/><ellipse cx="700" cy="190" rx="80" ry="26"/></g>
+<rect y="520" width="1200" height="230" fill="#9ccc9c"/>
+<!-- Terminal 1 -->
+<g transform="translate(70 270)"><rect width="400" height="250" rx="14" fill="#2563eb"/><rect x="0" y="0" width="400" height="50" rx="14" fill="#1d4ed8"/>
+<g fill="#dbeafe"><rect x="30" y="80" width="60" height="50" rx="6"/><rect x="110" y="80" width="60" height="50" rx="6"/><rect x="190" y="80" width="60" height="50" rx="6"/><rect x="270" y="80" width="60" height="50" rx="6"/><rect x="350" y="80" width="30" height="50" rx="6"/></g>
+<rect x="160" y="160" width="80" height="90" rx="6" fill="#fff"/></g>
+<text x="270" y="255" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="46" font-weight="800" fill="#1e3a8a">Terminal 1</text>
+<!-- Terminal 2 -->
+<g transform="translate(730 270)"><rect width="400" height="250" rx="14" fill="#f97316"/><rect width="400" height="50" rx="14" fill="#c2410c"/>
+<g fill="#ffedd5"><rect x="30" y="80" width="60" height="50" rx="6"/><rect x="110" y="80" width="60" height="50" rx="6"/><rect x="190" y="80" width="60" height="50" rx="6"/><rect x="270" y="80" width="60" height="50" rx="6"/><rect x="350" y="80" width="30" height="50" rx="6"/></g>
+<rect x="160" y="160" width="80" height="90" rx="6" fill="#fff"/></g>
+<text x="930" y="255" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="46" font-weight="800" fill="#9a3412">Terminal 2</text>
+<!-- road -->
+<rect y="580" width="1200" height="110" fill="#4b5563"/><rect y="630" width="1200" height="8" fill="#fbbf24"/>
+<!-- shuttle bus -->
+<g transform="translate(470 560)"><rect width="260" height="100" rx="16" fill="#00a84d"/><g fill="#ecfdf5"><rect x="18" y="16" width="50" height="34" rx="5"/><rect x="80" y="16" width="50" height="34" rx="5"/><rect x="142" y="16" width="50" height="34" rx="5"/><rect x="204" y="16" width="40" height="34" rx="5"/></g><circle cx="60" cy="102" r="18" fill="#111827"/><circle cx="200" cy="102" r="18" fill="#111827"/></g>
+<text x="600" y="545" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="30" font-weight="800" fill="#047857">Free shuttle bus</text>
+<!-- rail and train -->
+<rect y="700" width="1200" height="10" fill="#6b7280"/>
+<g transform="translate(430 650)"><rect width="340" height="50" rx="22" fill="#0052a4"/><g fill="#dbeafe"><rect x="30" y="10" width="40" height="22" rx="4"/><rect x="90" y="10" width="40" height="22" rx="4"/><rect x="150" y="10" width="40" height="22" rx="4"/><rect x="210" y="10" width="40" height="22" rx="4"/><rect x="270" y="10" width="40" height="22" rx="4"/></g></g>
+<text x="600" y="735" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="26" font-weight="800" fill="#0052a4">AREX train</text>
+<text x="600" y="95" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="54" font-weight="800" fill="#111827">Two terminals, one airport</text>
+</svg>
