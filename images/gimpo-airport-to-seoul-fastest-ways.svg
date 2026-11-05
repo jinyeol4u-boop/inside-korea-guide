@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">Ways from a small airport into the city</title>
+<desc id="d">A small airport terminal on the left, with a subway train, an airport bus and a taxi heading toward a colorful city skyline under a bright sky.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c7e9ff"/><stop offset="1" stop-color="#fff0d6"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1040" cy="120" r="60" fill="#ffd166"/>
+<g fill="#fff" opacity=".9"><ellipse cx="300" cy="110" rx="90" ry="28"/><ellipse cx="360" cy="96" rx="58" ry="24"/><ellipse cx="720" cy="170" rx="80" ry="24"/></g>
+<g transform="translate(120 70) rotate(-12)"><rect width="150" height="26" rx="13" fill="#fff" stroke="#94a3b8" stroke-width="3"/><polygon points="60,6 100,-34 114,-34 94,6" fill="#e2e8f0"/><polygon points="60,20 100,56 114,56 94,20" fill="#e2e8f0"/><rect x="128" y="-12" width="10" height="22" fill="#ef4444"/></g>
+<g><rect x="660" y="300" width="70" height="230" fill="#2563eb"/><rect x="740" y="240" width="90" height="290" fill="#f97316"/><rect x="840" y="330" width="70" height="200" fill="#10b981"/><rect x="920" y="270" width="100" height="260" fill="#8b5cf6"/><rect x="1030" y="350" width="80" height="180" fill="#ec4899"/>
+<g fill="#fff" opacity=".85"><rect x="675" y="320" width="14" height="14"/><rect x="700" y="320" width="14" height="14"/><rect x="760" y="270" width="14" height="14"/><rect x="790" y="270" width="14" height="14"/><rect x="760" y="310" width="14" height="14"/><rect x="790" y="310" width="14" height="14"/><rect x="858" y="350" width="14" height="14"/><rect x="940" y="300" width="14" height="14"/><rect x="975" y="300" width="14" height="14"/><rect x="940" y="340" width="14" height="14"/><rect x="1050" y="370" width="14" height="14"/></g></g>
+<rect y="520" width="1200" height="230" fill="#9ccc9c"/>
+<g transform="translate(60 330)"><rect width="320" height="190" rx="14" fill="#38bdf8"/><rect width="320" height="42" rx="14" fill="#0369a1"/><g fill="#e0f2fe"><rect x="24" y="70" width="52" height="44" rx="6"/><rect x="96" y="70" width="52" height="44" rx="6"/><rect x="168" y="70" width="52" height="44" rx="6"/><rect x="240" y="70" width="52" height="44" rx="6"/></g><rect x="130" y="124" width="60" height="66" rx="6" fill="#fff"/></g>
+<text x="220" y="316" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="40" font-weight="800" fill="#075985">Airport</text>
+<rect y="560" width="1200" height="90" fill="#4b5563"/><rect y="602" width="1200" height="8" fill="#fbbf24"/>
+<g transform="translate(250 575)"><rect width="230" height="70" rx="14" fill="#00a84d"/><g fill="#ecfdf5"><rect x="14" y="12" width="40" height="26" rx="4"/><rect x="62" y="12" width="40" height="26" rx="4"/><rect x="110" y="12" width="40" height="26" rx="4"/><rect x="158" y="12" width="40" height="26" rx="4"/></g><circle cx="52" cy="72" r="14" fill="#111827"/><circle cx="178" cy="72" r="14" fill="#111827"/></g>
+<g transform="translate(560 590)"><rect width="150" height="44" rx="12" fill="#fbbf24"/><rect x="38" y="-20" width="74" height="26" rx="8" fill="#f59e0b"/><circle cx="34" cy="46" r="12" fill="#111827"/><circle cx="116" cy="46" r="12" fill="#111827"/></g>
+<rect y="670" width="1200" height="10" fill="#6b7280"/>
+<g transform="translate(430 686)"><rect width="360" height="46" rx="20" fill="#0052a4"/><g fill="#dbeafe"><rect x="26" y="9" width="42" height="22" rx="4"/><rect x="88" y="9" width="42" height="22" rx="4"/><rect x="150" y="9" width="42" height="22" rx="4"/><rect x="212" y="9" width="42" height="22" rx="4"/><rect x="274" y="9" width="42" height="22" rx="4"/></g></g>
+<text x="600" y="60" text-anchor="middle" font-family="Albert Sans,Arial,sans-serif" font-size="46" font-weight="800" fill="#111827">Airport to city, three ways</text>
+</svg>

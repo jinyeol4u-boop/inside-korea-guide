@@ -1015,5 +1015,13 @@ window.IKG_INDEX=[
   "i": "/images/jeju-olle-trail-beginners-easiest-routes.svg",
   "d": "Routes 6, 21, 1 and 10-1 are rated low or easy; distances, arrow markers, best season and return planning, checked November 5, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Gimpo Airport to Seoul: The Fastest Ways Into the City",
+  "u": "/gimpo-airport-to-seoul-fastest-ways",
+  "p": "2026-11-05",
+  "i": "/images/gimpo-airport-to-seoul-fastest-ways.svg",
+  "d": "AREX all-stop about 23 min to Seoul Station, Line 9 Express to Gangnam, Line 5, buses and taxis from Gimpo, checked November 5, 2026.",
+  "s": "Getting Around"
  }
 ];
