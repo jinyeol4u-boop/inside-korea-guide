@@ -1023,5 +1023,13 @@ window.IKG_INDEX=[
   "i": "/images/gimpo-airport-to-seoul-fastest-ways.svg",
   "d": "AREX all-stop about 23 min to Seoul Station, Line 9 Express to Gangnam, Line 5, buses and taxis from Gimpo, checked November 5, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Olive Young Shopping Guide for K-Beauty Fans",
+  "u": "/olive-young-shopping-guide-k-beauty",
+  "p": "2026-11-06",
+  "i": "/images/olive-young-shopping-guide-k-beauty.svg",
+  "d": "Myeongdong Town flagship hours (10:00-22:30), English support, 15,000 won tax refund minimum and return rules, checked November 6, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
