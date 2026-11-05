@@ -1007,5 +1007,13 @@ window.IKG_INDEX=[
   "i": "/images/incheon-terminal-1-vs-terminal-2.svg",
   "d": "Which airlines use each Incheon terminal, the free shuttle (about 15-18 min) and 6-minute AREX link, checked November 5, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Jeju Olle Trail for Beginners: The Easiest Routes",
+  "u": "/jeju-olle-trail-beginners-easiest-routes",
+  "p": "2026-11-05",
+  "i": "/images/jeju-olle-trail-beginners-easiest-routes.svg",
+  "d": "Routes 6, 21, 1 and 10-1 are rated low or easy; distances, arrow markers, best season and return planning, checked November 5, 2026.",
+  "s": "Destinations"
  }
 ];
