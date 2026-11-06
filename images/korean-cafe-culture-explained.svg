@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">A busy Korean-style cafe with coffee, a laptop and dessert</title>
+<desc id="d">A cafe window scene with a laptop, an iced coffee, a hot coffee cup, a slice of cake, a hanging lamp and potted plants on a warm colorful background.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe9d2"/><stop offset="1" stop-color="#fff7ea"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<rect x="90" y="70" width="1020" height="420" rx="24" fill="#bfe6f5" stroke="#6b4f3a" stroke-width="14"/>
+<line x1="600" y1="70" x2="600" y2="490" stroke="#6b4f3a" stroke-width="10"/>
+<g fill="#fff" opacity=".85"><ellipse cx="300" cy="170" rx="90" ry="28"/><ellipse cx="360" cy="156" rx="58" ry="24"/><ellipse cx="860" cy="210" rx="80" ry="24"/></g>
+<g><rect x="680" y="300" width="60" height="190" fill="#2563eb"/><rect x="750" y="250" width="80" height="240" fill="#f97316"/><rect x="840" y="320" width="60" height="170" fill="#10b981"/><rect x="910" y="270" width="90" height="220" fill="#8b5cf6"/></g>
+<line x1="300" y1="70" x2="300" y2="190" stroke="#6b4f3a" stroke-width="6"/><path d="M250 190 Q300 130 350 190 Z" fill="#f59e0b"/><ellipse cx="300" cy="196" rx="22" ry="10" fill="#fde68a"/>
+<line x1="900" y1="70" x2="900" y2="150" stroke="#6b4f3a" stroke-width="6"/><path d="M860 150 Q900 100 940 150 Z" fill="#ec4899"/>
+<rect x="60" y="490" width="1080" height="40" rx="12" fill="#8a5a3c"/>
+<rect x="60" y="530" width="1080" height="220" fill="#c9915f"/>
+<g transform="translate(120 330)"><rect x="0" y="100" width="70" height="60" rx="8" fill="#b45309"/><path d="M35 100 C-10 60 10 10 35 40 C60 10 80 60 35 100Z" fill="#22c55e"/><path d="M35 100 C20 50 50 20 35 -10 C60 20 60 60 35 100Z" fill="#16a34a"/></g>
+<g transform="translate(250 560)"><rect x="0" y="40" width="360" height="22" rx="8" fill="#334155"/><path d="M40 40 L70 -90 L290 -90 L320 40 Z" fill="#475569"/><rect x="82" y="-78" width="196" height="108" rx="6" fill="#e0f2fe"/><rect x="100" y="-62" width="90" height="10" rx="5" fill="#0ea5e9"/><rect x="100" y="-42" width="150" height="10" rx="5" fill="#94a3b8"/><rect x="100" y="-22" width="120" height="10" rx="5" fill="#94a3b8"/></g>
+<g transform="translate(700 520)"><path d="M0 40 L20 190 Q70 205 120 190 L140 40 Z" fill="#fff" fill-opacity=".85" stroke="#7c4a2d" stroke-width="6"/><path d="M12 100 L128 100 L120 180 Q70 195 20 180 Z" fill="#8b5a3c"/><rect x="25" y="55" width="30" height="30" rx="6" fill="#e0f2fe" stroke="#94a3b8" stroke-width="3"/><rect x="80" y="62" width="28" height="28" rx="6" fill="#e0f2fe" stroke="#94a3b8" stroke-width="3"/><line x1="90" y1="-40" x2="75" y2="60" stroke="#ef4444" stroke-width="10" stroke-linecap="round"/><rect x="-6" y="30" width="152" height="14" rx="7" fill="#7c4a2d"/></g>
+<g transform="translate(900 560)"><path d="M0 60 L0 140 Q60 165 120 140 L120 60 Z" fill="#fff" stroke="#7c4a2d" stroke-width="6"/><path d="M120 80 Q175 80 175 105 Q175 130 120 125" fill="none" stroke="#7c4a2d" stroke-width="9"/><ellipse cx="60" cy="62" rx="60" ry="14" fill="#8b5a3c"/><path d="M25 40 Q10 10 30 -20 M60 40 Q45 5 65 -30 M95 40 Q80 10 100 -20" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".8"/></g>
+<g transform="translate(1060 600)"><polygon points="0,60 110,60 90,0" fill="#fde68a" stroke="#d97706" stroke-width="4" transform="translate(-60 0)"/><polygon points="-60,60 50,60 50,90 -60,90" fill="#fbcfe8" stroke="#db2777" stroke-width="4"/><circle cx="25" cy="0" r="12" fill="#ef4444"/></g>
+</svg>

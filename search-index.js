@@ -1039,5 +1039,13 @@ window.IKG_INDEX=[
   "i": "/images/east-vs-west-jeju-which-side.svg",
   "d": "Seongsan Ilchulbong (5,000 won) and Seopjikoji in the east versus Hyeopjae Beach and sunsets in the west, checked November 6, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Korean Cafe Culture Explained: Etiquette and Study Cafes",
+  "u": "/korean-cafe-culture-explained",
+  "p": "2026-11-06",
+  "i": "/images/korean-cafe-culture-explained.svg",
+  "d": "Americano prices from 1,700 to 4,700 won, laptop and seat etiquette, cagongjok and study cafes, checked November 6, 2026.",
+  "s": "Food"
  }
 ];
