@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">East and west coasts of Jeju Island side by side</title>
+<desc id="d">A split scene: on the left a sunset sky over a white beach with wind turbines and a small island; on the right a sunrise over a volcanic tuff cone and a cape with a lighthouse. A signpost points west and east.</desc>
+<defs>
+<linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9a76"/><stop offset=".6" stop-color="#ffd1a1"/><stop offset="1" stop-color="#fff0cf"/></linearGradient>
+<linearGradient id="e" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc7ff"/><stop offset=".6" stop-color="#bfe6ff"/><stop offset="1" stop-color="#fff6d6"/></linearGradient>
+<clipPath id="L"><rect width="600" height="750"/></clipPath><clipPath id="R"><rect x="600" width="600" height="750"/></clipPath>
+</defs>
+<g clip-path="url(#L)">
+<rect width="600" height="750" fill="url(#w)"/>
+<circle cx="150" cy="300" r="80" fill="#ff6b6b" opacity=".9"/>
+<rect y="330" width="600" height="170" fill="#2bb8c9"/>
+<path d="M0 360 Q75 345 150 360 T300 360 T450 360 T600 360" stroke="#c9f4f7" stroke-width="5" fill="none"/>
+<path d="M0 410 Q75 395 150 410 T300 410 T450 410 T600 410" stroke="#c9f4f7" stroke-width="5" fill="none" opacity=".7"/>
+<ellipse cx="400" cy="335" rx="70" ry="22" fill="#4f9a5a"/><path d="M340 335 Q400 290 460 335Z" fill="#3f8a4a"/>
+<path d="M0 500 Q300 470 600 520 L600 750 L0 750Z" fill="#f7e7bd"/>
+<path d="M0 540 Q300 510 600 560" stroke="#ead49a" stroke-width="6" fill="none"/>
+<g stroke="#fff" stroke-width="6" stroke-linecap="round"><path d="M60 330 V240"/><path d="M200 330 V250"/><path d="M330 330 V260"/></g>
+<g stroke="#fff" stroke-width="5" stroke-linecap="round"><path d="M60 240 L60 195 M60 240 L22 262 M60 240 L98 262"/><path d="M200 250 L200 208 M200 250 L165 270 M200 250 L235 270"/><path d="M330 260 L330 222 M330 260 L298 278 M330 260 L362 278"/></g>
+<g fill="#e8604c"><rect x="60" y="620" width="120" height="14" rx="7"/><path d="M80 620 Q120 570 160 620Z"/></g>
+<g stroke="#8a5a2b" stroke-width="5"><path d="M470 640 V560"/><path d="M470 560 q-40 -20 -60 5 M470 560 q40 -20 60 5 M470 565 q-20 -35 -50 -30 M470 565 q20 -35 50 -30"/></g>
+</g>
+<g clip-path="url(#R)">
+<rect x="600" width="600" height="750" fill="url(#e)"/>
+<circle cx="1000" cy="250" r="70" fill="#ffd54a"/>
+<g stroke="#ffd54a" stroke-width="6" stroke-linecap="round" opacity=".8"><path d="M1000 140 v-30 M1090 170 l22 -20 M1110 250 h32 M910 170 l-22 -20 M890 250 h-32"/></g>
+<rect x="600" y="330" width="600" height="170" fill="#1f8fd1"/>
+<path d="M600 360 Q675 345 750 360 T900 360 T1050 360 T1200 360" stroke="#d2efff" stroke-width="5" fill="none"/>
+<path d="M600 410 Q675 395 750 410 T900 410 T1050 410 T1200 410" stroke="#d2efff" stroke-width="5" fill="none" opacity=".7"/>
+<path d="M740 380 L800 230 Q840 215 880 230 L940 380Z" fill="#7a5c3e"/>
+<path d="M800 230 Q840 245 880 230 Q840 220 800 230Z" fill="#4c8a3c"/>
+<path d="M760 345 Q840 300 920 345 L940 380 L740 380Z" fill="#6aa84f"/>
+<path d="M600 500 Q900 470 1200 505 L1200 750 L600 750Z" fill="#7fbf63"/>
+<path d="M980 500 Q1060 470 1200 470 L1200 520 Q1100 530 980 520Z" fill="#5f5a54"/>
+<g><rect x="1080" y="400" width="26" height="70" fill="#fff"/><path d="M1076 400 H1110 L1093 372Z" fill="#e8604c"/><rect x="1086" y="415" width="14" height="10" fill="#ffd54a"/></g>
+<g fill="#ffd54a"><circle cx="680" cy="600" r="14"/><circle cx="720" cy="620" r="11"/><circle cx="1000" cy="640" r="13"/><circle cx="1050" cy="610" r="10"/></g>
+<g stroke="#2f6b2a" stroke-width="3"><path d="M680 614 v30 M720 631 v25 M1000 653 v28 M1050 620 v28"/></g>
+</g>
+<rect x="596" width="8" height="750" fill="#fff" opacity=".85"/>
+<g transform="translate(600 640)"><rect x="-7" y="-10" width="14" height="110" fill="#6b4a2b"/>
+<path d="M-10 -80 H-120 L-145 -57 L-120 -34 H-10Z" fill="#e8604c"/><path d="M10 -50 H120 L145 -27 L120 -4 H10Z" fill="#1f8fd1"/>
+<text x="-80" y="-48" font-family="Albert Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">WEST</text>
+<text x="80" y="-18" font-family="Albert Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#fff" text-anchor="middle">EAST</text></g>
+</svg>

@@ -1031,5 +1031,13 @@ window.IKG_INDEX=[
   "i": "/images/olive-young-shopping-guide-k-beauty.svg",
   "d": "Myeongdong Town flagship hours (10:00-22:30), English support, 15,000 won tax refund minimum and return rules, checked November 6, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "East vs West Jeju: Which Side Should You Explore?",
+  "u": "/east-vs-west-jeju-which-side",
+  "p": "2026-11-06",
+  "i": "/images/east-vs-west-jeju-which-side.svg",
+  "d": "Seongsan Ilchulbong (5,000 won) and Seopjikoji in the east versus Hyeopjae Beach and sunsets in the west, checked November 6, 2026.",
+  "s": "Destinations"
  }
 ];
