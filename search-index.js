@@ -1047,5 +1047,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-cafe-culture-explained.svg",
   "d": "Americano prices from 1,700 to 4,700 won, laptop and seat etiquette, cagongjok and study cafes, checked November 6, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Bulguksa and Seokguram: How to Visit Both in Half a Day",
+  "u": "/bulguksa-seokguram-half-day-visit",
+  "p": "2026-11-07",
+  "i": "/images/bulguksa-seokguram-half-day-visit.svg",
+  "d": "Free entry per VisitKorea, 09:00-18:00 hours, Bus 12 between the two UNESCO sites and a sample half-day schedule, checked November 7, 2026.",
+  "s": "Destinations"
  }
 ];
