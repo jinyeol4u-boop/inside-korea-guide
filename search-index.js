@@ -1063,5 +1063,13 @@ window.IKG_INDEX=[
   "i": "/images/kpop-fan-guide-to-seoul.svg",
   "d": "Free K-Star Road and COEX sights, Hongdae busking, music show applications and concert ticket tips, checked November 7, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Myeongdong Shopping Guide: What to Buy and Where",
+  "u": "/myeongdong-shopping-guide",
+  "p": "2026-11-07",
+  "i": "/images/myeongdong-shopping-guide.svg",
+  "d": "Cosmetics, fashion and department stores near Myeongdong Station Exits 5-10, store hours and tax refund status, checked November 7, 2026.",
+  "s": "Plan Your Trip"
  }
 ];

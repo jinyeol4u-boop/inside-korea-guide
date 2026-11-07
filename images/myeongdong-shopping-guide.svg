@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Illustration of a busy shopping street with storefront signs, hanging lanterns, shopping bags and a cosmetics display">
+<rect width="1200" height="750" fill="#FFF4E0"/>
+<circle cx="1050" cy="110" r="70" fill="#FFD98A"/><circle cx="130" cy="130" r="90" fill="#FAD4E0"/>
+<rect x="0" y="600" width="1200" height="150" fill="#E9D8C0"/>
+<rect x="0" y="640" width="1200" height="12" fill="#D8C2A2"/>
+<rect x="60" y="180" width="300" height="420" rx="10" fill="#7AD0F0"/><rect x="60" y="180" width="300" height="70" fill="#1976A8"/>
+<rect x="100" y="280" width="220" height="200" rx="8" fill="#FFFFFF"/><rect x="130" y="500" width="160" height="100" fill="#1976A8"/>
+<rect x="140" y="300" width="40" height="110" rx="8" fill="#FF7FA8"/><rect x="195" y="330" width="46" height="80" rx="8" fill="#FFC857"/><rect x="255" y="310" width="36" height="100" rx="8" fill="#00A84D"/>
+<rect x="400" y="130" width="360" height="470" rx="10" fill="#FF9DB8"/><rect x="400" y="130" width="360" height="80" fill="#C2185B"/>
+<rect x="450" y="250" width="260" height="230" rx="8" fill="#FFFFFF"/><rect x="520" y="500" width="120" height="100" fill="#C2185B"/>
+<circle cx="580" cy="320" r="28" fill="#FDD5E1"/><path d="M545 440 L580 350 L615 440 Z" fill="#7A5AC8"/><rect x="570" y="440" width="20" height="40" fill="#5A3E9E"/>
+<rect x="800" y="200" width="330" height="400" rx="10" fill="#B9E8CC"/><rect x="800" y="200" width="330" height="70" fill="#00A84D"/>
+<rect x="840" y="300" width="250" height="180" rx="8" fill="#FFFFFF"/><rect x="900" y="500" width="130" height="100" fill="#008A3E"/>
+<path d="M880 440 H1040 L1030 340 H890 Z" fill="#FFC857"/><circle cx="960" cy="395" r="22" fill="#FFFFFF"/>
+<path d="M0 90 Q300 150 600 90 T1200 90" fill="none" stroke="#8A6A3C" stroke-width="4"/>
+<g><circle cx="150" cy="118" r="22" fill="#E53935"/><circle cx="330" cy="130" r="22" fill="#FFC857"/><circle cx="520" cy="112" r="22" fill="#E53935"/><circle cx="700" cy="118" r="22" fill="#FFC857"/><circle cx="880" cy="130" r="22" fill="#E53935"/><circle cx="1060" cy="112" r="22" fill="#FFC857"/></g>
+<path d="M240 640 H340 L352 740 H228 Z" fill="#00A84D"/><path d="M265 640 C265 600 315 600 315 640" fill="none" stroke="#006B30" stroke-width="8"/>
+<path d="M860 650 H950 L960 740 H850 Z" fill="#FF7FA8"/><path d="M880 650 C880 615 930 615 930 650" fill="none" stroke="#C2185B" stroke-width="8"/>
+<path d="M620 650 H700 L708 740 H612 Z" fill="#7AD0F0"/><path d="M640 650 C640 620 680 620 680 650" fill="none" stroke="#1976A8" stroke-width="8"/>
+</svg>
