@@ -1055,5 +1055,13 @@ window.IKG_INDEX=[
   "i": "/images/bulguksa-seokguram-half-day-visit.svg",
   "d": "Free entry per VisitKorea, 09:00-18:00 hours, Bus 12 between the two UNESCO sites and a sample half-day schedule, checked November 7, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "A K-Pop Fan's Guide to Seoul: Spots, Shows and Concerts",
+  "u": "/kpop-fan-guide-to-seoul",
+  "p": "2026-11-07",
+  "i": "/images/kpop-fan-guide-to-seoul.svg",
+  "d": "Free K-Star Road and COEX sights, Hongdae busking, music show applications and concert ticket tips, checked November 7, 2026.",
+  "s": "Culture"
  }
 ];

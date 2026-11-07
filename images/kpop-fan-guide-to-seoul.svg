@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a K-pop concert stage with light sticks, a bear-shaped statue and a Seoul skyline at dusk">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b1d6e"/><stop offset=".6" stop-color="#e0447c"/><stop offset="1" stop-color="#ffb45e"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="150" r="70" fill="#fff6c9" opacity=".9"/>
+<g fill="#2a1450" opacity=".85"><rect x="40" y="330" width="90" height="260"/><rect x="140" y="270" width="70" height="320"/><rect x="220" y="360" width="110" height="230"/><rect x="860" y="300" width="80" height="290"/><rect x="950" y="370" width="120" height="220"/><rect x="1080" y="310" width="90" height="280"/></g>
+<g fill="#ffe27a" opacity=".8"><rect x="60" y="360" width="10" height="14"/><rect x="90" y="400" width="10" height="14"/><rect x="160" y="310" width="10" height="14"/><rect x="180" y="360" width="10" height="14"/><rect x="250" y="400" width="10" height="14"/><rect x="880" y="340" width="10" height="14"/><rect x="900" y="400" width="10" height="14"/><rect x="980" y="410" width="10" height="14"/><rect x="1110" y="350" width="10" height="14"/></g>
+<g stroke="#2a1450" stroke-width="6" fill="#4a2a86"><rect x="380" y="200" width="440" height="30" rx="6"/><rect x="400" y="230" width="12" height="360"/><rect x="788" y="230" width="12" height="360"/></g>
+<polygon points="440,230 520,230 420,590 300,590" fill="url(#beam)"/>
+<polygon points="680,230 760,230 900,590 780,590" fill="url(#beam)"/>
+<polygon points="560,230 640,230 700,590 500,590" fill="url(#beam)"/>
+<rect x="330" y="560" width="540" height="40" rx="8" fill="#ff4f9a"/>
+<rect x="0" y="600" width="1200" height="150" fill="#1d0f3d"/>
+<g fill="#ffd23f"><circle cx="500" cy="545" r="16"/><circle cx="600" cy="535" r="18"/><circle cx="700" cy="545" r="16"/></g>
+<g stroke="#ffd23f" stroke-width="8" stroke-linecap="round"><line x1="500" y1="561" x2="500" y2="580"/><line x1="600" y1="553" x2="600" y2="580"/><line x1="700" y1="561" x2="700" y2="580"/></g>
+<g fill="#7a4a2a"><circle cx="190" cy="520" r="22"/><circle cx="148" cy="486" r="14"/><circle cx="232" cy="486" r="14"/><ellipse cx="190" cy="590" rx="52" ry="62"/><circle cx="190" cy="526" r="52" fill="#a4683a"/><circle cx="174" cy="516" r="6" fill="#222"/><circle cx="206" cy="516" r="6" fill="#222"/><ellipse cx="190" cy="538" rx="14" ry="10" fill="#e8c9a0"/></g>
+<g><rect x="60" y="640" width="1080" height="14" rx="7" fill="#ff4f9a" opacity=".85"/>
+<g id="stick"><rect x="105" y="650" width="10" height="70" rx="4" fill="#fff"/><circle cx="110" cy="640" r="18" fill="#7be0ff"/></g>
+<use href="#stick" x="190"/><use href="#stick" x="300" y="-6"/><use href="#stick" x="420"/><use href="#stick" x="560" y="-8"/><use href="#stick" x="680"/><use href="#stick" x="800" y="-6"/><use href="#stick" x="920"/></g>
+<g fill="#fff" opacity=".9"><path d="M600 90l8 20 22 2-17 14 6 21-19-12-19 12 6-21-17-14 22-2z"/><path d="M300 110l5 12 13 1-10 8 4 13-12-8-12 8 4-13-10-8 13-1z"/><path d="M880 80l5 12 13 1-10 8 4 13-12-8-12 8 4-13-10-8 13-1z"/></g>
+</svg>
