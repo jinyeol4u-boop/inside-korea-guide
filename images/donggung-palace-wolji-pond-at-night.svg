@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">Lit Korean pavilions reflected in a calm pond under a night sky</title>
+<desc id="d">Colorful illustration of traditional tile-roofed pavilions glowing with warm lights beside a still pond, their reflections shimmering in the water, with a crescent moon, stars, a small stone bridge and pine trees.</desc>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1f4b"/><stop offset=".6" stop-color="#5b3f8c"/><stop offset="1" stop-color="#f08a5d"/></linearGradient>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3a7a"/><stop offset="1" stop-color="#0f1a3d"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffd27a" stop-opacity=".9"/><stop offset="1" stop-color="#ffd27a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#fff"><circle cx="120" cy="90" r="3"/><circle cx="260" cy="150" r="2.5"/><circle cx="410" cy="70" r="3"/><circle cx="560" cy="130" r="2"/><circle cx="720" cy="60" r="3"/><circle cx="860" cy="140" r="2.5"/><circle cx="1010" cy="80" r="3"/><circle cx="1120" cy="170" r="2"/><circle cx="330" cy="200" r="2"/><circle cx="930" cy="220" r="2"/></g>
+<circle cx="980" cy="150" r="90" fill="url(#glow)"/>
+<path d="M990 105 A48 48 0 1 0 990 201 A38 38 0 1 1 990 105Z" fill="#fff3c4"/>
+<path d="M0 400 L180 330 L360 390 L560 320 L760 385 L960 325 L1200 390 L1200 450 L0 450Z" fill="#2a2457"/>
+<rect x="0" y="440" width="1200" height="310" fill="url(#water)"/>
+<g>
+<rect x="380" y="400" width="440" height="22" fill="#6b4a3a"/>
+<rect x="400" y="340" width="400" height="62" fill="#a8422f"/>
+<g fill="#ffd27a"><rect x="425" y="352" width="34" height="50"/><rect x="480" y="352" width="34" height="50"/><rect x="535" y="352" width="34" height="50"/><rect x="590" y="352" width="34" height="50"/><rect x="645" y="352" width="34" height="50"/><rect x="700" y="352" width="34" height="50"/><rect x="755" y="352" width="34" height="50"/></g>
+<path d="M350 345 Q600 255 850 345 L815 372 Q600 305 385 372Z" fill="#2b2f45"/>
+<path d="M385 372 Q600 305 815 372" fill="none" stroke="#161a2b" stroke-width="5"/>
+<path d="M350 345 Q335 330 322 338" fill="none" stroke="#2b2f45" stroke-width="7" stroke-linecap="round"/><path d="M850 345 Q865 330 878 338" fill="none" stroke="#2b2f45" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g>
+<rect x="100" y="380" width="200" height="20" fill="#6b4a3a"/>
+<rect x="120" y="335" width="160" height="47" fill="#a8422f"/>
+<g fill="#ffd27a"><rect x="135" y="345" width="26" height="37"/><rect x="187" y="345" width="26" height="37"/><rect x="239" y="345" width="26" height="37"/></g>
+<path d="M80 340 Q200 285 320 340 L295 358 Q200 318 105 358Z" fill="#2b2f45"/>
+</g>
+<g>
+<rect x="900" y="385" width="190" height="18" fill="#6b4a3a"/>
+<rect x="918" y="342" width="154" height="45" fill="#a8422f"/>
+<g fill="#ffd27a"><rect x="932" y="351" width="26" height="36"/><rect x="982" y="351" width="26" height="36"/><rect x="1032" y="351" width="26" height="36"/></g>
+<path d="M880 347 Q995 295 1110 347 L1088 364 Q995 326 902 364Z" fill="#2b2f45"/>
+</g>
+<g opacity=".55" transform="translate(0 800) scale(1 -1)">
+<rect x="400" y="340" width="400" height="62" fill="#a8422f"/>
+<g fill="#ffd27a"><rect x="425" y="352" width="34" height="50"/><rect x="480" y="352" width="34" height="50"/><rect x="535" y="352" width="34" height="50"/><rect x="590" y="352" width="34" height="50"/><rect x="645" y="352" width="34" height="50"/><rect x="700" y="352" width="34" height="50"/><rect x="755" y="352" width="34" height="50"/></g>
+<path d="M350 345 Q600 255 850 345 L815 372 Q600 305 385 372Z" fill="#2b2f45"/>
+<rect x="120" y="335" width="160" height="47" fill="#a8422f"/><path d="M80 340 Q200 285 320 340 L295 358 Q200 318 105 358Z" fill="#2b2f45"/>
+<rect x="918" y="342" width="154" height="45" fill="#a8422f"/><path d="M880 347 Q995 295 1110 347 L1088 364 Q995 326 902 364Z" fill="#2b2f45"/>
+</g>
+<g stroke="#ffd27a" stroke-width="3" opacity=".5" stroke-linecap="round"><path d="M430 520 H520"/><path d="M640 545 H760"/><path d="M250 560 H330"/><path d="M880 530 H980"/><path d="M520 600 H620"/></g>
+<g fill="#3d5a6c"><ellipse cx="560" cy="640" rx="60" ry="14"/><ellipse cx="930" cy="610" rx="45" ry="11"/><ellipse cx="220" cy="620" rx="40" ry="10"/></g>
+<path d="M50 470 Q600 380 1150 470" fill="none" stroke="#6b4a3a" stroke-width="0"/>
+<g fill="#1f4d3a"><path d="M20 440 L60 330 L100 440Z"/><path d="M40 440 L80 350 L120 440Z"/><path d="M1090 440 L1130 335 L1170 440Z"/><path d="M1130 440 L1165 360 L1200 440Z"/></g>
+<g><circle cx="600" cy="470" r="9" fill="#ff6b6b"/><circle cx="640" cy="478" r="9" fill="#ffd166"/><circle cx="560" cy="478" r="9" fill="#06d6a0"/></g>
+</svg>

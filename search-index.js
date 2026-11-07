@@ -1071,5 +1071,13 @@ window.IKG_INDEX=[
   "i": "/images/myeongdong-shopping-guide.svg",
   "d": "Cosmetics, fashion and department stores near Myeongdong Station Exits 5-10, store hours and tax refund status, checked November 7, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Donggung Palace and Wolji Pond at Night: Gyeongju Guide",
+  "u": "/donggung-palace-wolji-pond-at-night",
+  "p": "2026-11-08",
+  "i": "/images/donggung-palace-wolji-pond-at-night.svg",
+  "d": "Open until 22:00, last entry about 21:30, reported 3,000 won adult fee, when the lights reflect on the pond and how to get there, checked November 8, 2026.",
+  "s": "Destinations"
  }
 ];
