@@ -1087,5 +1087,13 @@ window.IKG_INDEX=[
   "i": "/images/one-week-korea-seoul-jeju.svg",
   "d": "Three days in Seoul, a morning flight from Gimpo to Jeju, then the east coast and Seogwipo, with closing days, fees and airport bus times, checked November 8, 2026.",
   "s": "Itineraries"
+ },
+ {
+  "t": "Themed Cafes in Seoul: What to Know Before You Go",
+  "u": "/themed-cafes-in-seoul-guide",
+  "p": "2026-11-08",
+  "i": "/images/themed-cafes-in-seoul-guide.svg",
+  "d": "Cat cafe ticket rules, the wildlife cafe ban with its 2027 deadline and pet-friendly cafe rules, checked November 8, 2026.",
+  "s": "Food"
  }
 ];

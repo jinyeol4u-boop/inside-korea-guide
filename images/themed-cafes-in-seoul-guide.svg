@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="t d">
+<title id="t">A cat, a board game and a pastel cafe sign</title>
+<desc id="d">A pastel cafe interior with a sitting cat on a cushion, a board game with dice, a drink with a straw and a hanging neon-style sign shaped like a heart.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9e0ff"/><stop offset="1" stop-color="#ffeef6"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<rect x="80" y="60" width="1040" height="430" rx="26" fill="#fff6c9" stroke="#7c3aed" stroke-width="12"/>
+<g fill="#fbcfe8"><circle cx="200" cy="150" r="40"/><circle cx="1000" cy="140" r="52"/><circle cx="880" cy="400" r="34"/></g>
+<g fill="#a7f3d0"><circle cx="330" cy="400" r="30"/><circle cx="120" cy="330" r="24"/></g>
+<line x1="600" y1="60" x2="600" y2="150" stroke="#7c3aed" stroke-width="6"/>
+<path d="M600 290 C520 230 520 170 565 160 C590 156 600 172 600 180 C600 172 610 156 635 160 C680 170 680 230 600 290Z" fill="#ec4899" stroke="#9d174d" stroke-width="8"/>
+<rect x="60" y="490" width="1080" height="40" rx="12" fill="#6d28d9"/>
+<rect x="60" y="530" width="1080" height="220" fill="#c4b5fd"/>
+<g transform="translate(150 360)"><ellipse cx="110" cy="150" rx="150" ry="28" fill="#f472b6"/><ellipse cx="110" cy="105" rx="80" ry="62" fill="#fb923c"/><circle cx="110" cy="35" r="52" fill="#fb923c"/><path d="M68 5 L72 -38 L100 -2Z M152 5 L148 -38 L120 -2Z" fill="#fb923c"/><circle cx="92" cy="32" r="7" fill="#1f2937"/><circle cx="128" cy="32" r="7" fill="#1f2937"/><path d="M104 48 L116 48 L110 56Z" fill="#ec4899"/><path d="M60 50 L90 54 M60 62 L90 58 M160 54 L130 54 M160 62 L130 58" stroke="#1f2937" stroke-width="3"/><path d="M180 120 C250 110 250 50 215 60" fill="none" stroke="#fb923c" stroke-width="16" stroke-linecap="round"/></g>
+<g transform="translate(470 520)"><rect x="0" y="40" width="300" height="200" rx="14" fill="#fde68a" stroke="#b45309" stroke-width="6"/><g fill="#ef4444"><rect x="20" y="60" width="60" height="60"/><rect x="140" y="60" width="60" height="60"/><rect x="80" y="120" width="60" height="60"/><rect x="200" y="120" width="60" height="60"/></g><g fill="#3b82f6"><rect x="80" y="60" width="60" height="60"/><rect x="200" y="60" width="60" height="60"/><rect x="20" y="120" width="60" height="60"/><rect x="140" y="120" width="60" height="60"/></g><circle cx="110" cy="90" r="16" fill="#facc15"/><circle cx="230" cy="150" r="16" fill="#22c55e"/><g transform="translate(250 -10) rotate(12)"><rect width="56" height="56" rx="10" fill="#fff" stroke="#1f2937" stroke-width="4"/><circle cx="16" cy="16" r="5" fill="#1f2937"/><circle cx="40" cy="16" r="5" fill="#1f2937"/><circle cx="28" cy="28" r="5" fill="#1f2937"/><circle cx="16" cy="40" r="5" fill="#1f2937"/><circle cx="40" cy="40" r="5" fill="#1f2937"/></g></g>
+<g transform="translate(850 420)"><path d="M0 40 L24 230 Q80 248 136 230 L160 40Z" fill="#ffffff" fill-opacity=".85" stroke="#7c3aed" stroke-width="6"/><path d="M12 110 L148 110 L136 220 Q80 236 24 220Z" fill="#f9a8d4"/><line x1="100" y1="40" x2="120" y2="-30" stroke="#10b981" stroke-width="10" stroke-linecap="round"/><circle cx="80" cy="170" r="14" fill="#fff" opacity=".7"/></g>
+</svg>
