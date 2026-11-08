@@ -1095,5 +1095,13 @@ window.IKG_INDEX=[
   "i": "/images/themed-cafes-in-seoul-guide.svg",
   "d": "Cat cafe ticket rules, the wildlife cafe ban with its 2027 deadline and pet-friendly cafe rules, checked November 8, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Arriving at Incheon Late at Night: Your Options",
+  "u": "/incheon-airport-late-night-arrival-options",
+  "p": "2026-11-09",
+  "i": "/images/incheon-airport-late-night-arrival-options.svg",
+  "d": "Night buses N6000, N6002, N6701 and N6703 from Terminal 1 (23:40 to 04:50), taxi night surcharges and capsule hotels, checked November 9, 2026.",
+  "s": "Getting Around"
  }
 ];

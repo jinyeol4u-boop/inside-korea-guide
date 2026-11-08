@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Night scene with an airport terminal, a night bus and a taxi under a crescent moon">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1f5e"/><stop offset="0.6" stop-color="#4a3a9a"/><stop offset="1" stop-color="#e0638a"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<g fill="#fff6c9"><circle cx="120" cy="90" r="3"/><circle cx="260" cy="150" r="2.5"/><circle cx="410" cy="70" r="3"/><circle cx="560" cy="130" r="2"/><circle cx="700" cy="60" r="3"/><circle cx="880" cy="140" r="2.5"/><circle cx="1010" cy="80" r="3"/><circle cx="1120" cy="170" r="2"/><circle cx="330" cy="220" r="2"/><circle cx="800" cy="220" r="2"/></g>
+<circle cx="980" cy="190" r="70" fill="#ffe27a"/><circle cx="1010" cy="170" r="62" fill="#3b2f8f"/>
+<g transform="translate(300 170) rotate(-12)"><path d="M0 20 L120 10 L170 0 L130 20 L170 40 L120 30 Z" fill="#ffffff"/><path d="M60 15 L40 -25 L75 12 Z" fill="#dfe6ff"/><path d="M60 25 L40 65 L75 28 Z" fill="#dfe6ff"/></g>
+<rect x="0" y="560" width="1200" height="190" fill="#23244f"/>
+<rect x="0" y="640" width="1200" height="110" fill="#2f3166"/>
+<g stroke="#ffd34d" stroke-width="6" stroke-dasharray="40 30"><line x1="0" y1="700" x2="1200" y2="700"/></g>
+<path d="M60 560 L60 430 Q60 380 120 380 L520 380 Q580 380 580 430 L580 560 Z" fill="#3fa7d6"/>
+<rect x="60" y="440" width="520" height="12" fill="#1e6f9c"/>
+<g fill="#ffe27a"><rect x="100" y="470" width="50" height="60"/><rect x="170" y="470" width="50" height="60"/><rect x="240" y="470" width="50" height="60"/><rect x="310" y="470" width="50" height="60"/><rect x="380" y="470" width="50" height="60"/><rect x="450" y="470" width="50" height="60"/></g>
+<rect x="250" y="405" width="140" height="26" rx="6" fill="#ffffff"/><text x="320" y="425" font-family="Albert Sans, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#1e3a6f">24 HOURS</text>
+<g transform="translate(620 560)"><rect x="0" y="0" width="330" height="110" rx="16" fill="#00a84d"/><rect x="0" y="60" width="330" height="14" fill="#007a38"/><g fill="#ffe27a"><rect x="20" y="16" width="55" height="34" rx="4"/><rect x="90" y="16" width="55" height="34" rx="4"/><rect x="160" y="16" width="55" height="34" rx="4"/><rect x="230" y="16" width="70" height="34" rx="4"/></g><rect x="250" y="-34" width="70" height="30" rx="6" fill="#ffffff"/><text x="285" y="-12" font-family="Albert Sans, Arial, sans-serif" font-size="20" font-weight="800" text-anchor="middle" fill="#00703a">N</text><circle cx="70" cy="112" r="24" fill="#111"/><circle cx="70" cy="112" r="10" fill="#bbb"/><circle cx="260" cy="112" r="24" fill="#111"/><circle cx="260" cy="112" r="10" fill="#bbb"/></g>
+<g transform="translate(990 600)"><rect x="0" y="20" width="170" height="52" rx="12" fill="#f4a21c"/><path d="M30 20 L50 -8 L120 -8 L140 20 Z" fill="#f7b84a"/><rect x="70" y="-24" width="40" height="16" rx="4" fill="#ffffff"/><circle cx="40" cy="74" r="18" fill="#111"/><circle cx="130" cy="74" r="18" fill="#111"/></g>
+<g transform="translate(60 80)"><rect width="180" height="64" rx="12" fill="#ffffff" opacity="0.92"/><text x="90" y="40" font-family="Albert Sans, Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle" fill="#1b1f5e">23:40 → 04:50</text></g>
+</svg>
