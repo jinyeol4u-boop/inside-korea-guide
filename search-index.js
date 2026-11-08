@@ -1079,5 +1079,13 @@ window.IKG_INDEX=[
   "i": "/images/donggung-palace-wolji-pond-at-night.svg",
   "d": "Open until 22:00, last entry about 21:30, reported 3,000 won adult fee, when the lights reflect on the pond and how to get there, checked November 8, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "One Week in Korea Without Rushing: Seoul and Jeju",
+  "u": "/one-week-korea-seoul-jeju",
+  "p": "2026-11-08",
+  "i": "/images/one-week-korea-seoul-jeju.svg",
+  "d": "Three days in Seoul, a morning flight from Gimpo to Jeju, then the east coast and Seogwipo, with closing days, fees and airport bus times, checked November 8, 2026.",
+  "s": "Itineraries"
  }
 ];
