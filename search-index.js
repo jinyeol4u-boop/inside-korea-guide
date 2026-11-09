@@ -1119,5 +1119,13 @@ window.IKG_INDEX=[
   "i": "/images/sleeping-in-a-jjimjilbang-guide.svg",
   "d": "Which jjimjilbang stay open 24 hours, night fees of about 12,000 to 20,000 won and what the sleeping hall is like, checked November 9, 2026.",
   "s": "Stay"
+ },
+ {
+  "t": "Korean Souvenirs Worth Buying: What to Pack and Skip",
+  "u": "/korean-souvenirs-worth-buying",
+  "p": "2026-11-10",
+  "i": "/images/korean-souvenirs-worth-buying.svg",
+  "d": "Gim, yuja tea, hanji crafts and name seals, Ssamzi-gil open daily 10:30 to 20:30 and what to check before buying gifts, checked November 10, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
