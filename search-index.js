@@ -1103,5 +1103,13 @@ window.IKG_INDEX=[
   "i": "/images/incheon-airport-late-night-arrival-options.svg",
   "d": "Night buses N6000, N6002, N6701 and N6703 from Terminal 1 (23:40 to 04:50), taxi night surcharges and capsule hotels, checked November 9, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Suwon Hwaseong Fortress Day Trip from Seoul",
+  "u": "/suwon-hwaseong-fortress-day-trip",
+  "p": "2026-11-09",
+  "i": "/images/suwon-hwaseong-fortress-day-trip.svg",
+  "d": "Free wall walk, Haenggung palace about 2,000 won, Line 1 from Seoul in about 50 minutes, trolley and a half-day route, checked November 9, 2026.",
+  "s": "Destinations"
  }
 ];
