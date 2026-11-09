@@ -1111,5 +1111,13 @@ window.IKG_INDEX=[
   "i": "/images/suwon-hwaseong-fortress-day-trip.svg",
   "d": "Free wall walk, Haenggung palace about 2,000 won, Line 1 from Seoul in about 50 minutes, trolley and a half-day route, checked November 9, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Sleeping in a Jjimjilbang: A Budget Option Explained",
+  "u": "/sleeping-in-a-jjimjilbang-guide",
+  "p": "2026-11-09",
+  "i": "/images/sleeping-in-a-jjimjilbang-guide.svg",
+  "d": "Which jjimjilbang stay open 24 hours, night fees of about 12,000 to 20,000 won and what the sleeping hall is like, checked November 9, 2026.",
+  "s": "Stay"
  }
 ];
