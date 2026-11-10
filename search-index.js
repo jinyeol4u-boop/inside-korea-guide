@@ -1127,5 +1127,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-souvenirs-worth-buying.svg",
   "d": "Gim, yuja tea, hanji crafts and name seals, Ssamzi-gil open daily 10:30 to 20:30 and what to check before buying gifts, checked November 10, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Nami Island Day Trip from Seoul: Train, Ferry, Costs",
+  "u": "/nami-island-gapyeong-day-trip",
+  "p": "2026-11-10",
+  "i": "/images/nami-island-gapyeong-day-trip.svg",
+  "d": "ITX-Cheongchun to Gapyeong, 5-minute ferry, 19,000 won entry with round-trip ferry, bikes and a sample schedule, checked November 10, 2026.",
+  "s": "Destinations"
  }
 ];

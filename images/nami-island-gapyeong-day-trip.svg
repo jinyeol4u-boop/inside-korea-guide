@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a ferry crossing a lake to a small island lined with autumn trees">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9bdcf7"/><stop offset="1" stop-color="#fff0c9"/></linearGradient>
+<linearGradient id="lake" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4fb3d9"/><stop offset="1" stop-color="#2b7fb0"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="190" cy="140" r="64" fill="#ffd45a"/>
+<g fill="#fff" opacity=".92"><ellipse cx="620" cy="110" rx="100" ry="28"/><ellipse cx="700" cy="92" rx="60" ry="24"/><ellipse cx="980" cy="170" rx="80" ry="22"/></g>
+<path d="M0 360 Q180 250 360 340 T720 320 T1200 330 V430 H0Z" fill="#7fae8a"/>
+<path d="M0 400 Q260 320 520 390 T1200 380 V450 H0Z" fill="#5f9a6b"/>
+<rect y="430" width="1200" height="320" fill="url(#lake)"/>
+<g stroke="#bfe6f5" stroke-width="4" opacity=".7" fill="none"><path d="M60 600H240M300 650H520M700 620H940M880 690H1120M120 700H300"/></g>
+<ellipse cx="640" cy="470" rx="330" ry="46" fill="#8a6a3d"/>
+<ellipse cx="640" cy="458" rx="320" ry="40" fill="#6fae5a"/>
+<g>
+<rect x="388" y="372" width="12" height="80" fill="#7a5230"/><circle cx="394" cy="350" r="52" fill="#e6572e"/>
+<rect x="488" y="360" width="12" height="92" fill="#7a5230"/><circle cx="494" cy="332" r="60" fill="#f2a22b"/>
+<rect x="594" y="368" width="12" height="86" fill="#7a5230"/><circle cx="600" cy="340" r="56" fill="#d9442b"/>
+<rect x="700" y="362" width="12" height="92" fill="#7a5230"/><circle cx="706" cy="334" r="60" fill="#f7c331"/>
+<rect x="806" y="372" width="12" height="80" fill="#7a5230"/><circle cx="812" cy="350" r="52" fill="#e8772e"/>
+</g>
+<path d="M360 470 H920" stroke="#e9d9a8" stroke-width="10" opacity=".8"/>
+<g transform="translate(110 520)">
+<path d="M0 40 H300 L270 100 H30Z" fill="#fff" stroke="#2b4a63" stroke-width="5"/>
+<rect x="40" y="0" width="190" height="40" rx="8" fill="#ef5a5a" stroke="#2b4a63" stroke-width="5"/>
+<rect x="60" y="10" width="34" height="22" fill="#d7f0fb"/><rect x="108" y="10" width="34" height="22" fill="#d7f0fb"/><rect x="156" y="10" width="34" height="22" fill="#d7f0fb"/>
+<path d="M130 0 V-40 H170" stroke="#2b4a63" stroke-width="5" fill="none"/><rect x="170" y="-52" width="34" height="22" fill="#ffd45a" stroke="#2b4a63" stroke-width="3"/>
+<path d="M-20 108 Q60 92 150 108 T330 108" stroke="#fff" stroke-width="6" fill="none" opacity=".8"/>
+</g>
+<g transform="translate(880 560)"><path d="M0 30 H170 L150 70 H20Z" fill="#fff" stroke="#2b4a63" stroke-width="4"/><rect x="40" y="0" width="90" height="30" rx="6" fill="#3fa6a0" stroke="#2b4a63" stroke-width="4"/></g>
+<g transform="translate(60 330)"><rect width="150" height="34" rx="10" fill="#3b6fb6"/><rect x="10" y="7" width="26" height="16" fill="#d7ecff"/><rect x="44" y="7" width="26" height="16" fill="#d7ecff"/><rect x="78" y="7" width="26" height="16" fill="#d7ecff"/><rect x="112" y="7" width="26" height="16" fill="#d7ecff"/><circle cx="32" cy="38" r="8" fill="#333"/><circle cx="118" cy="38" r="8" fill="#333"/></g>
+</svg>
