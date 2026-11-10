@@ -1135,5 +1135,13 @@ window.IKG_INDEX=[
   "i": "/images/nami-island-gapyeong-day-trip.svg",
   "d": "ITX-Cheongchun to Gapyeong, 5-minute ferry, 19,000 won entry with round-trip ferry, bikes and a sample schedule, checked November 10, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Noraebang: How Korean Karaoke Works for Visitors",
+  "u": "/noraebang-korean-karaoke-guide",
+  "p": "2026-11-10",
+  "i": "/images/noraebang-korean-karaoke-guide.svg",
+  "d": "Private soundproofed rooms, regular vs coin noraebang, about 20,000 to 30,000 won per hour, about 500 won per song and etiquette, checked November 10, 2026.",
+  "s": "Culture"
  }
 ];
