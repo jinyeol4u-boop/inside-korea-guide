@@ -1143,5 +1143,13 @@ window.IKG_INDEX=[
   "i": "/images/noraebang-korean-karaoke-guide.svg",
   "d": "Private soundproofed rooms, regular vs coin noraebang, about 20,000 to 30,000 won per hour, about 500 won per song and etiquette, checked November 10, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Korean Desserts: Bingsu, Hotteok and Bungeoppang Guide",
+  "u": "/korean-desserts-bingsu-hotteok-bungeoppang",
+  "p": "2026-11-11",
+  "i": "/images/korean-desserts-bingsu-hotteok-bungeoppang.svg",
+  "d": "Bingsu from about 4,400 won at chains, hotteok about 2,500 won and bungeoppang three for 2,000 won, with seasons and sources, checked November 11, 2026.",
+  "s": "Food"
  }
 ];
