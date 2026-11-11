@@ -1159,5 +1159,13 @@ window.IKG_INDEX=[
   "i": "/images/taxis-in-korea-types-fares-tips.svg",
   "d": "Regular, deluxe and international taxis, Seoul fares from 4,800 won, late-night rates, airport rules, payment and complaint steps, checked November 11, 2026.",
   "s": "Getting Around"
+ },
+ {
+  "t": "Duty-Free Shopping in Korea: City vs Airport",
+  "u": "/korea-duty-free-city-vs-airport",
+  "p": "2026-11-11",
+  "i": "/images/korea-duty-free-city-vs-airport.svg",
+  "d": "Buy at a downtown duty-free store up to 60 days ahead and collect at the airport, or shop at Incheon; passport rules, pickup timing and allowances, checked November 11, 2026.",
+  "s": "Plan Your Trip"
  }
 ];
