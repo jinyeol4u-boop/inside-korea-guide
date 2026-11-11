@@ -1151,5 +1151,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-desserts-bingsu-hotteok-bungeoppang.svg",
   "d": "Bingsu from about 4,400 won at chains, hotteok about 2,500 won and bungeoppang three for 2,000 won, with seasons and sources, checked November 11, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Taking Taxis in Korea: Types, Fares and Tips",
+  "u": "/taxis-in-korea-types-fares-tips",
+  "p": "2026-11-11",
+  "i": "/images/taxis-in-korea-types-fares-tips.svg",
+  "d": "Regular, deluxe and international taxis, Seoul fares from 4,800 won, late-night rates, airport rules, payment and complaint steps, checked November 11, 2026.",
+  "s": "Getting Around"
  }
 ];
