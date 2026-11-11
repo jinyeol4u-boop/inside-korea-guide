@@ -1167,5 +1167,13 @@ window.IKG_INDEX=[
   "i": "/images/korea-duty-free-city-vs-airport.svg",
   "d": "Buy at a downtown duty-free store up to 60 days ahead and collect at the airport, or shop at Incheon; passport rules, pickup timing and allowances, checked November 11, 2026.",
   "s": "Plan Your Trip"
+ },
+ {
+  "t": "Jeonju Hanok Village Day Trip from Seoul by KTX",
+  "u": "/jeonju-hanok-village-ktx-day-trip",
+  "p": "2026-11-12",
+  "i": "/images/jeonju-hanok-village-ktx-day-trip.svg",
+  "d": "KTX from Yongsan in about 1.5 hours for roughly 34,400 won, bus 79 to the village, site fees and Nambu Market food, checked November 12, 2026.",
+  "s": "Destinations"
  }
 ];

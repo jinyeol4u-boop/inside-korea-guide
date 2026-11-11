@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a high-speed train beside a row of tile-roofed hanok houses and a bowl of bibimbap">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fd3f4"/><stop offset="1" stop-color="#fff3d6"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="1020" cy="130" r="62" fill="#ffd45a"/>
+<g fill="#fff" opacity=".93"><ellipse cx="260" cy="120" rx="100" ry="28"/><ellipse cx="340" cy="100" rx="60" ry="24"/><ellipse cx="700" cy="170" rx="85" ry="22"/></g>
+<path d="M0 380 Q200 270 420 360 T820 340 T1200 360 V470 H0Z" fill="#86b88f"/>
+<path d="M0 430 Q300 350 600 420 T1200 410 V500 H0Z" fill="#5f9a6b"/>
+<g fill="#e6572e"><circle cx="90" cy="410" r="34"/><circle cx="1110" cy="420" r="38" fill="#f2a22b"/></g>
+<rect x="84" y="430" width="12" height="50" fill="#7a5230"/><rect x="1104" y="440" width="12" height="46" fill="#7a5230"/>
+<rect y="500" width="1200" height="250" fill="#d9c7a0"/>
+<rect y="500" width="1200" height="14" fill="#b9a27a"/>
+<!-- hanok row -->
+<g>
+<rect x="250" y="360" width="200" height="130" fill="#f6ead2"/>
+<rect x="250" y="440" width="200" height="50" fill="#8a5a36"/>
+<g fill="#6b4226"><rect x="270" y="380" width="40" height="60"/><rect x="330" y="380" width="40" height="60"/><rect x="390" y="380" width="40" height="60"/></g>
+<path d="M200 365 Q350 300 500 365 L470 335 Q350 270 230 335Z" fill="#3b3f4a"/>
+<path d="M190 372 Q350 296 510 372 Q350 330 190 372Z" fill="#4a4f5c"/>
+<rect x="470" y="380" width="200" height="110" fill="#f6ead2"/>
+<g fill="#6b4226"><rect x="490" y="400" width="40" height="55"/><rect x="560" y="400" width="40" height="55"/><rect x="620" y="400" width="30" height="55"/></g>
+<path d="M440 385 Q570 330 700 385 L675 360 Q570 310 465 360Z" fill="#3b3f4a"/>
+<path d="M430 392 Q570 326 710 392 Q570 352 430 392Z" fill="#4a4f5c"/>
+</g>
+<!-- train -->
+<g>
+<rect x="640" y="560" width="520" height="86" rx="28" fill="#f4f6fa"/>
+<path d="M1030 560 H1100 Q1160 560 1160 600 V646 H1030Z" fill="#f4f6fa"/>
+<rect x="640" y="598" width="520" height="14" fill="#0e4c92"/>
+<rect x="640" y="612" width="520" height="8" fill="#d6232a"/>
+<g fill="#7ec8e8"><rect x="670" y="576" width="60" height="22" rx="5"/><rect x="750" y="576" width="60" height="22" rx="5"/><rect x="830" y="576" width="60" height="22" rx="5"/><rect x="910" y="576" width="60" height="22" rx="5"/><rect x="1050" y="574" width="70" height="24" rx="8"/></g>
+<g fill="#37405a"><circle cx="720" cy="652" r="14"/><circle cx="900" cy="652" r="14"/><circle cx="1070" cy="652" r="14"/></g>
+<rect x="520" y="660" width="680" height="10" fill="#8f8f98"/>
+</g>
+<!-- bibimbap bowl -->
+<g>
+<ellipse cx="230" cy="660" rx="150" ry="30" fill="#b9a27a" opacity=".6"/>
+<path d="M90 560 H370 Q360 668 230 672 Q100 668 90 560Z" fill="#c8502a"/>
+<ellipse cx="230" cy="560" rx="140" ry="34" fill="#fff4e0"/>
+<g>
+<path d="M130 556 Q150 530 190 548 L180 574 Q150 580 130 556Z" fill="#5fa84a"/>
+<path d="M200 546 Q230 526 262 548 L252 572 Q225 580 200 546Z" fill="#e8b54a"/>
+<path d="M272 550 Q300 534 328 556 Q312 578 284 574Z" fill="#9a5a2e"/>
+<path d="M175 572 Q210 590 250 574 L240 590 Q205 598 170 586Z" fill="#e8dfc7"/>
+<circle cx="228" cy="556" r="20" fill="#ffd45a"/><circle cx="228" cy="556" r="9" fill="#f2a22b"/>
+</g>
+</g>
+</svg>
