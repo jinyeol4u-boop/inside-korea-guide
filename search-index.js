@@ -1175,5 +1175,13 @@ window.IKG_INDEX=[
   "i": "/images/jeonju-hanok-village-ktx-day-trip.svg",
   "d": "KTX from Yongsan in about 1.5 hours for roughly 34,400 won, bus 79 to the village, site fees and Nambu Market food, checked November 12, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Korean Convenience Stores: A Tourist's Practical Guide",
+  "u": "/korean-convenience-stores-tourist-guide",
+  "p": "2026-11-20",
+  "i": "/images/korean-convenience-stores-tourist-guide.svg",
+  "d": "Chain store counts, banana milk and noodle favourites, selected-branch currency kiosks and tax refunds, plus what to confirm in store, checked November 20, 2026.",
+  "s": "Food"
  }
 ];
