@@ -1183,5 +1183,13 @@ window.IKG_INDEX=[
   "i": "/images/korean-convenience-stores-tourist-guide.svg",
   "d": "Chain store counts, banana milk and noodle favourites, selected-branch currency kiosks and tax refunds, plus what to confirm in store, checked November 20, 2026.",
   "s": "Food"
+ },
+ {
+  "t": "Munmu: KBS's Silla Epic Drama and Where to Visit",
+  "u": "/munmu-kbs-drama-where-to-visit",
+  "p": "2026-11-21",
+  "i": "/images/munmu-kbs-drama-where-to-visit.svg",
+  "d": "KBS 2TV's 28-episode Silla epic airs Sat and Sun 9:20 p.m. KST; where to stream it, King Munmu's sea tomb, the new Gyeongju museum and Mungyeong sets, checked November 21, 2026.",
+  "s": "Culture"
  }
 ];
