@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a cleanser tube, a dropper bottle, a moisturizer jar, a sunscreen tube, a folded sheet mask and a green leaf arranged on a pink counter">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE8EE"/><stop offset="1" stop-color="#FFC9D6"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<circle cx="1010" cy="140" r="90" fill="#FFD36B"/>
+<g stroke="#FFD36B" stroke-width="10" stroke-linecap="round"><line x1="1010" y1="10" x2="1010" y2="30"/><line x1="1140" y1="140" x2="1120" y2="140"/><line x1="900" y1="140" x2="880" y2="140"/><line x1="1100" y1="50" x2="1085" y2="65"/><line x1="920" y1="50" x2="935" y2="65"/></g>
+<g fill="#FFFFFF" opacity="0.6"><ellipse cx="200" cy="120" rx="120" ry="24"/><ellipse cx="520" cy="80" rx="90" ry="18"/></g>
+<rect y="560" width="1200" height="190" fill="#F4A9BC"/>
+<rect y="560" width="1200" height="14" fill="#E98FA6"/>
+<ellipse cx="600" cy="690" rx="470" ry="28" fill="#000" opacity="0.08"/>
+<!-- cleanser tube -->
+<g><path d="M110 560 L150 270 Q155 250 175 250 L215 250 Q235 250 240 270 L280 560 Z" fill="#7FD1C7"/>
+<rect x="150" y="215" width="90" height="40" rx="8" fill="#2E8F85"/>
+<rect x="165" y="170" width="60" height="48" rx="10" fill="#FFFFFF"/>
+<circle cx="195" cy="420" r="44" fill="#FFFFFF" opacity="0.85"/>
+<path d="M175 420 q20 -30 40 0 q-20 30 -40 0z" fill="#3FB1A4"/></g>
+<!-- dropper bottle -->
+<g><rect x="330" y="330" width="150" height="230" rx="26" fill="#B79CE6"/>
+<rect x="355" y="290" width="100" height="50" rx="10" fill="#6E4FB3"/>
+<path d="M385 290 v-70 q0 -30 20 -30 q20 0 20 30 v70z" fill="#FFFFFF"/>
+<ellipse cx="405" cy="180" rx="28" ry="36" fill="#6E4FB3"/>
+<rect x="355" y="400" width="100" height="90" rx="12" fill="#FFFFFF" opacity="0.85"/>
+<path d="M405 418 q-22 32 0 50 q22 -18 0 -50z" fill="#8A6BD1"/></g>
+<!-- jar -->
+<g><rect x="540" y="430" width="230" height="130" rx="22" fill="#FFFFFF"/>
+<rect x="525" y="380" width="260" height="60" rx="16" fill="#F7B267"/>
+<rect x="525" y="436" width="260" height="10" fill="#E39944"/>
+<circle cx="655" cy="500" r="30" fill="#FFD9A8"/></g>
+<!-- sunscreen tube -->
+<g><path d="M830 560 L860 290 Q864 270 884 270 L936 270 Q956 270 960 290 L990 560 Z" fill="#FFD36B"/>
+<rect x="865" y="235" width="90" height="40" rx="8" fill="#F28C28"/>
+<rect x="880" y="190" width="60" height="48" rx="10" fill="#FFFFFF"/>
+<circle cx="910" cy="420" r="46" fill="#FFFFFF" opacity="0.85"/>
+<circle cx="910" cy="420" r="20" fill="#F28C28"/>
+<g stroke="#F28C28" stroke-width="6" stroke-linecap="round"><line x1="910" y1="384" x2="910" y2="374"/><line x1="910" y1="456" x2="910" y2="466"/><line x1="874" y1="420" x2="864" y2="420"/><line x1="946" y1="420" x2="956" y2="420"/></g></g>
+<!-- sheet mask -->
+<g transform="translate(1060 600) rotate(-8)"><rect x="-70" y="-60" width="140" height="120" rx="14" fill="#FFFFFF" stroke="#E98FA6" stroke-width="4"/>
+<ellipse cx="-28" cy="-12" rx="18" ry="10" fill="#FFC9D6"/><ellipse cx="28" cy="-12" rx="18" ry="10" fill="#FFC9D6"/>
+<path d="M-18 24 q18 14 36 0" stroke="#E98FA6" stroke-width="6" fill="none" stroke-linecap="round"/></g>
+<!-- leaf -->
+<g transform="translate(700 620) rotate(-20)"><path d="M0 0 q60 -80 140 -20 q-40 90 -140 20z" fill="#5FB86A"/><path d="M5 0 q60 -30 125 -22" stroke="#2F7D3A" stroke-width="5" fill="none"/></g>
+</svg>

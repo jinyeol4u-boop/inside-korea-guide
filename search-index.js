@@ -1191,5 +1191,13 @@ window.IKG_INDEX=[
   "i": "/images/munmu-kbs-drama-where-to-visit.svg",
   "d": "KBS 2TV's 28-episode Silla epic airs Sat and Sun 9:20 p.m. KST; where to stream it, King Munmu's sea tomb, the new Gyeongju museum and Mungyeong sets, checked November 21, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Korean Skincare Routine Explained for Visitors",
+  "u": "/korean-skincare-routine-for-visitors",
+  "p": "2026-11-21",
+  "i": "/images/korean-skincare-routine-for-visitors.svg",
+  "d": "The real core of Korean skincare is cleanse, hydrate and sunscreen, not ten steps; MFDS functional cosmetics, what to buy first and patch-test tips, checked November 21, 2026.",
+  "s": "Culture"
  }
 ];
