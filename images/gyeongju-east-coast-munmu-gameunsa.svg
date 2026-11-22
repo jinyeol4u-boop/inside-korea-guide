@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of Gyeongju's east coast with a pagoda-shaped lighthouse, twin stone pagodas on a hill, pine trees, a rocky islet and a small harbour boat">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7EC8F0"/><stop offset="1" stop-color="#FDE9C9"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E8FCB"/><stop offset="1" stop-color="#14507E"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#sky)"/>
+<circle cx="980" cy="150" r="70" fill="#FFD36B"/>
+<g fill="#FFFFFF" opacity="0.8"><ellipse cx="260" cy="130" rx="120" ry="24"/><ellipse cx="540" cy="200" rx="90" ry="18"/><ellipse cx="820" cy="95" rx="70" ry="14"/></g>
+<rect y="360" width="1200" height="390" fill="url(#sea)"/>
+<g fill="#FFFFFF" opacity="0.3"><path d="M0 470 q50 -18 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 v14 H0z"/><path d="M0 560 q50 -18 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 v14 H0z"/></g>
+<path d="M760 420 q18 -36 50 -40 q28 -4 46 18 q22 8 28 22 z" fill="#4B4B5A"/>
+<path d="M0 360 q160 -90 330 -40 q120 30 260 90 V750 H0z" fill="#5FA35A"/>
+<path d="M0 560 q200 -60 420 -20 q120 20 220 80 V750 H0z" fill="#E7D4A0"/>
+<g fill="#2F6B3A"><path d="M90 470 l30 -90 l30 90z"/><path d="M130 490 l36 -110 l36 110z"/><path d="M210 480 l30 -80 l30 80z"/></g>
+<g fill="#6B4A2B"><rect x="115" y="468" width="10" height="26"/><rect x="161" y="486" width="10" height="26"/><rect x="235" y="476" width="10" height="24"/></g>
+<g fill="#B9B3A6" stroke="#7A7568" stroke-width="3"><rect x="330" y="330" width="70" height="20"/><rect x="338" y="296" width="54" height="34"/><rect x="346" y="272" width="38" height="24"/><polygon points="338,272 392,272 365,250"/><rect x="450" y="340" width="70" height="20"/><rect x="458" y="306" width="54" height="34"/><rect x="466" y="282" width="38" height="24"/><polygon points="458,282 512,282 485,260"/></g>
+<g stroke="#7A7568" stroke-width="3" fill="#C9C3B6"><rect x="640" y="400" width="80" height="22"/><rect x="652" y="350" width="56" height="50"/><rect x="662" y="308" width="36" height="42"/><rect x="668" y="270" width="24" height="38" fill="#FFE39A"/><polygon points="662,270 698,270 680,244" fill="#B04A3A"/></g>
+<g stroke="#FFE39A" stroke-width="4" opacity="0.8"><line x1="680" y1="262" x2="610" y2="230"/><line x1="680" y1="262" x2="750" y2="230"/></g>
+<g fill="#7C8A92" stroke="#4F5B62" stroke-width="2"><polygon points="900,560 925,500 950,560"/><polygon points="950,560 975,490 1000,560"/><polygon points="1000,560 1020,505 1045,560"/><polygon points="1045,560 1070,495 1095,560"/></g>
+<g transform="translate(860,640)"><path d="M0 0 h120 l-20 36 h-80z" fill="#C0392B"/><rect x="50" y="-40" width="6" height="40" fill="#6B4A2B"/><polygon points="56,-40 56,-6 96,-6" fill="#FFFFFF"/></g>
+</svg>

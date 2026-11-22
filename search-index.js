@@ -1207,5 +1207,13 @@ window.IKG_INDEX=[
   "i": "/images/kpop-year-end-award-shows-2026.svg",
   "d": "Melon (Nov 14-15) and MAMA (Nov 20-21) are over; AAA runs Dec 5-6 in Taiwan and Golden Disc Jan 9-10 in Hanoi, with streaming details, checked November 22, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Gyeongju East Coast: King Munmu's Tomb and Gameunsa",
+  "u": "/gyeongju-east-coast-munmu-gameunsa",
+  "p": "2026-11-22",
+  "i": "/images/gyeongju-east-coast-munmu-gameunsa.svg",
+  "d": "Munmu's sea tomb, Gameunsa Temple Site, Igyeondae and Gampo Port within 15 minutes of each other, with bus 150 and half-day route, checked November 22, 2026.",
+  "s": "Destinations"
  }
 ];
