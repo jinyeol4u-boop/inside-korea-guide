@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a stadium stage with spotlight beams, a golden trophy, a red carpet, a laptop and phone showing a play button, and glowing lightsticks in the crowd">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B1B5A"/><stop offset="1" stop-color="#6A3FA0"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE27A"/><stop offset="1" stop-color="#E5A21F"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<g fill="#FFFFFF" opacity="0.8"><circle cx="90" cy="80" r="4"/><circle cx="260" cy="140" r="3"/><circle cx="430" cy="60" r="4"/><circle cx="780" cy="90" r="3"/><circle cx="960" cy="150" r="4"/><circle cx="1110" cy="70" r="3"/><circle cx="640" cy="40" r="3"/></g>
+<polygon points="250,0 330,0 470,470 130,470" fill="url(#beam)"/>
+<polygon points="870,0 950,0 1070,470 730,470" fill="url(#beam)"/>
+<polygon points="560,0 640,0 760,470 440,470" fill="url(#beam)" opacity="0.7"/>
+<rect x="190" y="400" width="820" height="40" rx="10" fill="#4A2C86"/>
+<rect x="150" y="440" width="900" height="70" fill="#3A2270"/>
+<rect x="560" y="510" width="80" height="240" fill="#D8344F"/>
+<polygon points="560,510 640,510 760,750 440,750" fill="#E54863"/>
+<g transform="translate(600 150)">
+<path d="M-70 0 H70 V60 Q70 150 0 170 Q-70 150 -70 60 Z" fill="url(#gold)"/>
+<path d="M-70 20 Q-130 20 -110 90 Q-100 120 -64 120" fill="none" stroke="#E5A21F" stroke-width="16"/>
+<path d="M70 20 Q130 20 110 90 Q100 120 64 120" fill="none" stroke="#E5A21F" stroke-width="16"/>
+<rect x="-14" y="165" width="28" height="60" fill="#E5A21F"/>
+<rect x="-60" y="220" width="120" height="36" rx="8" fill="url(#gold)"/>
+<polygon points="0,30 12,62 46,62 18,82 28,115 0,95 -28,115 -18,82 -46,62 -12,62" fill="#FFF6CC"/>
+</g>
+<g transform="translate(210 520)"><rect width="190" height="124" rx="10" fill="#1E1440"/><rect x="10" y="10" width="170" height="104" rx="4" fill="#7E5BC9"/><polygon points="80,38 80,86 124,62" fill="#FFFFFF"/><rect x="-25" y="124" width="240" height="14" rx="7" fill="#C9C3DC"/></g>
+<g transform="translate(830 520)"><rect width="84" height="150" rx="14" fill="#1E1440"/><rect x="8" y="14" width="68" height="122" rx="6" fill="#2FB5A8"/><polygon points="30,60 30,92 56,76" fill="#FFFFFF"/></g>
+<g>
+<g transform="translate(60 600) rotate(-12)"><rect x="-6" y="0" width="12" height="90" rx="6" fill="#DDD6EE"/><circle cx="0" cy="-8" r="22" fill="#FF6FA5"/></g>
+<g transform="translate(130 640) rotate(8)"><rect x="-6" y="0" width="12" height="90" rx="6" fill="#DDD6EE"/><circle cx="0" cy="-8" r="22" fill="#5DD6C6"/></g>
+<g transform="translate(1060 610) rotate(10)"><rect x="-6" y="0" width="12" height="90" rx="6" fill="#DDD6EE"/><circle cx="0" cy="-8" r="22" fill="#FFD36B"/></g>
+<g transform="translate(1135 650) rotate(-8)"><rect x="-6" y="0" width="12" height="90" rx="6" fill="#DDD6EE"/><circle cx="0" cy="-8" r="22" fill="#8EB8FF"/></g>
+</g>
+</svg>
