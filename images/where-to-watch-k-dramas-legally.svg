@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a television, a laptop and a phone around a small globe, with play buttons, popcorn and a cozy lamp">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2B2A6B"/><stop offset="1" stop-color="#8A3FA8"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8FA3"/><stop offset="1" stop-color="#FFC857"/></linearGradient>
+</defs>
+<rect width="1200" height="750" fill="url(#bg)"/>
+<g fill="#FFFFFF" opacity="0.7"><circle cx="120" cy="90" r="4"/><circle cx="300" cy="50" r="3"/><circle cx="980" cy="80" r="4"/><circle cx="1100" cy="170" r="3"/><circle cx="700" cy="40" r="3"/><circle cx="60" cy="300" r="3"/></g>
+<rect x="0" y="600" width="1200" height="150" fill="#1B1A4A"/>
+<rect x="300" y="150" width="600" height="360" rx="22" fill="#14133A"/>
+<rect x="322" y="172" width="556" height="316" rx="10" fill="url(#scr)"/>
+<circle cx="600" cy="330" r="62" fill="#FFFFFF" opacity="0.92"/>
+<path d="M582 296 L582 364 L638 330 Z" fill="#E4455F"/>
+<rect x="560" y="510" width="80" height="40" fill="#14133A"/>
+<rect x="470" y="548" width="260" height="20" rx="10" fill="#14133A"/>
+<g transform="translate(90 330)"><rect width="190" height="120" rx="8" fill="#14133A"/><rect x="12" y="12" width="166" height="96" rx="4" fill="#5FD0C5"/><path d="M80 40 L80 80 L116 60 Z" fill="#FFFFFF"/><rect x="-20" y="120" width="230" height="16" rx="8" fill="#0E0D2B"/></g>
+<g transform="translate(940 300)"><rect width="110" height="200" rx="18" fill="#14133A"/><rect x="10" y="22" width="90" height="156" rx="6" fill="#FFB86B"/><path d="M44 80 L44 120 L72 100 Z" fill="#FFFFFF"/></g>
+<g transform="translate(600 610)"><circle r="46" fill="#4FA3E0"/><path d="M-46 0 H46 M0 -46 V46 M-30 -34 Q0 0 -30 34 M30 -34 Q0 0 30 34" stroke="#FFFFFF" stroke-width="3" fill="none"/></g>
+<g transform="translate(220 560)"><path d="M0 0 L16 80 H84 L100 0 Z" fill="#E4455F"/><g fill="#FFF3C4"><circle cx="20" cy="-6" r="16"/><circle cx="50" cy="-14" r="18"/><circle cx="80" cy="-6" r="16"/></g><g stroke="#FFFFFF" stroke-width="8"><path d="M24 4 L34 80 M50 4 V80 M76 4 L66 80"/></g></g>
+<g transform="translate(940 560)"><rect x="20" y="40" width="10" height="60" fill="#FFD36B"/><path d="M-10 40 L20 0 H60 L90 40 Z" fill="#FFD36B"/><ellipse cx="25" cy="104" rx="40" ry="8" fill="#0E0D2B"/></g>
+</svg>

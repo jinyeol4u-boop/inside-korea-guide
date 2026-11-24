@@ -1215,5 +1215,13 @@ window.IKG_INDEX=[
   "i": "/images/gyeongju-east-coast-munmu-gameunsa.svg",
   "d": "Munmu's sea tomb, Gameunsa Temple Site, Igyeondae and Gampo Port within 15 minutes of each other, with bus 150 and half-day route, checked November 22, 2026.",
   "s": "Destinations"
+ },
+ {
+  "t": "Where to Watch K-Dramas Legally Outside Korea",
+  "u": "/where-to-watch-k-dramas-legally",
+  "p": "2026-11-24",
+  "i": "/images/where-to-watch-k-dramas-legally.svg",
+  "d": "KOCOWA+, Viki, Netflix and free options compared by region, with plan prices checked November 24, 2026.",
+  "s": "Culture"
  }
 ];
