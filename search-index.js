@@ -1223,5 +1223,13 @@ window.IKG_INDEX=[
   "i": "/images/where-to-watch-k-dramas-legally.svg",
   "d": "KOCOWA+, Viki, Netflix and free options compared by region, with plan prices checked November 24, 2026.",
   "s": "Culture"
+ },
+ {
+  "t": "Blue Dragon Film Awards 2026: Korea's Top Movie Night",
+  "u": "/blue-dragon-film-awards-2026-guide",
+  "p": "2026-11-25",
+  "i": "/images/blue-dragon-film-awards-2026-guide.svg",
+  "d": "47th Blue Dragon Film Awards on Nov 25 at KBS Hall via KBS2: nominees, fan-vote facts and how to follow, checked November 25, 2026.",
+  "s": "Culture"
  }
 ];
