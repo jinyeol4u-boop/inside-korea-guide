@@ -1231,5 +1231,13 @@ window.IKG_INDEX=[
   "i": "/images/blue-dragon-film-awards-2026-guide.svg",
   "d": "47th Blue Dragon Film Awards on Nov 25 at KBS Hall via KBS2: nominees, fan-vote facts and how to follow, checked November 25, 2026.",
   "s": "Culture"
+ },
+ {
+   "t": "Myeongdong K-Beauty Street: How to Shop Cosmetics",
+   "u": "/myeongdong-k-beauty-street-guide",
+   "p": "2026-11-26",
+   "i": "/images/myeongdong-k-beauty-street-guide.svg",
+   "d": "Store types, testers, price checks, tax refunds and liquid packing rules for cosmetics shopping in Myeongdong.",
+   "s": "Culture"
  }
 ];
