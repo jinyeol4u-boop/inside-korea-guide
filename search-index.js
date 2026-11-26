@@ -1239,5 +1239,6 @@ window.IKG_INDEX=[
    "i": "/images/myeongdong-k-beauty-street-guide.svg",
    "d": "Store types, testers, price checks, tax refunds and liquid packing rules for cosmetics shopping in Myeongdong.",
    "s": "Culture"
- }
+ },
+ {"t": "How to Watch a K-Pop Music Show Recording in Seoul", "u": "/kpop-music-show-recording-seoul", "p": "2026-11-26", "i": "/images/kpop-music-show-recording-seoul.svg", "d": "How to apply for Inkigayo, Music Bank, M Countdown and Music Core audiences, with ID, age and etiquette rules, checked November 26, 2026.", "s": "Culture"}
 ];
