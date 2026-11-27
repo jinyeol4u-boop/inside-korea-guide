@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-label="Illustration of a mountain gate, period houses, trail, train and clapperboard">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4C8FD6"/><stop offset="1" stop-color="#FFE0B0"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/><circle cx="960" cy="130" r="62" fill="#FFD25A"/>
+<path d="M0 420L190 150L370 390L560 120L800 420L1000 210L1200 400V750H0Z" fill="#5B6F9E"/>
+<path d="M141 220L190 150L242 220L210 205L190 232L168 205ZM505 195L560 120L620 195L585 182L558 215L535 182Z" fill="#FFFFFF"/>
+<path d="M0 470Q260 350 540 460T1200 430V750H0Z" fill="#4E8A5E"/><path d="M0 560Q330 490 650 560T1200 540V750H0Z" fill="#8CB369"/>
+<path d="M520 750C560 660 500 610 560 560S600 500 600 470L650 470C660 520 620 540 650 590S720 680 780 750Z" fill="#E6C48F"/>
+<rect x="460" y="350" width="330" height="150" fill="#B9B3A6"/><path d="M580 500V440a45 45 0 0 1 90 0v60Z" fill="#4A3B33"/>
+<g stroke="#8E887C" stroke-width="3"><path d="M460 385H790M460 420H575M675 420H790M460 455H575M675 455H790"/></g>
+<rect x="505" y="290" width="240" height="60" fill="#B8453A"/><g fill="#6E2B24"><rect x="530" y="300" width="14" height="50"/><rect x="590" y="300" width="14" height="50"/><rect x="646" y="300" width="14" height="50"/><rect x="706" y="300" width="14" height="50"/></g>
+<path d="M455 295Q520 288 540 245H710Q730 288 795 295Q720 310 625 305Q530 310 455 295Z" fill="#2F3A4A"/><rect x="535" y="238" width="180" height="12" rx="6" fill="#1F2733"/>
+<rect x="90" y="500" width="130" height="70" fill="#F3E7D0"/><rect x="140" y="522" width="30" height="48" fill="#7A5236"/><path d="M68 508Q105 500 115 465H195Q205 500 242 508Z" fill="#3B4658"/>
+<rect x="250" y="535" width="130" height="70" fill="#F3E7D0"/><rect x="300" y="557" width="30" height="48" fill="#7A5236"/><path d="M228 543Q265 535 275 500H355Q365 535 402 543Z" fill="#3B4658"/>
+<path d="M370 590q55-75 110 0Z" fill="#C99A45"/><rect x="383" y="588" width="84" height="38" fill="#F3E7D0"/>
+<path d="M800 600H1100Q1170 605 1185 655H800Z" fill="#1F5FAE"/><rect x="800" y="636" width="370" height="9" fill="#FFFFFF"/>
+<rect x="820" y="612" width="34" height="18" rx="4" fill="#CFE8FF"/>
+<rect x="872" y="612" width="34" height="18" rx="4" fill="#CFE8FF"/>
+<rect x="924" y="612" width="34" height="18" rx="4" fill="#CFE8FF"/>
+<rect x="976" y="612" width="34" height="18" rx="4" fill="#CFE8FF"/>
+<rect x="1028" y="612" width="34" height="18" rx="4" fill="#CFE8FF"/>
+<g fill="#2B2B2B"><circle cx="840" cy="660" r="12"/><circle cx="880" cy="660" r="12"/><circle cx="1060" cy="660" r="12"/><circle cx="1100" cy="660" r="12"/></g><rect x="780" y="672" width="420" height="7" fill="#5A4A3A"/>
+<g transform="translate(80 640) rotate(-6)"><rect width="150" height="80" rx="6" fill="#222"/><rect y="-28" width="150" height="24" fill="#FFF"/><path d="M15 -28h22l-14 24H1ZM60 -28h22l-14 24H46ZM105 -28h22l-14 24H91Z" fill="#222"/><path d="M15 28H135M15 55H100" stroke="#FFF" stroke-width="5"/></g>
+<rect x="355" y="470" width="10" height="45" fill="#6B4A32"/><circle cx="360" cy="470" r="36" fill="#D9622B"/>
+<rect x="845" y="500" width="10" height="45" fill="#6B4A32"/><circle cx="850" cy="500" r="36" fill="#C9402F"/>
+<rect x="925" y="520" width="10" height="45" fill="#6B4A32"/><circle cx="930" cy="520" r="36" fill="#E39A2D"/>
+<rect x="1095" y="495" width="10" height="45" fill="#6B4A32"/><circle cx="1100" cy="495" r="36" fill="#2F6B45"/>
+</svg>
